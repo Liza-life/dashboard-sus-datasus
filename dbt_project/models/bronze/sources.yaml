@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: sus
+    description: "Dados brutos do SUS carregados via Python + DuckDB"
+    schema: main
+    tables:
+      - name: sih_raw
+        description: "Internações hospitalares do SIH/DATASUS — 2022 e 2023"

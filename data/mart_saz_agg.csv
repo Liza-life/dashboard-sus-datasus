@@ -1,0 +1,13 @@
+﻿mes;nome_mes;estacao;total_internacoes;custo_total
+1;Janeiro;Verão;4219,0;28680651,49
+2;Fevereiro;Verão;4164,0;27572240,8
+3;Março;Outono;4080,0;27467420,39
+4;Abril;Outono;4162,0;20130165,91
+5;Maio;Outono;4138,0;19831594,72
+6;Junho;Inverno;4119,0;22891232,34
+7;Julho;Inverno;4177,0;23404081,96
+8;Agosto;Inverno;4159,0;24105876,46
+9;Setembro;Primavera;4232,0;20286957,05
+10;Outubro;Primavera;4246,0;20421330,27
+11;Novembro;Primavera;4155,0;19640244,57
+12;Dezembro;Verão;4149,0;19948618,58

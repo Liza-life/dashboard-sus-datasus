@@ -1,0 +1,34 @@
+version: 2
+
+models:
+  - name: mart_internacoes_uf
+    description: "Internações por UF e período — pronto para Power BI"
+    columns:
+      - name: uf
+        tests: [not_null]
+      - name: total_internacoes
+        tests: [not_null]
+      - name: custo_total
+        tests: [not_null]
+
+  - name: mart_top_doencas
+    description: "Ranking de doenças por CID, UF e ano"
+    columns:
+      - name: cid_principal
+        tests: [not_null]
+      - name: total_casos
+        tests: [not_null]
+
+  - name: mart_sazonalidade
+    description: "Evolução mensal das internações"
+    columns:
+      - name: mes
+        tests: [not_null]
+
+  - name: mart_perfil_demografico
+    description: "Perfil dos pacientes por faixa etária, sexo, UF e ano"
+    columns:
+      - name: sexo
+        tests: [not_null]
+      - name: faixa_etaria
+        tests: [not_null]

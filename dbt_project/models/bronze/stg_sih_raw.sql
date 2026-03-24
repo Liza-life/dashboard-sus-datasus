@@ -1,0 +1,1 @@
+SELECT * FROM {{ source('sus', 'sih_raw') }}

@@ -1,0 +1,16 @@
+﻿desc_cid;cid_principal;total_casos;custo_total;custo_medio_caso;media_dias;casos_urgencia
+Pneumonia;J18;5947,0;23063507,99;3863,04;5,2;3589,0
+Parto Normal;O80;4951,0;12262065,4;2472,28;5,1;2976,0
+Infecção Urinária;N39;4507,0;7460533,78;1658,86;5,0;2738,0
+Infarto Agudo do Miocárdio;I21;3971,0;65250371,32;16391,09;5,1;2376,0
+Diabetes Mellitus Tipo 2;E11;3956,0;12112958,5;3062,14;5,1;2415,0
+Dengue;A90;3508,0;7251362,07;2066,64;5,1;2145,0
+Diarreia e Gastroenterite;A09;3460,0;4317367,75;1250,61;5,3;2095,0
+Acidente Vascular Cerebral;I64;3040,0;33271875,72;10901,91;5,0;1796,0
+Apendicite Aguda;K35;3003,0;18440379,64;6151,28;5,2;1789,0
+Episódio Depressivo;F32;2618,0;8979672,02;3431,55;5,3;1574,0
+Dorsalgia;M54;2545,0;6284751,24;2469,25;5,2;1540,0
+DPOC;J44;2465,0;11871967,68;4808,74;5,3;1466,0
+Epilepsia;G40;2429,0;10779563,77;4450,66;5,3;1506,0
+Neoplasia Maligna da Mama;C50;2059,0;42450745,34;20674,29;5,1;1221,0
+Doença pelo HIV;B24;1541,0;10583292,32;6824,4;5,2;919,0

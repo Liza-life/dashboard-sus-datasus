@@ -1,0 +1,1438 @@
+﻿ano,mes,nome_mes,estacao,regiao,cid_principal,desc_cid,total_internacoes,custo_total,ticket_medio,media_dias
+2022,1,Janeiro,Verão,Sul,A09,Diarreia e Gastroenterite,15,19742.6,1316.17,4.2
+2022,1,Janeiro,Verão,Sudeste,A09,Diarreia e Gastroenterite,72,113550.37,1577.09,5.7
+2022,1,Janeiro,Verão,Centro-Oeste,A09,Diarreia e Gastroenterite,5,6105.21,1221.04,2.6
+2022,1,Janeiro,Verão,Nordeste,A09,Diarreia e Gastroenterite,29,45811.71,1579.71,4.2
+2022,1,Janeiro,Verão,Centro-Oeste,A90,Dengue,7,17933.79,2561.97,10.6
+2022,1,Janeiro,Verão,Sudeste,A90,Dengue,77,184576.05,2397.09,4.8
+2022,1,Janeiro,Verão,Sul,A90,Dengue,29,73552.87,2536.31,4.3
+2022,1,Janeiro,Verão,Nordeste,A90,Dengue,31,81559.97,2630.97,5.7
+2022,1,Janeiro,Verão,Sul,B24,Doença pelo HIV,15,116683.72,7778.91,5.1
+2022,1,Janeiro,Verão,Nordeste,B24,Doença pelo HIV,14,107975.6,7712.54,4.8
+2022,1,Janeiro,Verão,Sudeste,B24,Doença pelo HIV,28,255472.05,9124.0,4.1
+2022,1,Janeiro,Verão,Centro-Oeste,B24,Doença pelo HIV,5,32759.65,6551.93,4.8
+2022,1,Janeiro,Verão,Sul,C50,Neoplasia Maligna da Mama,15,376382.08,25092.14,5.5
+2022,1,Janeiro,Verão,Sudeste,C50,Neoplasia Maligna da Mama,46,1207276.29,26245.14,4.5
+2022,1,Janeiro,Verão,Centro-Oeste,C50,Neoplasia Maligna da Mama,2,56424.92,28212.46,2.0
+2022,1,Janeiro,Verão,Nordeste,C50,Neoplasia Maligna da Mama,10,248774.44,24877.44,5.1
+2022,1,Janeiro,Verão,Sudeste,E11,Diabetes Mellitus Tipo 2,88,317037.04,3602.69,4.9
+2022,1,Janeiro,Verão,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,6,22533.59,3755.6,10.3
+2022,1,Janeiro,Verão,Nordeste,E11,Diabetes Mellitus Tipo 2,29,112456.44,3877.81,4.5
+2022,1,Janeiro,Verão,Sul,E11,Diabetes Mellitus Tipo 2,33,119812.45,3630.68,5.2
+2022,1,Janeiro,Verão,Sudeste,F32,Episódio Depressivo,64,272923.74,4264.43,4.6
+2022,1,Janeiro,Verão,Centro-Oeste,F32,Episódio Depressivo,5,20629.98,4126.0,10.0
+2022,1,Janeiro,Verão,Sul,F32,Episódio Depressivo,29,130456.37,4498.5,6.1
+2022,1,Janeiro,Verão,Nordeste,F32,Episódio Depressivo,21,99328.58,4729.93,4.5
+2022,1,Janeiro,Verão,Sul,G40,Epilepsia,21,112065.26,5336.44,3.8
+2022,1,Janeiro,Verão,Centro-Oeste,G40,Epilepsia,1,2709.66,2709.66,9.0
+2022,1,Janeiro,Verão,Sudeste,G40,Epilepsia,54,309219.73,5726.29,5.0
+2022,1,Janeiro,Verão,Nordeste,G40,Epilepsia,14,76580.87,5470.06,5.8
+2022,1,Janeiro,Verão,Centro-Oeste,I21,Infarto Agudo do Miocárdio,11,229043.83,20822.17,2.8
+2022,1,Janeiro,Verão,Sul,I21,Infarto Agudo do Miocárdio,19,392373.59,20651.24,5.3
+2022,1,Janeiro,Verão,Nordeste,I21,Infarto Agudo do Miocárdio,26,515718.77,19835.34,5.6
+2022,1,Janeiro,Verão,Sudeste,I21,Infarto Agudo do Miocárdio,96,1961217.85,20429.35,5.4
+2022,1,Janeiro,Verão,Nordeste,I64,Acidente Vascular Cerebral,14,208742.16,14910.15,3.8
+2022,1,Janeiro,Verão,Sudeste,I64,Acidente Vascular Cerebral,57,739936.61,12981.34,4.9
+2022,1,Janeiro,Verão,Centro-Oeste,I64,Acidente Vascular Cerebral,3,37348.56,12449.52,2.0
+2022,1,Janeiro,Verão,Sul,I64,Acidente Vascular Cerebral,26,336033.71,12924.37,6.2
+2022,1,Janeiro,Verão,Nordeste,J18,Pneumonia,41,192367.6,4691.89,4.6
+2022,1,Janeiro,Verão,Sudeste,J18,Pneumonia,146,679633.2,4655.02,5.0
+2022,1,Janeiro,Verão,Sul,J18,Pneumonia,51,230393.7,4517.52,4.9
+2022,1,Janeiro,Verão,Centro-Oeste,J18,Pneumonia,16,84367.02,5272.94,6.3
+2022,1,Janeiro,Verão,Sudeste,J44,DPOC,62,369259.29,5955.8,4.9
+2022,1,Janeiro,Verão,Sul,J44,DPOC,17,106544.06,6267.3,5.9
+2022,1,Janeiro,Verão,Nordeste,J44,DPOC,15,89464.69,5964.31,4.8
+2022,1,Janeiro,Verão,Centro-Oeste,J44,DPOC,1,5869.8,5869.8,4.0
+2022,1,Janeiro,Verão,Sudeste,K35,Apendicite Aguda,75,585594.81,7807.93,4.9
+2022,1,Janeiro,Verão,Nordeste,K35,Apendicite Aguda,23,184685.43,8029.8,4.3
+2022,1,Janeiro,Verão,Centro-Oeste,K35,Apendicite Aguda,5,40455.59,8091.12,5.0
+2022,1,Janeiro,Verão,Sul,K35,Apendicite Aguda,22,153507.01,6977.59,5.4
+2022,1,Janeiro,Verão,Sul,M54,Dorsalgia,13,39717.17,3055.17,3.5
+2022,1,Janeiro,Verão,Sudeste,M54,Dorsalgia,44,139387.34,3167.89,4.6
+2022,1,Janeiro,Verão,Centro-Oeste,M54,Dorsalgia,4,11336.1,2834.03,4.8
+2022,1,Janeiro,Verão,Nordeste,M54,Dorsalgia,25,72483.39,2899.34,5.4
+2022,1,Janeiro,Verão,Nordeste,N39,Infecção Urinária,30,62809.95,2093.67,4.4
+2022,1,Janeiro,Verão,Sudeste,N39,Infecção Urinária,84,161564.87,1923.39,5.2
+2022,1,Janeiro,Verão,Sul,N39,Infecção Urinária,31,59353.21,1914.62,4.5
+2022,1,Janeiro,Verão,Centro-Oeste,N39,Infecção Urinária,10,19385.49,1938.55,4.7
+2022,1,Janeiro,Verão,Sul,O80,Parto Normal,33,101836.91,3085.97,5.3
+2022,1,Janeiro,Verão,Centro-Oeste,O80,Parto Normal,7,21601.17,3085.88,5.1
+2022,1,Janeiro,Verão,Nordeste,O80,Parto Normal,36,114846.51,3190.18,4.4
+2022,1,Janeiro,Verão,Sudeste,O80,Parto Normal,92,276963.49,3010.47,4.5
+2022,2,Fevereiro,Verão,Sul,A09,Diarreia e Gastroenterite,28,45031.93,1608.28,4.4
+2022,2,Fevereiro,Verão,Sudeste,A09,Diarreia e Gastroenterite,78,120614.19,1546.34,5.2
+2022,2,Fevereiro,Verão,Nordeste,A09,Diarreia e Gastroenterite,28,41898.5,1496.38,4.3
+2022,2,Fevereiro,Verão,Centro-Oeste,A09,Diarreia e Gastroenterite,8,13453.17,1681.65,4.6
+2022,2,Fevereiro,Verão,Centro-Oeste,A90,Dengue,10,25028.45,2502.84,4.9
+2022,2,Fevereiro,Verão,Nordeste,A90,Dengue,23,56213.08,2444.05,4.6
+2022,2,Fevereiro,Verão,Sudeste,A90,Dengue,70,184088.8,2629.84,4.5
+2022,2,Fevereiro,Verão,Sul,A90,Dengue,22,54977.8,2498.99,6.7
+2022,2,Fevereiro,Verão,Nordeste,B24,Doença pelo HIV,10,82772.54,8277.25,3.2
+2022,2,Fevereiro,Verão,Sul,B24,Doença pelo HIV,9,66380.4,7375.6,3.4
+2022,2,Fevereiro,Verão,Sudeste,B24,Doença pelo HIV,30,267325.41,8910.85,5.0
+2022,2,Fevereiro,Verão,Centro-Oeste,B24,Doença pelo HIV,4,39126.72,9781.68,4.8
+2022,2,Fevereiro,Verão,Nordeste,C50,Neoplasia Maligna da Mama,18,488766.14,27153.67,4.8
+2022,2,Fevereiro,Verão,Sudeste,C50,Neoplasia Maligna da Mama,52,1300117.84,25002.27,5.6
+2022,2,Fevereiro,Verão,Centro-Oeste,C50,Neoplasia Maligna da Mama,1,20404.86,20404.86,14.0
+2022,2,Fevereiro,Verão,Sul,C50,Neoplasia Maligna da Mama,13,320673.77,24667.21,5.1
+2022,2,Fevereiro,Verão,Sudeste,E11,Diabetes Mellitus Tipo 2,91,333974.02,3670.04,5.4
+2022,2,Fevereiro,Verão,Nordeste,E11,Diabetes Mellitus Tipo 2,21,80965.05,3855.48,5.6
+2022,2,Fevereiro,Verão,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,9,33906.94,3767.44,6.9
+2022,2,Fevereiro,Verão,Sul,E11,Diabetes Mellitus Tipo 2,28,105764.6,3777.31,5.8
+2022,2,Fevereiro,Verão,Nordeste,F32,Episódio Depressivo,23,100759.68,4380.86,6.7
+2022,2,Fevereiro,Verão,Centro-Oeste,F32,Episódio Depressivo,4,21618.13,5404.53,2.5
+2022,2,Fevereiro,Verão,Sul,F32,Episódio Depressivo,26,98429.49,3785.75,4.6
+2022,2,Fevereiro,Verão,Sudeste,F32,Episódio Depressivo,57,231251.46,4057.04,5.3
+2022,2,Fevereiro,Verão,Centro-Oeste,G40,Epilepsia,4,24471.03,6117.76,3.0
+2022,2,Fevereiro,Verão,Nordeste,G40,Epilepsia,24,132764.32,5531.85,7.7
+2022,2,Fevereiro,Verão,Sul,G40,Epilepsia,26,145286.08,5587.93,5.0
+2022,2,Fevereiro,Verão,Sudeste,G40,Epilepsia,55,292101.19,5310.93,5.1
+2022,2,Fevereiro,Verão,Nordeste,I21,Infarto Agudo do Miocárdio,29,548665.05,18919.48,4.9
+2022,2,Fevereiro,Verão,Sul,I21,Infarto Agudo do Miocárdio,31,606710.83,19571.32,6.1
+2022,2,Fevereiro,Verão,Sudeste,I21,Infarto Agudo do Miocárdio,81,1624152.18,20051.26,5.2
+2022,2,Fevereiro,Verão,Centro-Oeste,I21,Infarto Agudo do Miocárdio,4,85241.73,21310.43,2.3
+2022,2,Fevereiro,Verão,Sul,I64,Acidente Vascular Cerebral,17,264494.45,15558.5,4.5
+2022,2,Fevereiro,Verão,Nordeste,I64,Acidente Vascular Cerebral,25,366881.32,14675.25,4.1
+2022,2,Fevereiro,Verão,Centro-Oeste,I64,Acidente Vascular Cerebral,4,47698.06,11924.52,6.3
+2022,2,Fevereiro,Verão,Sudeste,I64,Acidente Vascular Cerebral,74,1010950.35,13661.49,5.1
+2022,2,Fevereiro,Verão,Nordeste,J18,Pneumonia,43,196745.52,4575.48,4.6
+2022,2,Fevereiro,Verão,Sudeste,J18,Pneumonia,112,542882.9,4847.17,5.1
+2022,2,Fevereiro,Verão,Sul,J18,Pneumonia,35,179495.51,5128.44,4.3
+2022,2,Fevereiro,Verão,Centro-Oeste,J18,Pneumonia,18,89826.42,4990.36,3.6
+2022,2,Fevereiro,Verão,Centro-Oeste,J44,DPOC,6,41848.12,6974.69,6.2
+2022,2,Fevereiro,Verão,Sudeste,J44,DPOC,49,275940.67,5631.44,4.9
+2022,2,Fevereiro,Verão,Nordeste,J44,DPOC,18,96567.5,5364.86,3.9
+2022,2,Fevereiro,Verão,Sul,J44,DPOC,22,123469.1,5612.23,6.7
+2022,2,Fevereiro,Verão,Centro-Oeste,K35,Apendicite Aguda,1,8948.15,8948.15,4.0
+2022,2,Fevereiro,Verão,Nordeste,K35,Apendicite Aguda,19,145076.15,7635.59,4.7
+2022,2,Fevereiro,Verão,Sul,K35,Apendicite Aguda,18,128967.44,7164.86,3.9
+2022,2,Fevereiro,Verão,Sudeste,K35,Apendicite Aguda,52,391578.46,7530.35,6.3
+2022,2,Fevereiro,Verão,Centro-Oeste,M54,Dorsalgia,5,14171.88,2834.38,5.0
+2022,2,Fevereiro,Verão,Sul,M54,Dorsalgia,20,60230.56,3011.53,4.2
+2022,2,Fevereiro,Verão,Sudeste,M54,Dorsalgia,55,164707.11,2994.67,4.9
+2022,2,Fevereiro,Verão,Nordeste,M54,Dorsalgia,14,41227.5,2944.82,5.6
+2022,2,Fevereiro,Verão,Sudeste,N39,Infecção Urinária,105,212530.85,2024.1,4.7
+2022,2,Fevereiro,Verão,Nordeste,N39,Infecção Urinária,42,83601.42,1990.51,5.4
+2022,2,Fevereiro,Verão,Sul,N39,Infecção Urinária,27,62660.46,2320.76,5.3
+2022,2,Fevereiro,Verão,Centro-Oeste,N39,Infecção Urinária,4,9563.25,2390.81,3.0
+2022,2,Fevereiro,Verão,Sudeste,O80,Parto Normal,116,350705.74,3023.33,5.1
+2022,2,Fevereiro,Verão,Sul,O80,Parto Normal,35,106210.5,3034.59,4.3
+2022,2,Fevereiro,Verão,Nordeste,O80,Parto Normal,30,92101.37,3070.05,4.9
+2022,2,Fevereiro,Verão,Centro-Oeste,O80,Parto Normal,12,36451.36,3037.61,2.5
+2022,3,Março,Outono,Nordeste,A09,Diarreia e Gastroenterite,24,37590.1,1566.25,5.1
+2022,3,Março,Outono,Centro-Oeste,A09,Diarreia e Gastroenterite,8,13611.79,1701.47,5.1
+2022,3,Março,Outono,Sul,A09,Diarreia e Gastroenterite,25,37962.5,1518.5,5.4
+2022,3,Março,Outono,Sudeste,A09,Diarreia e Gastroenterite,77,112949.14,1466.87,5.6
+2022,3,Março,Outono,Nordeste,A90,Dengue,24,60016.87,2500.7,6.1
+2022,3,Março,Outono,Centro-Oeste,A90,Dengue,14,36632.69,2616.62,6.6
+2022,3,Março,Outono,Sudeste,A90,Dengue,88,220043.72,2500.5,4.7
+2022,3,Março,Outono,Sul,A90,Dengue,35,97223.44,2777.81,5.5
+2022,3,Março,Outono,Sudeste,B24,Doença pelo HIV,35,301914.66,8626.13,5.1
+2022,3,Março,Outono,Centro-Oeste,B24,Doença pelo HIV,2,19420.13,9710.07,2.5
+2022,3,Março,Outono,Nordeste,B24,Doença pelo HIV,17,130814.31,7694.96,3.5
+2022,3,Março,Outono,Sul,B24,Doença pelo HIV,13,108769.77,8366.91,6.6
+2022,3,Março,Outono,Sudeste,C50,Neoplasia Maligna da Mama,38,872959.8,22972.63,5.2
+2022,3,Março,Outono,Centro-Oeste,C50,Neoplasia Maligna da Mama,2,40296.9,20148.45,6.5
+2022,3,Março,Outono,Nordeste,C50,Neoplasia Maligna da Mama,18,445779.79,24765.54,2.9
+2022,3,Março,Outono,Sul,C50,Neoplasia Maligna da Mama,12,363955.85,30329.65,3.8
+2022,3,Março,Outono,Sul,E11,Diabetes Mellitus Tipo 2,28,99462.67,3552.24,4.8
+2022,3,Março,Outono,Nordeste,E11,Diabetes Mellitus Tipo 2,29,104014.48,3586.71,5.7
+2022,3,Março,Outono,Sudeste,E11,Diabetes Mellitus Tipo 2,74,274184.15,3705.19,4.7
+2022,3,Março,Outono,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,5,21126.67,4225.33,3.4
+2022,3,Março,Outono,Centro-Oeste,F32,Episódio Depressivo,3,11588.98,3862.99,9.3
+2022,3,Março,Outono,Nordeste,F32,Episódio Depressivo,21,86414.68,4114.98,5.5
+2022,3,Março,Outono,Sul,F32,Episódio Depressivo,22,91353.5,4152.43,5.7
+2022,3,Março,Outono,Sudeste,F32,Episódio Depressivo,41,157443.76,3840.09,5.0
+2022,3,Março,Outono,Sudeste,G40,Epilepsia,45,237024.32,5267.21,4.4
+2022,3,Março,Outono,Centro-Oeste,G40,Epilepsia,9,51951.65,5772.41,4.9
+2022,3,Março,Outono,Nordeste,G40,Epilepsia,19,99770.95,5251.1,6.2
+2022,3,Março,Outono,Sul,G40,Epilepsia,16,90748.32,5671.77,4.9
+2022,3,Março,Outono,Nordeste,I21,Infarto Agudo do Miocárdio,34,659132.78,19386.26,5.2
+2022,3,Março,Outono,Sul,I21,Infarto Agudo do Miocárdio,31,582360.72,18785.83,6.5
+2022,3,Março,Outono,Centro-Oeste,I21,Infarto Agudo do Miocárdio,8,173474.07,21684.26,5.0
+2022,3,Março,Outono,Sudeste,I21,Infarto Agudo do Miocárdio,86,1613370.06,18760.12,5.5
+2022,3,Março,Outono,Nordeste,I64,Acidente Vascular Cerebral,23,298839.2,12993.01,5.0
+2022,3,Março,Outono,Sul,I64,Acidente Vascular Cerebral,19,245111.05,12900.58,3.9
+2022,3,Março,Outono,Sudeste,I64,Acidente Vascular Cerebral,62,849591.2,13703.08,5.5
+2022,3,Março,Outono,Centro-Oeste,I64,Acidente Vascular Cerebral,8,88413.23,11051.65,4.9
+2022,3,Março,Outono,Sul,J18,Pneumonia,43,211733.36,4924.03,5.0
+2022,3,Março,Outono,Nordeste,J18,Pneumonia,47,226906.91,4827.81,5.0
+2022,3,Março,Outono,Sudeste,J18,Pneumonia,105,500305.17,4764.81,5.5
+2022,3,Março,Outono,Centro-Oeste,J18,Pneumonia,10,35084.32,3508.43,4.6
+2022,3,Março,Outono,Nordeste,J44,DPOC,23,133727.85,5814.25,5.7
+2022,3,Março,Outono,Sudeste,J44,DPOC,48,302738.59,6307.05,4.6
+2022,3,Março,Outono,Centro-Oeste,J44,DPOC,4,30670.17,7667.54,5.3
+2022,3,Março,Outono,Sul,J44,DPOC,19,110340.46,5807.39,5.5
+2022,3,Março,Outono,Sul,K35,Apendicite Aguda,28,225349.34,8048.19,6.4
+2022,3,Março,Outono,Sudeste,K35,Apendicite Aguda,56,425656.14,7601.0,4.7
+2022,3,Março,Outono,Nordeste,K35,Apendicite Aguda,26,192957.51,7421.44,6.4
+2022,3,Março,Outono,Centro-Oeste,K35,Apendicite Aguda,6,48164.55,8027.43,3.5
+2022,3,Março,Outono,Nordeste,M54,Dorsalgia,24,66273.94,2761.41,5.4
+2022,3,Março,Outono,Sul,M54,Dorsalgia,16,47207.08,2950.44,4.3
+2022,3,Março,Outono,Sudeste,M54,Dorsalgia,36,110124.77,3059.02,4.8
+2022,3,Março,Outono,Centro-Oeste,M54,Dorsalgia,5,14828.51,2965.7,5.2
+2022,3,Março,Outono,Nordeste,N39,Infecção Urinária,28,53249.66,1901.77,5.8
+2022,3,Março,Outono,Centro-Oeste,N39,Infecção Urinária,5,9745.83,1949.17,4.8
+2022,3,Março,Outono,Sudeste,N39,Infecção Urinária,88,182861.53,2077.97,4.9
+2022,3,Março,Outono,Sul,N39,Infecção Urinária,40,83083.76,2077.09,4.5
+2022,3,Março,Outono,Centro-Oeste,O80,Parto Normal,6,18493.43,3082.24,6.0
+2022,3,Março,Outono,Sul,O80,Parto Normal,38,120557.64,3172.57,4.9
+2022,3,Março,Outono,Nordeste,O80,Parto Normal,49,151176.75,3085.24,5.1
+2022,3,Março,Outono,Sudeste,O80,Parto Normal,94,288407.11,3068.16,5.0
+2022,4,Abril,Outono,Centro-Oeste,A09,Diarreia e Gastroenterite,4,4156.56,1039.14,4.8
+2022,4,Abril,Outono,Nordeste,A09,Diarreia e Gastroenterite,28,29118.96,1039.96,5.4
+2022,4,Abril,Outono,Sul,A09,Diarreia e Gastroenterite,15,15605.3,1040.35,5.5
+2022,4,Abril,Outono,Sudeste,A09,Diarreia e Gastroenterite,65,72577.02,1116.57,6.0
+2022,4,Abril,Outono,Centro-Oeste,A90,Dengue,9,17899.32,1988.81,3.8
+2022,4,Abril,Outono,Sul,A90,Dengue,23,42457.74,1845.99,5.3
+2022,4,Abril,Outono,Sudeste,A90,Dengue,75,129401.16,1725.35,4.8
+2022,4,Abril,Outono,Nordeste,A90,Dengue,34,62302.82,1832.44,5.3
+2022,4,Abril,Outono,Sul,B24,Doença pelo HIV,11,63054.66,5732.24,7.3
+2022,4,Abril,Outono,Centro-Oeste,B24,Doença pelo HIV,1,7570.49,7570.49,7.0
+2022,4,Abril,Outono,Sudeste,B24,Doença pelo HIV,34,207700.81,6108.85,5.1
+2022,4,Abril,Outono,Nordeste,B24,Doença pelo HIV,14,81442.83,5817.35,6.1
+2022,4,Abril,Outono,Sul,C50,Neoplasia Maligna da Mama,13,236831.74,18217.83,6.6
+2022,4,Abril,Outono,Nordeste,C50,Neoplasia Maligna da Mama,14,261797.84,18699.85,4.4
+2022,4,Abril,Outono,Centro-Oeste,C50,Neoplasia Maligna da Mama,4,61500.25,15375.06,6.8
+2022,4,Abril,Outono,Sudeste,C50,Neoplasia Maligna da Mama,46,807480.41,17553.92,3.9
+2022,4,Abril,Outono,Sul,E11,Diabetes Mellitus Tipo 2,29,76292.9,2630.79,4.7
+2022,4,Abril,Outono,Sudeste,E11,Diabetes Mellitus Tipo 2,85,230866.72,2716.08,5.4
+2022,4,Abril,Outono,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,8,20335.61,2541.95,4.1
+2022,4,Abril,Outono,Nordeste,E11,Diabetes Mellitus Tipo 2,21,56658.45,2698.02,4.0
+2022,4,Abril,Outono,Sul,F32,Episódio Depressivo,27,85472.89,3165.66,4.6
+2022,4,Abril,Outono,Centro-Oeste,F32,Episódio Depressivo,3,6671.0,2223.67,4.3
+2022,4,Abril,Outono,Nordeste,F32,Episódio Depressivo,14,41479.16,2962.8,2.9
+2022,4,Abril,Outono,Sudeste,F32,Episódio Depressivo,52,156178.89,3003.44,4.7
+2022,4,Abril,Outono,Sul,G40,Epilepsia,12,48466.27,4038.86,6.3
+2022,4,Abril,Outono,Nordeste,G40,Epilepsia,11,48600.21,4418.2,4.7
+2022,4,Abril,Outono,Centro-Oeste,G40,Epilepsia,4,14529.55,3632.39,7.8
+2022,4,Abril,Outono,Sudeste,G40,Epilepsia,54,190661.82,3530.77,5.9
+2022,4,Abril,Outono,Sudeste,I21,Infarto Agudo do Miocárdio,80,1131301.94,14141.27,5.4
+2022,4,Abril,Outono,Centro-Oeste,I21,Infarto Agudo do Miocárdio,4,62977.88,15744.47,1.8
+2022,4,Abril,Outono,Nordeste,I21,Infarto Agudo do Miocárdio,27,362429.74,13423.32,5.4
+2022,4,Abril,Outono,Sul,I21,Infarto Agudo do Miocárdio,32,464267.19,14508.35,4.3
+2022,4,Abril,Outono,Sudeste,I64,Acidente Vascular Cerebral,61,557236.79,9135.03,4.1
+2022,4,Abril,Outono,Nordeste,I64,Acidente Vascular Cerebral,26,241128.91,9274.19,4.2
+2022,4,Abril,Outono,Centro-Oeste,I64,Acidente Vascular Cerebral,6,55187.74,9197.96,6.3
+2022,4,Abril,Outono,Sul,I64,Acidente Vascular Cerebral,31,287454.61,9272.73,3.9
+2022,4,Abril,Outono,Centro-Oeste,J18,Pneumonia,14,42780.88,3055.78,5.6
+2022,4,Abril,Outono,Nordeste,J18,Pneumonia,39,132073.81,3386.51,7.1
+2022,4,Abril,Outono,Sul,J18,Pneumonia,40,130908.01,3272.7,5.1
+2022,4,Abril,Outono,Sudeste,J18,Pneumonia,118,409786.21,3472.76,5.6
+2022,4,Abril,Outono,Sul,J44,DPOC,16,72738.48,4546.16,4.8
+2022,4,Abril,Outono,Sudeste,J44,DPOC,57,244526.17,4289.93,5.9
+2022,4,Abril,Outono,Nordeste,J44,DPOC,17,68311.14,4018.3,3.9
+2022,4,Abril,Outono,Centro-Oeste,J44,DPOC,5,15987.31,3197.46,4.4
+2022,4,Abril,Outono,Sudeste,K35,Apendicite Aguda,77,389403.31,5057.19,4.8
+2022,4,Abril,Outono,Centro-Oeste,K35,Apendicite Aguda,6,34467.4,5744.57,6.8
+2022,4,Abril,Outono,Sul,K35,Apendicite Aguda,19,103079.83,5425.25,5.7
+2022,4,Abril,Outono,Nordeste,K35,Apendicite Aguda,14,73373.17,5240.94,5.7
+2022,4,Abril,Outono,Sudeste,M54,Dorsalgia,64,134330.58,2098.92,5.5
+2022,4,Abril,Outono,Sul,M54,Dorsalgia,23,50951.85,2215.3,4.2
+2022,4,Abril,Outono,Centro-Oeste,M54,Dorsalgia,3,8358.28,2786.09,5.3
+2022,4,Abril,Outono,Nordeste,M54,Dorsalgia,14,31167.33,2226.24,7.1
+2022,4,Abril,Outono,Sudeste,N39,Infecção Urinária,112,154449.55,1379.01,5.5
+2022,4,Abril,Outono,Nordeste,N39,Infecção Urinária,39,57106.01,1464.26,5.0
+2022,4,Abril,Outono,Sul,N39,Infecção Urinária,24,34059.54,1419.15,6.4
+2022,4,Abril,Outono,Centro-Oeste,N39,Infecção Urinária,5,6950.52,1390.1,5.0
+2022,4,Abril,Outono,Nordeste,O80,Parto Normal,35,79888.84,2282.54,5.8
+2022,4,Abril,Outono,Sudeste,O80,Parto Normal,102,219307.27,2150.07,5.3
+2022,4,Abril,Outono,Centro-Oeste,O80,Parto Normal,13,28916.14,2224.32,4.3
+2022,4,Abril,Outono,Sul,O80,Parto Normal,38,78374.27,2062.48,4.8
+2022,5,Maio,Outono,Sudeste,A09,Diarreia e Gastroenterite,79,85392.01,1080.91,4.7
+2022,5,Maio,Outono,Nordeste,A09,Diarreia e Gastroenterite,27,27846.04,1031.33,4.8
+2022,5,Maio,Outono,Sul,A09,Diarreia e Gastroenterite,21,21828.52,1039.45,5.7
+2022,5,Maio,Outono,Centro-Oeste,A09,Diarreia e Gastroenterite,5,4654.24,930.85,2.6
+2022,5,Maio,Outono,Sul,A90,Dengue,22,40846.18,1856.64,3.9
+2022,5,Maio,Outono,Nordeste,A90,Dengue,23,42058.31,1828.62,5.6
+2022,5,Maio,Outono,Centro-Oeste,A90,Dengue,5,7087.92,1417.58,2.6
+2022,5,Maio,Outono,Sudeste,A90,Dengue,64,115698.14,1807.78,5.7
+2022,5,Maio,Outono,Sul,B24,Doença pelo HIV,15,85071.91,5671.46,4.8
+2022,5,Maio,Outono,Sudeste,B24,Doença pelo HIV,36,205810.49,5716.96,5.4
+2022,5,Maio,Outono,Nordeste,B24,Doença pelo HIV,11,70355.49,6395.95,4.5
+2022,5,Maio,Outono,Centro-Oeste,B24,Doença pelo HIV,1,5136.35,5136.35,15.0
+2022,5,Maio,Outono,Nordeste,C50,Neoplasia Maligna da Mama,13,240278.54,18482.96,5.8
+2022,5,Maio,Outono,Centro-Oeste,C50,Neoplasia Maligna da Mama,3,62826.2,20942.07,4.3
+2022,5,Maio,Outono,Sudeste,C50,Neoplasia Maligna da Mama,36,616197.63,17116.6,6.0
+2022,5,Maio,Outono,Sul,C50,Neoplasia Maligna da Mama,19,328246.77,17276.15,5.4
+2022,5,Maio,Outono,Nordeste,E11,Diabetes Mellitus Tipo 2,32,94664.59,2958.27,5.3
+2022,5,Maio,Outono,Sudeste,E11,Diabetes Mellitus Tipo 2,82,207521.04,2530.74,5.3
+2022,5,Maio,Outono,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,7,20933.7,2990.53,7.3
+2022,5,Maio,Outono,Sul,E11,Diabetes Mellitus Tipo 2,16,44631.85,2789.49,5.2
+2022,5,Maio,Outono,Centro-Oeste,F32,Episódio Depressivo,6,16438.58,2739.76,8.5
+2022,5,Maio,Outono,Nordeste,F32,Episódio Depressivo,25,76679.13,3067.17,4.0
+2022,5,Maio,Outono,Sul,F32,Episódio Depressivo,20,64704.21,3235.21,5.3
+2022,5,Maio,Outono,Sudeste,F32,Episódio Depressivo,53,159224.41,3004.23,5.5
+2022,5,Maio,Outono,Sudeste,G40,Epilepsia,50,196318.81,3926.38,4.5
+2022,5,Maio,Outono,Sul,G40,Epilepsia,14,59897.82,4278.42,5.0
+2022,5,Maio,Outono,Nordeste,G40,Epilepsia,16,64790.9,4049.43,6.1
+2022,5,Maio,Outono,Centro-Oeste,G40,Epilepsia,3,11586.24,3862.08,7.0
+2022,5,Maio,Outono,Sul,I21,Infarto Agudo do Miocárdio,25,388940.03,15557.6,5.4
+2022,5,Maio,Outono,Nordeste,I21,Infarto Agudo do Miocárdio,31,462316.77,14913.44,5.8
+2022,5,Maio,Outono,Sudeste,I21,Infarto Agudo do Miocárdio,101,1465486.22,14509.76,4.5
+2022,5,Maio,Outono,Centro-Oeste,I21,Infarto Agudo do Miocárdio,7,93150.01,13307.14,6.0
+2022,5,Maio,Outono,Sul,I64,Acidente Vascular Cerebral,19,201069.16,10582.59,5.8
+2022,5,Maio,Outono,Nordeste,I64,Acidente Vascular Cerebral,19,174587.9,9188.84,4.2
+2022,5,Maio,Outono,Sudeste,I64,Acidente Vascular Cerebral,56,533358.12,9524.25,5.3
+2022,5,Maio,Outono,Centro-Oeste,I64,Acidente Vascular Cerebral,5,33378.8,6675.76,3.0
+2022,5,Maio,Outono,Sudeste,J18,Pneumonia,111,364287.83,3281.87,5.0
+2022,5,Maio,Outono,Nordeste,J18,Pneumonia,43,136647.1,3177.84,4.6
+2022,5,Maio,Outono,Sul,J18,Pneumonia,50,170123.13,3402.46,4.3
+2022,5,Maio,Outono,Centro-Oeste,J18,Pneumonia,7,22861.6,3265.94,5.0
+2022,5,Maio,Outono,Sudeste,J44,DPOC,52,225268.34,4332.08,5.9
+2022,5,Maio,Outono,Centro-Oeste,J44,DPOC,9,40365.45,4485.05,5.4
+2022,5,Maio,Outono,Nordeste,J44,DPOC,14,59822.01,4273.0,5.1
+2022,5,Maio,Outono,Sul,J44,DPOC,16,63299.43,3956.21,7.4
+2022,5,Maio,Outono,Sudeste,K35,Apendicite Aguda,70,375157.24,5359.39,5.0
+2022,5,Maio,Outono,Sul,K35,Apendicite Aguda,27,150343.46,5568.28,4.6
+2022,5,Maio,Outono,Centro-Oeste,K35,Apendicite Aguda,9,47120.73,5235.64,5.6
+2022,5,Maio,Outono,Nordeste,K35,Apendicite Aguda,19,101008.94,5316.26,6.5
+2022,5,Maio,Outono,Centro-Oeste,M54,Dorsalgia,3,5951.5,1983.83,2.0
+2022,5,Maio,Outono,Sudeste,M54,Dorsalgia,53,117158.28,2210.53,4.9
+2022,5,Maio,Outono,Sul,M54,Dorsalgia,29,64090.37,2210.01,5.4
+2022,5,Maio,Outono,Nordeste,M54,Dorsalgia,18,34235.85,1901.99,4.9
+2022,5,Maio,Outono,Sudeste,N39,Infecção Urinária,93,131401.7,1412.92,5.3
+2022,5,Maio,Outono,Centro-Oeste,N39,Infecção Urinária,4,5836.44,1459.11,5.8
+2022,5,Maio,Outono,Nordeste,N39,Infecção Urinária,40,54451.05,1361.28,4.2
+2022,5,Maio,Outono,Sul,N39,Infecção Urinária,34,48160.83,1416.5,4.3
+2022,5,Maio,Outono,Sudeste,O80,Parto Normal,84,176045.22,2095.78,5.1
+2022,5,Maio,Outono,Nordeste,O80,Parto Normal,36,83064.99,2307.36,5.0
+2022,5,Maio,Outono,Centro-Oeste,O80,Parto Normal,8,16933.14,2116.64,4.3
+2022,5,Maio,Outono,Sul,O80,Parto Normal,34,74251.34,2183.86,5.9
+2022,6,Junho,Inverno,Sudeste,A09,Diarreia e Gastroenterite,70,87928.87,1256.13,4.6
+2022,6,Junho,Inverno,Sul,A09,Diarreia e Gastroenterite,21,29352.35,1397.73,6.5
+2022,6,Junho,Inverno,Centro-Oeste,A09,Diarreia e Gastroenterite,6,8735.92,1455.99,5.7
+2022,6,Junho,Inverno,Nordeste,A09,Diarreia e Gastroenterite,28,35148.12,1255.29,5.5
+2022,6,Junho,Inverno,Centro-Oeste,A90,Dengue,10,20766.21,2076.62,7.4
+2022,6,Junho,Inverno,Sudeste,A90,Dengue,70,150855.54,2155.08,4.9
+2022,6,Junho,Inverno,Sul,A90,Dengue,22,51629.8,2346.81,4.9
+2022,6,Junho,Inverno,Nordeste,A90,Dengue,23,47209.08,2052.57,5.3
+2022,6,Junho,Inverno,Nordeste,B24,Doença pelo HIV,10,65497.52,6549.75,5.1
+2022,6,Junho,Inverno,Sul,B24,Doença pelo HIV,11,75967.59,6906.14,5.9
+2022,6,Junho,Inverno,Centro-Oeste,B24,Doença pelo HIV,1,4493.79,4493.79,7.0
+2022,6,Junho,Inverno,Sudeste,B24,Doença pelo HIV,37,261733.03,7073.87,5.5
+2022,6,Junho,Inverno,Nordeste,C50,Neoplasia Maligna da Mama,24,528672.99,22028.04,5.9
+2022,6,Junho,Inverno,Sudeste,C50,Neoplasia Maligna da Mama,33,664009.23,20121.49,5.5
+2022,6,Junho,Inverno,Centro-Oeste,C50,Neoplasia Maligna da Mama,2,51416.46,25708.23,7.5
+2022,6,Junho,Inverno,Sul,C50,Neoplasia Maligna da Mama,12,260878.58,21739.88,6.0
+2022,6,Junho,Inverno,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,10,36691.64,3669.16,5.7
+2022,6,Junho,Inverno,Sul,E11,Diabetes Mellitus Tipo 2,32,100202.47,3131.33,5.9
+2022,6,Junho,Inverno,Nordeste,E11,Diabetes Mellitus Tipo 2,27,90384.75,3347.58,3.3
+2022,6,Junho,Inverno,Sudeste,E11,Diabetes Mellitus Tipo 2,66,202073.63,3061.72,4.7
+2022,6,Junho,Inverno,Sul,F32,Episódio Depressivo,16,57250.83,3578.18,9.1
+2022,6,Junho,Inverno,Nordeste,F32,Episódio Depressivo,25,95651.93,3826.08,4.6
+2022,6,Junho,Inverno,Centro-Oeste,F32,Episódio Depressivo,2,4590.39,2295.2,2.0
+2022,6,Junho,Inverno,Sudeste,F32,Episódio Depressivo,63,222182.43,3526.71,5.5
+2022,6,Junho,Inverno,Centro-Oeste,G40,Epilepsia,6,26156.41,4359.4,5.0
+2022,6,Junho,Inverno,Sudeste,G40,Epilepsia,45,215965.39,4799.23,6.2
+2022,6,Junho,Inverno,Nordeste,G40,Epilepsia,18,86716.04,4817.56,6.3
+2022,6,Junho,Inverno,Sul,G40,Epilepsia,10,38840.45,3884.05,3.9
+2022,6,Junho,Inverno,Sul,I21,Infarto Agudo do Miocárdio,21,379154.84,18054.99,4.4
+2022,6,Junho,Inverno,Centro-Oeste,I21,Infarto Agudo do Miocárdio,3,53995.31,17998.44,3.7
+2022,6,Junho,Inverno,Nordeste,I21,Infarto Agudo do Miocárdio,35,621643.66,17761.25,5.3
+2022,6,Junho,Inverno,Sudeste,I21,Infarto Agudo do Miocárdio,79,1288138.52,16305.55,4.5
+2022,6,Junho,Inverno,Centro-Oeste,I64,Acidente Vascular Cerebral,3,37246.21,12415.4,2.0
+2022,6,Junho,Inverno,Nordeste,I64,Acidente Vascular Cerebral,18,206918.78,11495.49,6.1
+2022,6,Junho,Inverno,Sul,I64,Acidente Vascular Cerebral,19,187050.81,9844.78,6.4
+2022,6,Junho,Inverno,Sudeste,I64,Acidente Vascular Cerebral,60,705604.62,11760.08,5.0
+2022,6,Junho,Inverno,Sudeste,J18,Pneumonia,134,579789.3,4326.79,5.1
+2022,6,Junho,Inverno,Nordeste,J18,Pneumonia,49,180718.24,3688.13,5.6
+2022,6,Junho,Inverno,Sul,J18,Pneumonia,47,187857.18,3996.96,5.9
+2022,6,Junho,Inverno,Centro-Oeste,J18,Pneumonia,14,58401.65,4171.55,6.1
+2022,6,Junho,Inverno,Centro-Oeste,J44,DPOC,4,23555.03,5888.76,8.0
+2022,6,Junho,Inverno,Sul,J44,DPOC,17,97401.23,5729.48,6.4
+2022,6,Junho,Inverno,Sudeste,J44,DPOC,45,228555.79,5079.02,4.6
+2022,6,Junho,Inverno,Nordeste,J44,DPOC,20,97572.09,4878.6,3.4
+2022,6,Junho,Inverno,Nordeste,K35,Apendicite Aguda,19,123586.91,6504.57,4.5
+2022,6,Junho,Inverno,Sul,K35,Apendicite Aguda,25,176290.95,7051.64,4.5
+2022,6,Junho,Inverno,Centro-Oeste,K35,Apendicite Aguda,6,32964.89,5494.15,5.0
+2022,6,Junho,Inverno,Sudeste,K35,Apendicite Aguda,64,413084.02,6454.44,4.5
+2022,6,Junho,Inverno,Nordeste,M54,Dorsalgia,27,76769.6,2843.32,4.3
+2022,6,Junho,Inverno,Sudeste,M54,Dorsalgia,59,157062.17,2662.07,4.7
+2022,6,Junho,Inverno,Centro-Oeste,M54,Dorsalgia,3,7718.68,2572.89,3.0
+2022,6,Junho,Inverno,Sul,M54,Dorsalgia,18,53751.48,2986.19,4.1
+2022,6,Junho,Inverno,Sudeste,N39,Infecção Urinária,104,176077.5,1693.05,6.0
+2022,6,Junho,Inverno,Sul,N39,Infecção Urinária,27,43187.18,1599.53,5.4
+2022,6,Junho,Inverno,Centro-Oeste,N39,Infecção Urinária,11,19727.02,1793.37,4.7
+2022,6,Junho,Inverno,Nordeste,N39,Infecção Urinária,32,60320.81,1885.03,4.3
+2022,6,Junho,Inverno,Centro-Oeste,O80,Parto Normal,5,11267.78,2253.56,6.6
+2022,6,Junho,Inverno,Sul,O80,Parto Normal,22,55691.71,2531.44,4.3
+2022,6,Junho,Inverno,Sudeste,O80,Parto Normal,111,285992.05,2576.5,6.2
+2022,6,Junho,Inverno,Nordeste,O80,Parto Normal,36,95834.83,2662.08,5.4
+2022,7,Julho,Inverno,Sudeste,A09,Diarreia e Gastroenterite,84,104475.47,1243.76,5.7
+2022,7,Julho,Inverno,Nordeste,A09,Diarreia e Gastroenterite,19,23786.01,1251.9,6.3
+2022,7,Julho,Inverno,Sul,A09,Diarreia e Gastroenterite,31,40355.72,1301.8,6.0
+2022,7,Julho,Inverno,Centro-Oeste,A09,Diarreia e Gastroenterite,9,11348.83,1260.98,6.2
+2022,7,Julho,Inverno,Nordeste,A90,Dengue,21,44100.93,2100.04,4.7
+2022,7,Julho,Inverno,Centro-Oeste,A90,Dengue,9,20433.4,2270.38,5.7
+2022,7,Julho,Inverno,Sul,A90,Dengue,19,40492.19,2131.17,4.5
+2022,7,Julho,Inverno,Sudeste,A90,Dengue,91,195688.68,2150.43,5.4
+2022,7,Julho,Inverno,Nordeste,B24,Doença pelo HIV,5,36966.08,7393.22,4.0
+2022,7,Julho,Inverno,Sul,B24,Doença pelo HIV,10,72453.29,7245.33,5.3
+2022,7,Julho,Inverno,Centro-Oeste,B24,Doença pelo HIV,5,41518.89,8303.78,3.2
+2022,7,Julho,Inverno,Sudeste,B24,Doença pelo HIV,34,233591.27,6870.33,5.4
+2022,7,Julho,Inverno,Sul,C50,Neoplasia Maligna da Mama,13,257904.07,19838.77,5.8
+2022,7,Julho,Inverno,Sudeste,C50,Neoplasia Maligna da Mama,52,1066417.85,20508.04,5.3
+2022,7,Julho,Inverno,Nordeste,C50,Neoplasia Maligna da Mama,13,301408.65,23185.28,4.7
+2022,7,Julho,Inverno,Centro-Oeste,C50,Neoplasia Maligna da Mama,5,109319.86,21863.97,5.4
+2022,7,Julho,Inverno,Sudeste,E11,Diabetes Mellitus Tipo 2,74,252395.72,3410.75,5.2
+2022,7,Julho,Inverno,Sul,E11,Diabetes Mellitus Tipo 2,39,120071.06,3078.75,5.8
+2022,7,Julho,Inverno,Nordeste,E11,Diabetes Mellitus Tipo 2,35,108718.26,3106.24,5.3
+2022,7,Julho,Inverno,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,11,36491.81,3317.44,5.5
+2022,7,Julho,Inverno,Centro-Oeste,F32,Episódio Depressivo,9,34801.39,3866.82,6.7
+2022,7,Julho,Inverno,Sul,F32,Episódio Depressivo,24,87961.05,3665.04,4.8
+2022,7,Julho,Inverno,Nordeste,F32,Episódio Depressivo,16,62960.82,3935.05,2.6
+2022,7,Julho,Inverno,Sudeste,F32,Episódio Depressivo,50,177074.62,3541.49,5.1
+2022,7,Julho,Inverno,Nordeste,G40,Epilepsia,31,145836.95,4704.42,5.3
+2022,7,Julho,Inverno,Sudeste,G40,Epilepsia,56,238774.17,4263.82,4.9
+2022,7,Julho,Inverno,Sul,G40,Epilepsia,21,92938.31,4425.63,5.4
+2022,7,Julho,Inverno,Centro-Oeste,G40,Epilepsia,5,26036.91,5207.38,7.4
+2022,7,Julho,Inverno,Sul,I21,Infarto Agudo do Miocárdio,31,518175.35,16715.33,4.4
+2022,7,Julho,Inverno,Nordeste,I21,Infarto Agudo do Miocárdio,37,614503.11,16608.19,5.2
+2022,7,Julho,Inverno,Centro-Oeste,I21,Infarto Agudo do Miocárdio,9,133812.94,14868.1,5.2
+2022,7,Julho,Inverno,Sudeste,I21,Infarto Agudo do Miocárdio,65,1153591.99,17747.57,4.5
+2022,7,Julho,Inverno,Centro-Oeste,I64,Acidente Vascular Cerebral,8,91418.98,11427.37,6.4
+2022,7,Julho,Inverno,Sudeste,I64,Acidente Vascular Cerebral,68,786969.32,11573.08,4.7
+2022,7,Julho,Inverno,Sul,I64,Acidente Vascular Cerebral,24,299649.19,12485.38,4.9
+2022,7,Julho,Inverno,Nordeste,I64,Acidente Vascular Cerebral,16,193212.99,12075.81,4.9
+2022,7,Julho,Inverno,Sul,J18,Pneumonia,36,147058.68,4084.96,5.1
+2022,7,Julho,Inverno,Nordeste,J18,Pneumonia,38,169867.65,4470.2,5.7
+2022,7,Julho,Inverno,Sudeste,J18,Pneumonia,106,406999.36,3839.62,5.1
+2022,7,Julho,Inverno,Centro-Oeste,J18,Pneumonia,6,24109.75,4018.29,4.3
+2022,7,Julho,Inverno,Sul,J44,DPOC,16,74799.12,4674.95,5.3
+2022,7,Julho,Inverno,Centro-Oeste,J44,DPOC,5,23011.75,4602.35,5.8
+2022,7,Julho,Inverno,Sudeste,J44,DPOC,49,240856.69,4915.44,4.8
+2022,7,Julho,Inverno,Nordeste,J44,DPOC,18,83805.4,4655.86,4.8
+2022,7,Julho,Inverno,Sudeste,K35,Apendicite Aguda,66,437751.52,6632.6,6.0
+2022,7,Julho,Inverno,Sul,K35,Apendicite Aguda,20,131241.95,6562.1,4.4
+2022,7,Julho,Inverno,Nordeste,K35,Apendicite Aguda,23,128785.04,5599.35,4.9
+2022,7,Julho,Inverno,Centro-Oeste,K35,Apendicite Aguda,4,23931.77,5982.94,6.8
+2022,7,Julho,Inverno,Sul,M54,Dorsalgia,22,50081.04,2276.41,5.1
+2022,7,Julho,Inverno,Sudeste,M54,Dorsalgia,52,139974.61,2691.82,5.5
+2022,7,Julho,Inverno,Nordeste,M54,Dorsalgia,15,34595.95,2306.4,4.9
+2022,7,Julho,Inverno,Sul,N39,Infecção Urinária,38,72976.47,1920.43,5.5
+2022,7,Julho,Inverno,Nordeste,N39,Infecção Urinária,36,62965.31,1749.04,4.1
+2022,7,Julho,Inverno,Centro-Oeste,N39,Infecção Urinária,4,6175.66,1543.92,5.5
+2022,7,Julho,Inverno,Sudeste,N39,Infecção Urinária,110,185440.94,1685.83,5.3
+2022,7,Julho,Inverno,Centro-Oeste,O80,Parto Normal,10,28444.2,2844.42,6.2
+2022,7,Julho,Inverno,Nordeste,O80,Parto Normal,36,101317.94,2814.39,5.3
+2022,7,Julho,Inverno,Sudeste,O80,Parto Normal,112,287340.29,2565.54,5.3
+2022,7,Julho,Inverno,Sul,O80,Parto Normal,34,81949.16,2410.27,4.8
+2022,8,Agosto,Inverno,Sul,A09,Diarreia e Gastroenterite,17,21585.13,1269.71,4.9
+2022,8,Agosto,Inverno,Sudeste,A09,Diarreia e Gastroenterite,61,73636.94,1207.16,5.3
+2022,8,Agosto,Inverno,Nordeste,A09,Diarreia e Gastroenterite,25,33073.29,1322.93,5.2
+2022,8,Agosto,Inverno,Centro-Oeste,A09,Diarreia e Gastroenterite,7,9234.53,1319.22,4.4
+2022,8,Agosto,Inverno,Centro-Oeste,A90,Dengue,4,8906.15,2226.54,8.0
+2022,8,Agosto,Inverno,Sudeste,A90,Dengue,61,136005.64,2229.6,4.7
+2022,8,Agosto,Inverno,Sul,A90,Dengue,26,56443.97,2170.92,4.5
+2022,8,Agosto,Inverno,Nordeste,A90,Dengue,22,51219.08,2328.14,5.0
+2022,8,Agosto,Inverno,Centro-Oeste,B24,Doença pelo HIV,5,28053.19,5610.64,9.8
+2022,8,Agosto,Inverno,Sudeste,B24,Doença pelo HIV,34,255945.38,7527.81,5.6
+2022,8,Agosto,Inverno,Sul,B24,Doença pelo HIV,11,81948.52,7449.87,3.6
+2022,8,Agosto,Inverno,Nordeste,B24,Doença pelo HIV,12,78628.07,6552.34,5.5
+2022,8,Agosto,Inverno,Sul,C50,Neoplasia Maligna da Mama,14,343159.89,24511.42,3.9
+2022,8,Agosto,Inverno,Sudeste,C50,Neoplasia Maligna da Mama,43,921661.95,21434.0,5.1
+2022,8,Agosto,Inverno,Centro-Oeste,C50,Neoplasia Maligna da Mama,7,170855.98,24408.0,7.0
+2022,8,Agosto,Inverno,Nordeste,C50,Neoplasia Maligna da Mama,13,326830.61,25140.82,4.0
+2022,8,Agosto,Inverno,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,7,23439.41,3348.49,3.4
+2022,8,Agosto,Inverno,Nordeste,E11,Diabetes Mellitus Tipo 2,33,112748.55,3416.62,6.2
+2022,8,Agosto,Inverno,Sudeste,E11,Diabetes Mellitus Tipo 2,96,306904.38,3196.92,5.0
+2022,8,Agosto,Inverno,Sul,E11,Diabetes Mellitus Tipo 2,33,104957.7,3180.54,4.0
+2022,8,Agosto,Inverno,Centro-Oeste,F32,Episódio Depressivo,5,12454.84,2490.97,4.0
+2022,8,Agosto,Inverno,Sudeste,F32,Episódio Depressivo,58,203371.92,3506.41,5.8
+2022,8,Agosto,Inverno,Nordeste,F32,Episódio Depressivo,21,76606.75,3647.94,4.4
+2022,8,Agosto,Inverno,Sul,F32,Episódio Depressivo,21,73654.0,3507.33,4.2
+2022,8,Agosto,Inverno,Sudeste,G40,Epilepsia,40,194094.05,4852.35,5.4
+2022,8,Agosto,Inverno,Nordeste,G40,Epilepsia,18,80741.77,4485.65,5.1
+2022,8,Agosto,Inverno,Sul,G40,Epilepsia,21,98054.85,4669.28,5.3
+2022,8,Agosto,Inverno,Centro-Oeste,G40,Epilepsia,4,18186.49,4546.62,7.5
+2022,8,Agosto,Inverno,Sudeste,I21,Infarto Agudo do Miocárdio,83,1440075.27,17350.3,4.9
+2022,8,Agosto,Inverno,Nordeste,I21,Infarto Agudo do Miocárdio,29,496305.23,17113.97,5.3
+2022,8,Agosto,Inverno,Sul,I21,Infarto Agudo do Miocárdio,27,428640.77,15875.58,6.1
+2022,8,Agosto,Inverno,Centro-Oeste,I21,Infarto Agudo do Miocárdio,2,34904.82,17452.41,4.5
+2022,8,Agosto,Inverno,Sudeste,I64,Acidente Vascular Cerebral,75,850891.43,11345.22,4.3
+2022,8,Agosto,Inverno,Sul,I64,Acidente Vascular Cerebral,18,231584.85,12865.83,6.0
+2022,8,Agosto,Inverno,Nordeste,I64,Acidente Vascular Cerebral,26,309628.36,11908.78,3.6
+2022,8,Agosto,Inverno,Centro-Oeste,I64,Acidente Vascular Cerebral,8,93331.77,11666.47,3.6
+2022,8,Agosto,Inverno,Sul,J18,Pneumonia,48,188222.81,3921.31,4.6
+2022,8,Agosto,Inverno,Centro-Oeste,J18,Pneumonia,16,64310.28,4019.39,7.3
+2022,8,Agosto,Inverno,Sudeste,J18,Pneumonia,131,533545.47,4072.87,5.0
+2022,8,Agosto,Inverno,Nordeste,J18,Pneumonia,32,119347.8,3729.62,4.8
+2022,8,Agosto,Inverno,Nordeste,J44,DPOC,20,101468.67,5073.43,5.1
+2022,8,Agosto,Inverno,Sul,J44,DPOC,19,97934.98,5154.47,4.3
+2022,8,Agosto,Inverno,Sudeste,J44,DPOC,45,218992.38,4866.5,5.1
+2022,8,Agosto,Inverno,Centro-Oeste,J44,DPOC,2,9542.63,4771.32,4.5
+2022,8,Agosto,Inverno,Centro-Oeste,K35,Apendicite Aguda,4,30852.05,7713.01,5.5
+2022,8,Agosto,Inverno,Nordeste,K35,Apendicite Aguda,22,138553.42,6297.88,4.7
+2022,8,Agosto,Inverno,Sul,K35,Apendicite Aguda,23,150331.75,6536.16,4.8
+2022,8,Agosto,Inverno,Sudeste,K35,Apendicite Aguda,67,424809.83,6340.45,5.5
+2022,8,Agosto,Inverno,Centro-Oeste,M54,Dorsalgia,6,14225.38,2370.9,8.7
+2022,8,Agosto,Inverno,Sul,M54,Dorsalgia,14,39114.81,2793.92,4.9
+2022,8,Agosto,Inverno,Sudeste,M54,Dorsalgia,57,136989.51,2403.32,5.7
+2022,8,Agosto,Inverno,Nordeste,M54,Dorsalgia,24,62692.18,2612.17,5.8
+2022,8,Agosto,Inverno,Sudeste,N39,Infecção Urinária,106,182644.38,1723.06,4.7
+2022,8,Agosto,Inverno,Sul,N39,Infecção Urinária,29,48373.98,1668.07,5.4
+2022,8,Agosto,Inverno,Nordeste,N39,Infecção Urinária,34,57658.25,1695.83,4.6
+2022,8,Agosto,Inverno,Centro-Oeste,N39,Infecção Urinária,11,22083.45,2007.59,4.7
+2022,8,Agosto,Inverno,Centro-Oeste,O80,Parto Normal,8,24222.0,3027.75,5.1
+2022,8,Agosto,Inverno,Sudeste,O80,Parto Normal,88,223831.21,2543.54,4.7
+2022,8,Agosto,Inverno,Nordeste,O80,Parto Normal,32,78855.44,2464.23,4.7
+2022,8,Agosto,Inverno,Sul,O80,Parto Normal,37,90822.21,2454.65,5.6
+2022,9,Setembro,Primavera,Sudeste,A09,Diarreia e Gastroenterite,66,71449.16,1082.56,5.1
+2022,9,Setembro,Primavera,Nordeste,A09,Diarreia e Gastroenterite,16,15389.99,961.87,4.7
+2022,9,Setembro,Primavera,Sul,A09,Diarreia e Gastroenterite,13,13689.42,1053.03,5.5
+2022,9,Setembro,Primavera,Centro-Oeste,A09,Diarreia e Gastroenterite,8,9138.55,1142.32,4.9
+2022,9,Setembro,Primavera,Nordeste,A90,Dengue,21,41060.26,1955.25,5.4
+2022,9,Setembro,Primavera,Sul,A90,Dengue,22,40390.44,1835.93,4.5
+2022,9,Setembro,Primavera,Centro-Oeste,A90,Dengue,4,6875.16,1718.79,3.8
+2022,9,Setembro,Primavera,Sudeste,A90,Dengue,81,147003.45,1814.86,4.6
+2022,9,Setembro,Primavera,Nordeste,B24,Doença pelo HIV,11,66321.36,6029.21,4.2
+2022,9,Setembro,Primavera,Sudeste,B24,Doença pelo HIV,33,207034.92,6273.79,5.2
+2022,9,Setembro,Primavera,Centro-Oeste,B24,Doença pelo HIV,2,10752.43,5376.22,5.5
+2022,9,Setembro,Primavera,Sul,B24,Doença pelo HIV,9,46321.6,5146.84,6.3
+2022,9,Setembro,Primavera,Centro-Oeste,C50,Neoplasia Maligna da Mama,3,59327.88,19775.96,4.3
+2022,9,Setembro,Primavera,Sul,C50,Neoplasia Maligna da Mama,16,296626.75,18539.17,4.5
+2022,9,Setembro,Primavera,Sudeste,C50,Neoplasia Maligna da Mama,39,775678.72,19889.2,5.8
+2022,9,Setembro,Primavera,Nordeste,C50,Neoplasia Maligna da Mama,22,396754.14,18034.28,4.4
+2022,9,Setembro,Primavera,Nordeste,E11,Diabetes Mellitus Tipo 2,29,80195.09,2765.35,4.5
+2022,9,Setembro,Primavera,Sul,E11,Diabetes Mellitus Tipo 2,27,70865.02,2624.63,5.6
+2022,9,Setembro,Primavera,Sudeste,E11,Diabetes Mellitus Tipo 2,101,279633.79,2768.65,5.3
+2022,9,Setembro,Primavera,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,11,30616.28,2783.3,5.8
+2022,9,Setembro,Primavera,Sudeste,F32,Episódio Depressivo,49,147704.87,3014.39,5.0
+2022,9,Setembro,Primavera,Centro-Oeste,F32,Episódio Depressivo,2,6646.78,3323.39,4.5
+2022,9,Setembro,Primavera,Nordeste,F32,Episódio Depressivo,19,60084.19,3162.33,4.7
+2022,9,Setembro,Primavera,Sul,F32,Episódio Depressivo,19,52167.52,2745.66,7.1
+2022,9,Setembro,Primavera,Sudeste,G40,Epilepsia,48,198893.51,4143.61,4.2
+2022,9,Setembro,Primavera,Sul,G40,Epilepsia,17,70746.64,4161.57,5.4
+2022,9,Setembro,Primavera,Centro-Oeste,G40,Epilepsia,2,6737.15,3368.58,6.0
+2022,9,Setembro,Primavera,Nordeste,G40,Epilepsia,17,61353.06,3609.0,4.4
+2022,9,Setembro,Primavera,Centro-Oeste,I21,Infarto Agudo do Miocárdio,9,123251.55,13694.62,4.9
+2022,9,Setembro,Primavera,Sul,I21,Infarto Agudo do Miocárdio,28,395152.86,14112.6,4.8
+2022,9,Setembro,Primavera,Sudeste,I21,Infarto Agudo do Miocárdio,74,1061675.0,14346.96,5.0
+2022,9,Setembro,Primavera,Nordeste,I21,Infarto Agudo do Miocárdio,32,473348.69,14792.15,6.3
+2022,9,Setembro,Primavera,Centro-Oeste,I64,Acidente Vascular Cerebral,6,60217.27,10036.21,3.0
+2022,9,Setembro,Primavera,Sudeste,I64,Acidente Vascular Cerebral,54,503561.47,9325.21,5.9
+2022,9,Setembro,Primavera,Nordeste,I64,Acidente Vascular Cerebral,20,182763.16,9138.16,7.4
+2022,9,Setembro,Primavera,Sul,I64,Acidente Vascular Cerebral,24,201041.17,8376.72,4.5
+2022,9,Setembro,Primavera,Sul,J18,Pneumonia,49,161876.84,3303.61,4.6
+2022,9,Setembro,Primavera,Nordeste,J18,Pneumonia,41,147155.95,3589.17,4.8
+2022,9,Setembro,Primavera,Sudeste,J18,Pneumonia,127,434777.7,3423.45,4.5
+2022,9,Setembro,Primavera,Centro-Oeste,J18,Pneumonia,12,42026.0,3502.17,7.2
+2022,9,Setembro,Primavera,Centro-Oeste,J44,DPOC,2,5462.03,2731.02,7.0
+2022,9,Setembro,Primavera,Sudeste,J44,DPOC,58,263694.22,4546.45,5.5
+2022,9,Setembro,Primavera,Sul,J44,DPOC,14,53669.08,3833.51,5.9
+2022,9,Setembro,Primavera,Nordeste,J44,DPOC,20,82838.51,4141.93,7.3
+2022,9,Setembro,Primavera,Nordeste,K35,Apendicite Aguda,29,167440.35,5773.81,5.6
+2022,9,Setembro,Primavera,Sudeste,K35,Apendicite Aguda,67,385445.61,5752.92,4.7
+2022,9,Setembro,Primavera,Centro-Oeste,K35,Apendicite Aguda,5,25233.15,5046.63,5.8
+2022,9,Setembro,Primavera,Sul,K35,Apendicite Aguda,24,127412.8,5308.87,5.3
+2022,9,Setembro,Primavera,Centro-Oeste,M54,Dorsalgia,5,11069.2,2213.84,5.4
+2022,9,Setembro,Primavera,Sul,M54,Dorsalgia,19,39061.89,2055.89,5.1
+2022,9,Setembro,Primavera,Nordeste,M54,Dorsalgia,24,54153.8,2256.41,5.4
+2022,9,Setembro,Primavera,Sudeste,M54,Dorsalgia,49,108137.85,2206.89,4.1
+2022,9,Setembro,Primavera,Sul,N39,Infecção Urinária,31,49275.46,1589.53,4.7
+2022,9,Setembro,Primavera,Nordeste,N39,Infecção Urinária,36,51880.91,1441.14,4.6
+2022,9,Setembro,Primavera,Sudeste,N39,Infecção Urinária,101,140064.94,1386.78,5.4
+2022,9,Setembro,Primavera,Centro-Oeste,N39,Infecção Urinária,10,12316.2,1231.62,5.1
+2022,9,Setembro,Primavera,Sudeste,O80,Parto Normal,122,262974.72,2155.53,5.6
+2022,9,Setembro,Primavera,Centro-Oeste,O80,Parto Normal,8,15358.42,1919.8,3.8
+2022,9,Setembro,Primavera,Sul,O80,Parto Normal,53,119130.33,2247.74,5.3
+2022,9,Setembro,Primavera,Nordeste,O80,Parto Normal,54,124699.71,2309.25,4.6
+2022,10,Outubro,Primavera,Centro-Oeste,A09,Diarreia e Gastroenterite,4,4010.59,1002.65,6.0
+2022,10,Outubro,Primavera,Nordeste,A09,Diarreia e Gastroenterite,26,28592.78,1099.72,7.0
+2022,10,Outubro,Primavera,Sudeste,A09,Diarreia e Gastroenterite,75,80899.22,1078.66,5.7
+2022,10,Outubro,Primavera,Sul,A09,Diarreia e Gastroenterite,23,25527.67,1109.9,6.1
+2022,10,Outubro,Primavera,Nordeste,A90,Dengue,22,34165.72,1552.99,4.1
+2022,10,Outubro,Primavera,Centro-Oeste,A90,Dengue,8,13310.72,1663.84,2.4
+2022,10,Outubro,Primavera,Sul,A90,Dengue,33,57120.46,1730.92,4.5
+2022,10,Outubro,Primavera,Sudeste,A90,Dengue,69,124269.41,1801.01,5.3
+2022,10,Outubro,Primavera,Sul,B24,Doença pelo HIV,11,73263.69,6660.34,5.6
+2022,10,Outubro,Primavera,Sudeste,B24,Doença pelo HIV,27,166349.61,6161.1,4.8
+2022,10,Outubro,Primavera,Nordeste,B24,Doença pelo HIV,12,70070.19,5839.18,4.3
+2022,10,Outubro,Primavera,Centro-Oeste,B24,Doença pelo HIV,2,8763.39,4381.7,5.5
+2022,10,Outubro,Primavera,Nordeste,C50,Neoplasia Maligna da Mama,13,232782.33,17906.33,4.9
+2022,10,Outubro,Primavera,Sudeste,C50,Neoplasia Maligna da Mama,53,883308.85,16666.2,4.4
+2022,10,Outubro,Primavera,Sul,C50,Neoplasia Maligna da Mama,16,301832.87,18864.55,5.8
+2022,10,Outubro,Primavera,Centro-Oeste,C50,Neoplasia Maligna da Mama,3,50306.88,16768.96,3.3
+2022,10,Outubro,Primavera,Sul,E11,Diabetes Mellitus Tipo 2,25,63182.08,2527.28,5.0
+2022,10,Outubro,Primavera,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,4,9956.87,2489.22,6.8
+2022,10,Outubro,Primavera,Sudeste,E11,Diabetes Mellitus Tipo 2,79,199037.0,2519.46,5.6
+2022,10,Outubro,Primavera,Nordeste,E11,Diabetes Mellitus Tipo 2,26,62743.02,2413.19,5.7
+2022,10,Outubro,Primavera,Nordeste,F32,Episódio Depressivo,20,60104.57,3005.23,5.1
+2022,10,Outubro,Primavera,Centro-Oeste,F32,Episódio Depressivo,8,26173.9,3271.74,6.0
+2022,10,Outubro,Primavera,Sul,F32,Episódio Depressivo,17,57670.71,3392.39,5.5
+2022,10,Outubro,Primavera,Sudeste,F32,Episódio Depressivo,58,172269.68,2970.17,5.5
+2022,10,Outubro,Primavera,Centro-Oeste,G40,Epilepsia,2,10733.49,5366.75,5.0
+2022,10,Outubro,Primavera,Nordeste,G40,Epilepsia,26,103390.7,3976.57,4.9
+2022,10,Outubro,Primavera,Sul,G40,Epilepsia,13,49374.71,3798.05,6.3
+2022,10,Outubro,Primavera,Sudeste,G40,Epilepsia,48,178998.57,3729.14,4.8
+2022,10,Outubro,Primavera,Centro-Oeste,I21,Infarto Agudo do Miocárdio,10,127459.31,12745.93,5.6
+2022,10,Outubro,Primavera,Sul,I21,Infarto Agudo do Miocárdio,19,260974.14,13735.48,3.7
+2022,10,Outubro,Primavera,Sudeste,I21,Infarto Agudo do Miocárdio,77,1137279.15,14769.86,4.6
+2022,10,Outubro,Primavera,Nordeste,I21,Infarto Agudo do Miocárdio,34,447605.45,13164.87,3.7
+2022,10,Outubro,Primavera,Sudeste,I64,Acidente Vascular Cerebral,73,740284.73,10140.89,5.4
+2022,10,Outubro,Primavera,Nordeste,I64,Acidente Vascular Cerebral,23,246075.88,10698.95,5.3
+2022,10,Outubro,Primavera,Sul,I64,Acidente Vascular Cerebral,26,262397.91,10092.23,5.6
+2022,10,Outubro,Primavera,Centro-Oeste,I64,Acidente Vascular Cerebral,3,24466.79,8155.6,1.7
+2022,10,Outubro,Primavera,Sul,J18,Pneumonia,48,164488.39,3426.84,5.6
+2022,10,Outubro,Primavera,Nordeste,J18,Pneumonia,46,161084.85,3501.84,5.1
+2022,10,Outubro,Primavera,Centro-Oeste,J18,Pneumonia,8,30964.17,3870.52,6.3
+2022,10,Outubro,Primavera,Sudeste,J18,Pneumonia,149,478179.75,3209.26,4.5
+2022,10,Outubro,Primavera,Centro-Oeste,J44,DPOC,4,19060.96,4765.24,8.5
+2022,10,Outubro,Primavera,Nordeste,J44,DPOC,20,74353.95,3717.7,5.0
+2022,10,Outubro,Primavera,Sudeste,J44,DPOC,57,231129.51,4054.9,5.6
+2022,10,Outubro,Primavera,Sul,J44,DPOC,19,75517.93,3974.63,6.1
+2022,10,Outubro,Primavera,Centro-Oeste,K35,Apendicite Aguda,9,41182.9,4575.88,4.8
+2022,10,Outubro,Primavera,Sul,K35,Apendicite Aguda,22,109931.03,4996.87,6.5
+2022,10,Outubro,Primavera,Sudeste,K35,Apendicite Aguda,68,364767.82,5364.23,6.6
+2022,10,Outubro,Primavera,Nordeste,K35,Apendicite Aguda,16,90635.16,5664.7,5.9
+2022,10,Outubro,Primavera,Nordeste,M54,Dorsalgia,13,29359.31,2258.41,4.3
+2022,10,Outubro,Primavera,Sudeste,M54,Dorsalgia,67,151513.39,2261.39,5.2
+2022,10,Outubro,Primavera,Sul,M54,Dorsalgia,20,43875.16,2193.76,4.5
+2022,10,Outubro,Primavera,Centro-Oeste,M54,Dorsalgia,6,13827.36,2304.56,4.8
+2022,10,Outubro,Primavera,Sul,N39,Infecção Urinária,32,45961.51,1436.3,5.9
+2022,10,Outubro,Primavera,Nordeste,N39,Infecção Urinária,27,42034.06,1556.82,5.3
+2022,10,Outubro,Primavera,Centro-Oeste,N39,Infecção Urinária,9,11859.66,1317.74,3.9
+2022,10,Outubro,Primavera,Sudeste,N39,Infecção Urinária,94,134895.3,1435.06,4.8
+2022,10,Outubro,Primavera,Centro-Oeste,O80,Parto Normal,9,16166.51,1796.28,4.6
+2022,10,Outubro,Primavera,Sudeste,O80,Parto Normal,96,207756.67,2164.13,4.8
+2022,10,Outubro,Primavera,Sul,O80,Parto Normal,38,79018.29,2079.43,5.6
+2022,10,Outubro,Primavera,Nordeste,O80,Parto Normal,38,82837.14,2179.92,4.9
+2022,11,Novembro,Primavera,Sul,A09,Diarreia e Gastroenterite,28,30915.68,1104.13,4.0
+2022,11,Novembro,Primavera,Centro-Oeste,A09,Diarreia e Gastroenterite,4,4219.75,1054.94,8.8
+2022,11,Novembro,Primavera,Nordeste,A09,Diarreia e Gastroenterite,42,43784.66,1042.49,5.8
+2022,11,Novembro,Primavera,Sudeste,A09,Diarreia e Gastroenterite,71,77483.11,1091.31,4.9
+2022,11,Novembro,Primavera,Sudeste,A90,Dengue,95,171968.32,1810.19,4.5
+2022,11,Novembro,Primavera,Centro-Oeste,A90,Dengue,6,10571.96,1761.99,4.2
+2022,11,Novembro,Primavera,Sul,A90,Dengue,22,37647.06,1711.23,3.5
+2022,11,Novembro,Primavera,Nordeste,A90,Dengue,20,36625.09,1831.25,5.6
+2022,11,Novembro,Primavera,Centro-Oeste,B24,Doença pelo HIV,2,8031.09,4015.55,3.0
+2022,11,Novembro,Primavera,Nordeste,B24,Doença pelo HIV,11,65603.34,5963.94,6.4
+2022,11,Novembro,Primavera,Sul,B24,Doença pelo HIV,9,58661.76,6517.97,5.6
+2022,11,Novembro,Primavera,Sudeste,B24,Doença pelo HIV,27,148701.19,5507.45,5.7
+2022,11,Novembro,Primavera,Sul,C50,Neoplasia Maligna da Mama,15,284667.53,18977.84,5.7
+2022,11,Novembro,Primavera,Sudeste,C50,Neoplasia Maligna da Mama,39,737570.94,18912.08,5.3
+2022,11,Novembro,Primavera,Centro-Oeste,C50,Neoplasia Maligna da Mama,4,69871.21,17467.8,7.0
+2022,11,Novembro,Primavera,Nordeste,C50,Neoplasia Maligna da Mama,15,253467.85,16897.86,5.9
+2022,11,Novembro,Primavera,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,7,20717.89,2959.7,3.3
+2022,11,Novembro,Primavera,Sudeste,E11,Diabetes Mellitus Tipo 2,86,240559.64,2797.21,5.3
+2022,11,Novembro,Primavera,Sul,E11,Diabetes Mellitus Tipo 2,28,78949.18,2819.61,5.6
+2022,11,Novembro,Primavera,Nordeste,E11,Diabetes Mellitus Tipo 2,28,76113.17,2718.33,4.7
+2022,11,Novembro,Primavera,Nordeste,F32,Episódio Depressivo,16,51917.53,3244.85,5.2
+2022,11,Novembro,Primavera,Sudeste,F32,Episódio Depressivo,60,179676.06,2994.6,6.1
+2022,11,Novembro,Primavera,Sul,F32,Episódio Depressivo,14,39736.0,2838.29,7.4
+2022,11,Novembro,Primavera,Centro-Oeste,F32,Episódio Depressivo,7,21825.51,3117.93,5.0
+2022,11,Novembro,Primavera,Nordeste,G40,Epilepsia,22,75608.85,3436.77,4.6
+2022,11,Novembro,Primavera,Sul,G40,Epilepsia,27,107944.8,3997.96,5.5
+2022,11,Novembro,Primavera,Sudeste,G40,Epilepsia,53,209949.91,3961.32,4.8
+2022,11,Novembro,Primavera,Centro-Oeste,G40,Epilepsia,4,13777.21,3444.3,9.0
+2022,11,Novembro,Primavera,Sudeste,I21,Infarto Agudo do Miocárdio,78,1133870.63,14536.8,5.7
+2022,11,Novembro,Primavera,Nordeste,I21,Infarto Agudo do Miocárdio,28,398227.34,14222.4,5.2
+2022,11,Novembro,Primavera,Sul,I21,Infarto Agudo do Miocárdio,35,475118.48,13574.81,5.6
+2022,11,Novembro,Primavera,Centro-Oeste,I64,Acidente Vascular Cerebral,5,40505.5,8101.1,5.8
+2022,11,Novembro,Primavera,Sudeste,I64,Acidente Vascular Cerebral,57,531609.63,9326.48,6.5
+2022,11,Novembro,Primavera,Nordeste,I64,Acidente Vascular Cerebral,24,212837.44,8868.23,3.5
+2022,11,Novembro,Primavera,Sul,I64,Acidente Vascular Cerebral,18,183988.81,10221.6,5.5
+2022,11,Novembro,Primavera,Sudeste,J18,Pneumonia,140,479958.25,3428.27,5.6
+2022,11,Novembro,Primavera,Centro-Oeste,J18,Pneumonia,10,35160.86,3516.09,1.5
+2022,11,Novembro,Primavera,Nordeste,J18,Pneumonia,46,152719.03,3319.98,5.5
+2022,11,Novembro,Primavera,Sul,J18,Pneumonia,41,132997.33,3243.84,6.0
+2022,11,Novembro,Primavera,Sudeste,J44,DPOC,55,237978.84,4326.89,6.1
+2022,11,Novembro,Primavera,Nordeste,J44,DPOC,21,93908.53,4471.83,6.7
+2022,11,Novembro,Primavera,Sul,J44,DPOC,19,72751.47,3829.02,5.7
+2022,11,Novembro,Primavera,Centro-Oeste,J44,DPOC,2,10558.2,5279.1,2.0
+2022,11,Novembro,Primavera,Sudeste,K35,Apendicite Aguda,82,437047.37,5329.85,4.7
+2022,11,Novembro,Primavera,Nordeste,K35,Apendicite Aguda,16,79401.64,4962.6,5.1
+2022,11,Novembro,Primavera,Sul,K35,Apendicite Aguda,23,121536.79,5284.21,4.4
+2022,11,Novembro,Primavera,Centro-Oeste,K35,Apendicite Aguda,7,44662.56,6380.37,3.4
+2022,11,Novembro,Primavera,Centro-Oeste,M54,Dorsalgia,11,24850.32,2259.12,4.5
+2022,11,Novembro,Primavera,Sudeste,M54,Dorsalgia,65,143443.62,2206.82,4.3
+2022,11,Novembro,Primavera,Nordeste,M54,Dorsalgia,25,55898.59,2235.94,5.1
+2022,11,Novembro,Primavera,Sul,M54,Dorsalgia,18,41016.61,2278.7,6.1
+2022,11,Novembro,Primavera,Centro-Oeste,N39,Infecção Urinária,5,7714.7,1542.94,2.2
+2022,11,Novembro,Primavera,Nordeste,N39,Infecção Urinária,32,52276.28,1633.63,6.1
+2022,11,Novembro,Primavera,Sul,N39,Infecção Urinária,30,43603.84,1453.46,6.0
+2022,11,Novembro,Primavera,Sudeste,N39,Infecção Urinária,95,134742.08,1418.34,6.2
+2022,11,Novembro,Primavera,Sul,O80,Parto Normal,28,63043.46,2251.55,5.8
+2022,11,Novembro,Primavera,Centro-Oeste,O80,Parto Normal,9,23054.0,2561.56,4.2
+2022,11,Novembro,Primavera,Sudeste,O80,Parto Normal,103,227953.33,2213.14,6.1
+2022,11,Novembro,Primavera,Nordeste,O80,Parto Normal,32,62678.23,1958.69,4.7
+2022,12,Dezembro,Verão,Centro-Oeste,A09,Diarreia e Gastroenterite,8,9424.66,1178.08,7.5
+2022,12,Dezembro,Verão,Sudeste,A09,Diarreia e Gastroenterite,73,85107.71,1165.86,5.2
+2022,12,Dezembro,Verão,Nordeste,A09,Diarreia e Gastroenterite,19,20381.57,1072.71,6.2
+2022,12,Dezembro,Verão,Sul,A09,Diarreia e Gastroenterite,23,25071.99,1090.09,6.2
+2022,12,Dezembro,Verão,Nordeste,A90,Dengue,27,51843.19,1920.12,4.1
+2022,12,Dezembro,Verão,Centro-Oeste,A90,Dengue,5,9548.31,1909.66,2.6
+2022,12,Dezembro,Verão,Sul,A90,Dengue,20,32643.69,1632.18,6.1
+2022,12,Dezembro,Verão,Sudeste,A90,Dengue,67,115457.01,1723.24,5.5
+2022,12,Dezembro,Verão,Centro-Oeste,B24,Doença pelo HIV,3,19852.16,6617.39,7.0
+2022,12,Dezembro,Verão,Sul,B24,Doença pelo HIV,7,38975.45,5567.92,7.1
+2022,12,Dezembro,Verão,Sudeste,B24,Doença pelo HIV,30,175504.73,5850.16,3.7
+2022,12,Dezembro,Verão,Nordeste,B24,Doença pelo HIV,16,98702.64,6168.91,4.4
+2022,12,Dezembro,Verão,Sudeste,C50,Neoplasia Maligna da Mama,36,667438.17,18539.95,5.0
+2022,12,Dezembro,Verão,Sul,C50,Neoplasia Maligna da Mama,27,457841.2,16957.08,5.3
+2022,12,Dezembro,Verão,Centro-Oeste,C50,Neoplasia Maligna da Mama,9,174948.88,19438.76,4.7
+2022,12,Dezembro,Verão,Nordeste,C50,Neoplasia Maligna da Mama,22,366376.42,16653.47,5.4
+2022,12,Dezembro,Verão,Sudeste,E11,Diabetes Mellitus Tipo 2,70,187555.3,2679.36,5.0
+2022,12,Dezembro,Verão,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,6,18720.45,3120.08,4.3
+2022,12,Dezembro,Verão,Nordeste,E11,Diabetes Mellitus Tipo 2,25,65243.96,2609.76,4.5
+2022,12,Dezembro,Verão,Sul,E11,Diabetes Mellitus Tipo 2,30,80136.62,2671.22,4.7
+2022,12,Dezembro,Verão,Nordeste,F32,Episódio Depressivo,21,63998.77,3047.56,5.3
+2022,12,Dezembro,Verão,Sudeste,F32,Episódio Depressivo,61,180778.96,2963.59,5.2
+2022,12,Dezembro,Verão,Centro-Oeste,F32,Episódio Depressivo,7,16588.7,2369.81,4.1
+2022,12,Dezembro,Verão,Sul,F32,Episódio Depressivo,12,38448.7,3204.06,4.8
+2022,12,Dezembro,Verão,Sudeste,G40,Epilepsia,56,213308.26,3809.08,5.3
+2022,12,Dezembro,Verão,Nordeste,G40,Epilepsia,16,62191.69,3886.98,4.6
+2022,12,Dezembro,Verão,Sul,G40,Epilepsia,20,78966.33,3948.32,5.1
+2022,12,Dezembro,Verão,Centro-Oeste,G40,Epilepsia,5,17824.73,3564.95,5.6
+2022,12,Dezembro,Verão,Nordeste,I21,Infarto Agudo do Miocárdio,32,479887.29,14996.48,4.8
+2022,12,Dezembro,Verão,Sul,I21,Infarto Agudo do Miocárdio,28,387562.72,13841.53,4.5
+2022,12,Dezembro,Verão,Sudeste,I21,Infarto Agudo do Miocárdio,83,1163944.82,14023.43,4.7
+2022,12,Dezembro,Verão,Centro-Oeste,I21,Infarto Agudo do Miocárdio,9,129244.59,14360.51,7.8
+2022,12,Dezembro,Verão,Nordeste,I64,Acidente Vascular Cerebral,26,226374.83,8706.72,4.7
+2022,12,Dezembro,Verão,Centro-Oeste,I64,Acidente Vascular Cerebral,9,73615.26,8179.47,4.8
+2022,12,Dezembro,Verão,Sudeste,I64,Acidente Vascular Cerebral,58,547562.5,9440.73,5.5
+2022,12,Dezembro,Verão,Sul,I64,Acidente Vascular Cerebral,22,230241.12,10465.51,4.8
+2022,12,Dezembro,Verão,Nordeste,J18,Pneumonia,50,160254.18,3205.08,4.9
+2022,12,Dezembro,Verão,Sul,J18,Pneumonia,49,158599.2,3236.72,5.7
+2022,12,Dezembro,Verão,Centro-Oeste,J18,Pneumonia,9,28903.23,3211.47,4.9
+2022,12,Dezembro,Verão,Sudeste,J18,Pneumonia,116,401838.66,3464.13,5.1
+2022,12,Dezembro,Verão,Sudeste,J44,DPOC,47,185998.14,3957.41,5.4
+2022,12,Dezembro,Verão,Sul,J44,DPOC,17,69345.07,4079.12,5.5
+2022,12,Dezembro,Verão,Centro-Oeste,J44,DPOC,4,17929.93,4482.48,8.8
+2022,12,Dezembro,Verão,Nordeste,J44,DPOC,14,61347.19,4381.94,4.4
+2022,12,Dezembro,Verão,Centro-Oeste,K35,Apendicite Aguda,4,14622.1,3655.53,2.3
+2022,12,Dezembro,Verão,Sul,K35,Apendicite Aguda,23,129592.2,5634.44,4.2
+2022,12,Dezembro,Verão,Nordeste,K35,Apendicite Aguda,21,112468.67,5355.65,4.6
+2022,12,Dezembro,Verão,Sudeste,K35,Apendicite Aguda,55,293922.53,5344.05,4.5
+2022,12,Dezembro,Verão,Centro-Oeste,M54,Dorsalgia,1,2523.76,2523.76,5.0
+2022,12,Dezembro,Verão,Nordeste,M54,Dorsalgia,29,58201.88,2006.96,5.4
+2022,12,Dezembro,Verão,Sudeste,M54,Dorsalgia,46,104380.82,2269.15,5.0
+2022,12,Dezembro,Verão,Sul,M54,Dorsalgia,18,37704.72,2094.71,5.9
+2022,12,Dezembro,Verão,Sudeste,N39,Infecção Urinária,104,155426.2,1494.48,4.6
+2022,12,Dezembro,Verão,Centro-Oeste,N39,Infecção Urinária,11,15984.44,1453.13,7.9
+2022,12,Dezembro,Verão,Sul,N39,Infecção Urinária,39,53511.33,1372.09,5.1
+2022,12,Dezembro,Verão,Nordeste,N39,Infecção Urinária,45,66366.52,1474.81,6.4
+2022,12,Dezembro,Verão,Nordeste,O80,Parto Normal,47,97095.59,2065.86,6.2
+2022,12,Dezembro,Verão,Sudeste,O80,Parto Normal,105,221205.24,2106.72,4.9
+2022,12,Dezembro,Verão,Sul,O80,Parto Normal,29,63825.6,2200.88,5.0
+2022,12,Dezembro,Verão,Centro-Oeste,O80,Parto Normal,13,28225.98,2171.23,4.0
+2023,1,Janeiro,Verão,Nordeste,A09,Diarreia e Gastroenterite,31,47642.22,1536.85,6.3
+2023,1,Janeiro,Verão,Sudeste,A09,Diarreia e Gastroenterite,96,144571.65,1505.95,5.3
+2023,1,Janeiro,Verão,Sul,A09,Diarreia e Gastroenterite,33,50340.38,1525.47,4.2
+2023,1,Janeiro,Verão,Centro-Oeste,A09,Diarreia e Gastroenterite,9,13331.3,1481.26,3.9
+2023,1,Janeiro,Verão,Nordeste,A90,Dengue,29,69012.41,2379.74,5.3
+2023,1,Janeiro,Verão,Sul,A90,Dengue,26,64599.64,2484.6,4.0
+2023,1,Janeiro,Verão,Centro-Oeste,A90,Dengue,10,24687.17,2468.72,8.3
+2023,1,Janeiro,Verão,Sudeste,A90,Dengue,111,277287.85,2498.09,5.1
+2023,1,Janeiro,Verão,Sul,B24,Doença pelo HIV,15,114243.58,7616.24,3.5
+2023,1,Janeiro,Verão,Sudeste,B24,Doença pelo HIV,37,293815.62,7940.96,5.7
+2023,1,Janeiro,Verão,Centro-Oeste,B24,Doença pelo HIV,4,28727.74,7181.94,4.8
+2023,1,Janeiro,Verão,Nordeste,B24,Doença pelo HIV,15,133710.25,8914.02,6.5
+2023,1,Janeiro,Verão,Sul,C50,Neoplasia Maligna da Mama,20,493048.82,24652.44,6.8
+2023,1,Janeiro,Verão,Sudeste,C50,Neoplasia Maligna da Mama,64,1634164.53,25533.82,4.7
+2023,1,Janeiro,Verão,Nordeste,C50,Neoplasia Maligna da Mama,16,377021.83,23563.86,3.8
+2023,1,Janeiro,Verão,Centro-Oeste,C50,Neoplasia Maligna da Mama,6,169218.76,28203.13,7.3
+2023,1,Janeiro,Verão,Sul,E11,Diabetes Mellitus Tipo 2,29,105972.48,3654.22,5.2
+2023,1,Janeiro,Verão,Nordeste,E11,Diabetes Mellitus Tipo 2,36,137559.63,3821.1,5.2
+2023,1,Janeiro,Verão,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,11,40938.05,3721.64,4.7
+2023,1,Janeiro,Verão,Sudeste,E11,Diabetes Mellitus Tipo 2,112,431628.67,3853.83,5.3
+2023,1,Janeiro,Verão,Sul,F32,Episódio Depressivo,28,113953.17,4069.76,5.3
+2023,1,Janeiro,Verão,Nordeste,F32,Episódio Depressivo,26,106283.08,4087.81,4.0
+2023,1,Janeiro,Verão,Centro-Oeste,F32,Episódio Depressivo,2,5585.21,2792.61,3.0
+2023,1,Janeiro,Verão,Sudeste,F32,Episódio Depressivo,56,236148.39,4216.94,5.4
+2023,1,Janeiro,Verão,Nordeste,G40,Epilepsia,19,91770.37,4830.02,4.4
+2023,1,Janeiro,Verão,Sudeste,G40,Epilepsia,67,362626.34,5412.33,5.5
+2023,1,Janeiro,Verão,Centro-Oeste,G40,Epilepsia,6,38978.45,6496.41,7.0
+2023,1,Janeiro,Verão,Sul,G40,Epilepsia,20,106873.42,5343.67,5.2
+2023,1,Janeiro,Verão,Nordeste,I21,Infarto Agudo do Miocárdio,45,859496.59,19099.92,4.4
+2023,1,Janeiro,Verão,Centro-Oeste,I21,Infarto Agudo do Miocárdio,13,251847.1,19372.85,3.5
+2023,1,Janeiro,Verão,Sul,I21,Infarto Agudo do Miocárdio,35,712736.21,20363.89,4.9
+2023,1,Janeiro,Verão,Sudeste,I21,Infarto Agudo do Miocárdio,96,1959753.93,20414.1,5.4
+2023,1,Janeiro,Verão,Sul,I64,Acidente Vascular Cerebral,30,420210.19,14007.01,5.8
+2023,1,Janeiro,Verão,Sudeste,I64,Acidente Vascular Cerebral,81,1076944.94,13295.62,4.6
+2023,1,Janeiro,Verão,Nordeste,I64,Acidente Vascular Cerebral,35,528048.4,15087.1,4.6
+2023,1,Janeiro,Verão,Centro-Oeste,I64,Acidente Vascular Cerebral,5,73993.58,14798.72,4.8
+2023,1,Janeiro,Verão,Centro-Oeste,J18,Pneumonia,13,57523.41,4424.88,6.0
+2023,1,Janeiro,Verão,Sudeste,J18,Pneumonia,156,744737.05,4773.96,5.3
+2023,1,Janeiro,Verão,Nordeste,J18,Pneumonia,50,232155.21,4643.1,5.2
+2023,1,Janeiro,Verão,Sul,J18,Pneumonia,35,165351.66,4724.33,5.8
+2023,1,Janeiro,Verão,Sul,J44,DPOC,18,109864.96,6103.61,5.7
+2023,1,Janeiro,Verão,Sudeste,J44,DPOC,71,435311.6,6131.15,5.3
+2023,1,Janeiro,Verão,Nordeste,J44,DPOC,25,125120.62,5004.82,6.2
+2023,1,Janeiro,Verão,Centro-Oeste,J44,DPOC,8,41535.26,5191.91,4.4
+2023,1,Janeiro,Verão,Centro-Oeste,K35,Apendicite Aguda,3,24022.62,8007.54,5.0
+2023,1,Janeiro,Verão,Sul,K35,Apendicite Aguda,30,217441.14,7248.04,4.8
+2023,1,Janeiro,Verão,Nordeste,K35,Apendicite Aguda,23,176069.17,7655.18,5.4
+2023,1,Janeiro,Verão,Sudeste,K35,Apendicite Aguda,77,563145.91,7313.58,5.3
+2023,1,Janeiro,Verão,Sudeste,M54,Dorsalgia,62,196578.44,3170.62,5.6
+2023,1,Janeiro,Verão,Nordeste,M54,Dorsalgia,29,78379.42,2702.74,6.0
+2023,1,Janeiro,Verão,Sul,M54,Dorsalgia,17,52165.16,3068.54,3.1
+2023,1,Janeiro,Verão,Centro-Oeste,M54,Dorsalgia,6,20087.35,3347.89,5.8
+2023,1,Janeiro,Verão,Sul,N39,Infecção Urinária,32,64812.77,2025.4,4.6
+2023,1,Janeiro,Verão,Sudeste,N39,Infecção Urinária,108,216081.36,2000.75,4.6
+2023,1,Janeiro,Verão,Nordeste,N39,Infecção Urinária,50,102591.1,2051.82,5.1
+2023,1,Janeiro,Verão,Centro-Oeste,N39,Infecção Urinária,9,18615.76,2068.42,5.2
+2023,1,Janeiro,Verão,Nordeste,O80,Parto Normal,47,143455.29,3052.24,4.7
+2023,1,Janeiro,Verão,Sudeste,O80,Parto Normal,127,383828.64,3022.27,4.8
+2023,1,Janeiro,Verão,Centro-Oeste,O80,Parto Normal,10,33280.46,3328.05,4.1
+2023,1,Janeiro,Verão,Sul,O80,Parto Normal,39,117547.27,3014.03,5.0
+2023,2,Fevereiro,Verão,Nordeste,A09,Diarreia e Gastroenterite,29,48089.6,1658.26,4.8
+2023,2,Fevereiro,Verão,Sul,A09,Diarreia e Gastroenterite,32,49120.97,1535.03,5.2
+2023,2,Fevereiro,Verão,Sudeste,A09,Diarreia e Gastroenterite,85,128169.4,1507.88,5.5
+2023,2,Fevereiro,Verão,Centro-Oeste,A09,Diarreia e Gastroenterite,10,15121.35,1512.13,4.3
+2023,2,Fevereiro,Verão,Centro-Oeste,A90,Dengue,8,19247.26,2405.91,4.1
+2023,2,Fevereiro,Verão,Sul,A90,Dengue,23,61029.93,2653.48,3.7
+2023,2,Fevereiro,Verão,Nordeste,A90,Dengue,26,60221.61,2316.22,5.7
+2023,2,Fevereiro,Verão,Sudeste,A90,Dengue,94,243758.66,2593.18,5.2
+2023,2,Fevereiro,Verão,Sudeste,B24,Doença pelo HIV,38,307638.51,8095.75,5.4
+2023,2,Fevereiro,Verão,Sul,B24,Doença pelo HIV,7,54991.69,7855.96,5.3
+2023,2,Fevereiro,Verão,Nordeste,B24,Doença pelo HIV,17,139653.39,8214.91,4.4
+2023,2,Fevereiro,Verão,Centro-Oeste,B24,Doença pelo HIV,4,32797.44,8199.36,6.0
+2023,2,Fevereiro,Verão,Nordeste,C50,Neoplasia Maligna da Mama,15,354938.72,23662.58,6.5
+2023,2,Fevereiro,Verão,Sudeste,C50,Neoplasia Maligna da Mama,51,1259742.68,24700.84,4.8
+2023,2,Fevereiro,Verão,Centro-Oeste,C50,Neoplasia Maligna da Mama,5,124553.81,24910.76,6.2
+2023,2,Fevereiro,Verão,Sul,C50,Neoplasia Maligna da Mama,18,461246.61,25624.81,4.7
+2023,2,Fevereiro,Verão,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,8,24908.93,3113.62,6.5
+2023,2,Fevereiro,Verão,Sudeste,E11,Diabetes Mellitus Tipo 2,106,404118.55,3812.44,5.0
+2023,2,Fevereiro,Verão,Nordeste,E11,Diabetes Mellitus Tipo 2,42,158728.98,3779.26,5.7
+2023,2,Fevereiro,Verão,Sul,E11,Diabetes Mellitus Tipo 2,38,144666.23,3807.01,5.0
+2023,2,Fevereiro,Verão,Nordeste,F32,Episódio Depressivo,27,105349.49,3901.83,5.7
+2023,2,Fevereiro,Verão,Centro-Oeste,F32,Episódio Depressivo,7,25825.11,3689.3,5.3
+2023,2,Fevereiro,Verão,Sudeste,F32,Episódio Depressivo,64,249232.03,3894.25,5.4
+2023,2,Fevereiro,Verão,Sul,F32,Episódio Depressivo,22,91680.95,4167.32,6.1
+2023,2,Fevereiro,Verão,Sul,G40,Epilepsia,24,133250.2,5552.09,4.3
+2023,2,Fevereiro,Verão,Centro-Oeste,G40,Epilepsia,4,24363.73,6090.93,3.8
+2023,2,Fevereiro,Verão,Sudeste,G40,Epilepsia,54,305025.94,5648.63,5.6
+2023,2,Fevereiro,Verão,Nordeste,G40,Epilepsia,24,125983.35,5249.31,4.5
+2023,2,Fevereiro,Verão,Centro-Oeste,I21,Infarto Agudo do Miocárdio,7,139236.4,19890.91,4.4
+2023,2,Fevereiro,Verão,Sudeste,I21,Infarto Agudo do Miocárdio,102,2024032.83,19843.46,5.4
+2023,2,Fevereiro,Verão,Nordeste,I21,Infarto Agudo do Miocárdio,38,694096.39,18265.69,4.8
+2023,2,Fevereiro,Verão,Sul,I21,Infarto Agudo do Miocárdio,29,580103.63,20003.57,4.2
+2023,2,Fevereiro,Verão,Nordeste,I64,Acidente Vascular Cerebral,31,405324.42,13074.98,4.7
+2023,2,Fevereiro,Verão,Sul,I64,Acidente Vascular Cerebral,28,359678.81,12845.67,4.6
+2023,2,Fevereiro,Verão,Centro-Oeste,I64,Acidente Vascular Cerebral,4,38571.37,9642.84,2.8
+2023,2,Fevereiro,Verão,Sudeste,I64,Acidente Vascular Cerebral,68,936075.51,13765.82,5.0
+2023,2,Fevereiro,Verão,Sudeste,J18,Pneumonia,160,766271.75,4789.2,4.7
+2023,2,Fevereiro,Verão,Centro-Oeste,J18,Pneumonia,11,51083.52,4643.96,3.8
+2023,2,Fevereiro,Verão,Sul,J18,Pneumonia,61,288722.31,4733.15,4.9
+2023,2,Fevereiro,Verão,Nordeste,J18,Pneumonia,54,267162.79,4947.46,5.4
+2023,2,Fevereiro,Verão,Centro-Oeste,J44,DPOC,2,13909.89,6954.95,1.5
+2023,2,Fevereiro,Verão,Sudeste,J44,DPOC,65,385829.26,5935.83,4.9
+2023,2,Fevereiro,Verão,Nordeste,J44,DPOC,27,151618.55,5615.5,5.4
+2023,2,Fevereiro,Verão,Sul,J44,DPOC,19,126018.85,6632.57,4.4
+2023,2,Fevereiro,Verão,Sul,K35,Apendicite Aguda,23,160680.17,6986.09,5.8
+2023,2,Fevereiro,Verão,Sudeste,K35,Apendicite Aguda,70,513687.45,7338.39,5.4
+2023,2,Fevereiro,Verão,Nordeste,K35,Apendicite Aguda,29,229707.94,7920.96,7.0
+2023,2,Fevereiro,Verão,Centro-Oeste,K35,Apendicite Aguda,11,90379.66,8216.33,3.6
+2023,2,Fevereiro,Verão,Sudeste,M54,Dorsalgia,73,218916.7,2998.86,5.2
+2023,2,Fevereiro,Verão,Centro-Oeste,M54,Dorsalgia,4,11999.69,2999.92,4.3
+2023,2,Fevereiro,Verão,Nordeste,M54,Dorsalgia,13,43072.85,3313.3,6.2
+2023,2,Fevereiro,Verão,Sul,M54,Dorsalgia,23,69662.39,3028.8,6.3
+2023,2,Fevereiro,Verão,Sul,N39,Infecção Urinária,34,64480.72,1896.49,5.4
+2023,2,Fevereiro,Verão,Centro-Oeste,N39,Infecção Urinária,8,14504.61,1813.08,6.4
+2023,2,Fevereiro,Verão,Nordeste,N39,Infecção Urinária,44,91241.0,2073.66,5.6
+2023,2,Fevereiro,Verão,Sudeste,N39,Infecção Urinária,108,217684.21,2015.59,5.5
+2023,2,Fevereiro,Verão,Centro-Oeste,O80,Parto Normal,11,33029.45,3002.68,4.5
+2023,2,Fevereiro,Verão,Nordeste,O80,Parto Normal,46,120345.29,2616.2,4.4
+2023,2,Fevereiro,Verão,Sul,O80,Parto Normal,49,152592.96,3114.14,4.0
+2023,2,Fevereiro,Verão,Sudeste,O80,Parto Normal,135,420596.81,3115.53,5.3
+2023,3,Março,Outono,Sul,A09,Diarreia e Gastroenterite,39,59640.35,1529.24,5.2
+2023,3,Março,Outono,Centro-Oeste,A09,Diarreia e Gastroenterite,11,14118.35,1283.49,7.6
+2023,3,Março,Outono,Nordeste,A09,Diarreia e Gastroenterite,36,56570.05,1571.39,5.0
+2023,3,Março,Outono,Sudeste,A09,Diarreia e Gastroenterite,73,110909.07,1519.3,4.5
+2023,3,Março,Outono,Sudeste,A90,Dengue,87,225340.24,2590.12,5.0
+2023,3,Março,Outono,Centro-Oeste,A90,Dengue,5,13077.66,2615.53,6.2
+2023,3,Março,Outono,Sul,A90,Dengue,22,57057.34,2593.52,5.2
+2023,3,Março,Outono,Nordeste,A90,Dengue,18,45609.49,2533.86,4.3
+2023,3,Março,Outono,Sudeste,B24,Doença pelo HIV,39,346779.81,8891.79,4.8
+2023,3,Março,Outono,Centro-Oeste,B24,Doença pelo HIV,1,9617.15,9617.15,1.0
+2023,3,Março,Outono,Nordeste,B24,Doença pelo HIV,15,130387.5,8692.5,6.1
+2023,3,Março,Outono,Sul,B24,Doença pelo HIV,11,89224.88,8111.35,4.0
+2023,3,Março,Outono,Nordeste,C50,Neoplasia Maligna da Mama,19,451296.23,23752.43,5.4
+2023,3,Março,Outono,Sul,C50,Neoplasia Maligna da Mama,18,440491.55,24471.75,5.9
+2023,3,Março,Outono,Centro-Oeste,C50,Neoplasia Maligna da Mama,4,109637.0,27409.25,2.5
+2023,3,Março,Outono,Sudeste,C50,Neoplasia Maligna da Mama,53,1343215.73,25343.69,5.8
+2023,3,Março,Outono,Nordeste,E11,Diabetes Mellitus Tipo 2,31,105728.8,3410.61,4.5
+2023,3,Março,Outono,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,6,22979.87,3829.98,4.5
+2023,3,Março,Outono,Sudeste,E11,Diabetes Mellitus Tipo 2,101,382558.2,3787.7,4.5
+2023,3,Março,Outono,Sul,E11,Diabetes Mellitus Tipo 2,29,108872.34,3754.22,6.0
+2023,3,Março,Outono,Sudeste,F32,Episódio Depressivo,73,315339.94,4319.73,5.4
+2023,3,Março,Outono,Nordeste,F32,Episódio Depressivo,17,73229.35,4307.61,6.6
+2023,3,Março,Outono,Centro-Oeste,F32,Episódio Depressivo,5,23692.2,4738.44,3.6
+2023,3,Março,Outono,Sul,F32,Episódio Depressivo,21,85456.87,4069.37,4.8
+2023,3,Março,Outono,Centro-Oeste,G40,Epilepsia,2,10943.54,5471.77,3.0
+2023,3,Março,Outono,Nordeste,G40,Epilepsia,26,139309.11,5358.04,6.2
+2023,3,Março,Outono,Sudeste,G40,Epilepsia,59,309357.41,5243.35,5.0
+2023,3,Março,Outono,Sul,G40,Epilepsia,15,78297.84,5219.86,5.9
+2023,3,Março,Outono,Nordeste,I21,Infarto Agudo do Miocárdio,50,944016.23,18880.32,4.8
+2023,3,Março,Outono,Sul,I21,Infarto Agudo do Miocárdio,35,713189.85,20376.85,4.8
+2023,3,Março,Outono,Centro-Oeste,I21,Infarto Agudo do Miocárdio,8,177979.33,22247.42,4.6
+2023,3,Março,Outono,Sudeste,I21,Infarto Agudo do Miocárdio,94,1954519.68,20792.76,4.9
+2023,3,Março,Outono,Sudeste,I64,Acidente Vascular Cerebral,81,985792.94,12170.28,5.1
+2023,3,Março,Outono,Nordeste,I64,Acidente Vascular Cerebral,36,472968.83,13138.02,5.7
+2023,3,Março,Outono,Centro-Oeste,I64,Acidente Vascular Cerebral,8,109252.68,13656.59,3.0
+2023,3,Março,Outono,Sul,I64,Acidente Vascular Cerebral,25,284980.31,11399.21,5.6
+2023,3,Março,Outono,Sul,J18,Pneumonia,47,233450.66,4967.04,4.4
+2023,3,Março,Outono,Centro-Oeste,J18,Pneumonia,9,41359.67,4595.52,7.0
+2023,3,Março,Outono,Sudeste,J18,Pneumonia,175,832816.15,4758.95,5.7
+2023,3,Março,Outono,Nordeste,J18,Pneumonia,52,242170.96,4657.13,4.2
+2023,3,Março,Outono,Nordeste,J44,DPOC,18,105559.9,5864.44,5.7
+2023,3,Março,Outono,Sudeste,J44,DPOC,59,319394.1,5413.46,4.9
+2023,3,Março,Outono,Sul,J44,DPOC,22,127266.87,5784.86,6.9
+2023,3,Março,Outono,Centro-Oeste,J44,DPOC,6,24101.15,4016.86,5.3
+2023,3,Março,Outono,Centro-Oeste,K35,Apendicite Aguda,7,40835.93,5833.7,7.7
+2023,3,Março,Outono,Sudeste,K35,Apendicite Aguda,79,586305.33,7421.59,5.8
+2023,3,Março,Outono,Nordeste,K35,Apendicite Aguda,33,254832.86,7722.21,5.6
+2023,3,Março,Outono,Sul,K35,Apendicite Aguda,21,146305.89,6966.95,4.5
+2023,3,Março,Outono,Sul,M54,Dorsalgia,30,84807.92,2826.93,4.4
+2023,3,Março,Outono,Centro-Oeste,M54,Dorsalgia,2,5518.2,2759.1,4.5
+2023,3,Março,Outono,Sudeste,M54,Dorsalgia,54,159684.01,2957.11,6.1
+2023,3,Março,Outono,Nordeste,M54,Dorsalgia,21,62026.74,2953.65,5.9
+2023,3,Março,Outono,Sudeste,N39,Infecção Urinária,98,204739.42,2089.18,4.8
+2023,3,Março,Outono,Sul,N39,Infecção Urinária,41,82283.83,2006.92,5.1
+2023,3,Março,Outono,Nordeste,N39,Infecção Urinária,44,85498.78,1943.15,3.9
+2023,3,Março,Outono,Centro-Oeste,N39,Infecção Urinária,8,16728.94,2091.12,6.4
+2023,3,Março,Outono,Nordeste,O80,Parto Normal,41,129031.65,3147.11,4.9
+2023,3,Março,Outono,Sudeste,O80,Parto Normal,132,411142.76,3114.72,5.4
+2023,3,Março,Outono,Sul,O80,Parto Normal,40,120555.15,3013.88,4.6
+2023,3,Março,Outono,Centro-Oeste,O80,Parto Normal,9,24603.52,2733.72,4.1
+2023,4,Abril,Outono,Centro-Oeste,A09,Diarreia e Gastroenterite,7,7090.88,1012.98,4.0
+2023,4,Abril,Outono,Nordeste,A09,Diarreia e Gastroenterite,31,34913.13,1126.23,5.4
+2023,4,Abril,Outono,Sudeste,A09,Diarreia e Gastroenterite,101,108173.33,1071.02,4.9
+2023,4,Abril,Outono,Sul,A09,Diarreia e Gastroenterite,23,24612.85,1070.12,3.9
+2023,4,Abril,Outono,Nordeste,A90,Dengue,29,48778.59,1682.02,5.0
+2023,4,Abril,Outono,Sudeste,A90,Dengue,95,171950.16,1810.0,5.2
+2023,4,Abril,Outono,Sul,A90,Dengue,39,67515.28,1731.16,4.6
+2023,4,Abril,Outono,Centro-Oeste,A90,Dengue,7,12978.08,1854.01,6.3
+2023,4,Abril,Outono,Nordeste,B24,Doença pelo HIV,12,69495.63,5791.3,5.0
+2023,4,Abril,Outono,Centro-Oeste,B24,Doença pelo HIV,2,10834.01,5417.0,2.0
+2023,4,Abril,Outono,Sul,B24,Doença pelo HIV,8,48853.53,6106.69,4.5
+2023,4,Abril,Outono,Sudeste,B24,Doença pelo HIV,43,267259.33,6215.33,4.6
+2023,4,Abril,Outono,Centro-Oeste,C50,Neoplasia Maligna da Mama,6,107126.76,17854.46,7.3
+2023,4,Abril,Outono,Sudeste,C50,Neoplasia Maligna da Mama,64,1150945.07,17983.52,4.8
+2023,4,Abril,Outono,Sul,C50,Neoplasia Maligna da Mama,11,196405.55,17855.05,4.6
+2023,4,Abril,Outono,Nordeste,C50,Neoplasia Maligna da Mama,18,285872.16,15881.79,4.7
+2023,4,Abril,Outono,Sul,E11,Diabetes Mellitus Tipo 2,34,90492.86,2661.55,5.9
+2023,4,Abril,Outono,Nordeste,E11,Diabetes Mellitus Tipo 2,25,62437.64,2497.51,5.6
+2023,4,Abril,Outono,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,5,14248.19,2849.64,6.0
+2023,4,Abril,Outono,Sudeste,E11,Diabetes Mellitus Tipo 2,95,255255.25,2686.9,5.1
+2023,4,Abril,Outono,Centro-Oeste,F32,Episódio Depressivo,13,35396.46,2722.8,6.1
+2023,4,Abril,Outono,Sudeste,F32,Episódio Depressivo,81,241754.15,2984.62,4.1
+2023,4,Abril,Outono,Sul,F32,Episódio Depressivo,13,36988.83,2845.29,6.0
+2023,4,Abril,Outono,Nordeste,F32,Episódio Depressivo,19,52142.62,2744.35,5.3
+2023,4,Abril,Outono,Sul,G40,Epilepsia,23,92257.14,4011.18,3.9
+2023,4,Abril,Outono,Sudeste,G40,Epilepsia,70,277184.64,3959.78,5.6
+2023,4,Abril,Outono,Nordeste,G40,Epilepsia,21,73745.95,3511.71,6.0
+2023,4,Abril,Outono,Centro-Oeste,G40,Epilepsia,2,5384.61,2692.31,4.5
+2023,4,Abril,Outono,Sudeste,I21,Infarto Agudo do Miocárdio,111,1652187.0,14884.57,5.5
+2023,4,Abril,Outono,Centro-Oeste,I21,Infarto Agudo do Miocárdio,7,107453.44,15350.49,7.0
+2023,4,Abril,Outono,Sul,I21,Infarto Agudo do Miocárdio,45,626079.53,13912.88,5.6
+2023,4,Abril,Outono,Nordeste,I21,Infarto Agudo do Miocárdio,33,502165.06,15217.12,4.5
+2023,4,Abril,Outono,Centro-Oeste,I64,Acidente Vascular Cerebral,11,101456.18,9223.29,7.4
+2023,4,Abril,Outono,Nordeste,I64,Acidente Vascular Cerebral,32,303830.48,9494.7,5.9
+2023,4,Abril,Outono,Sudeste,I64,Acidente Vascular Cerebral,70,648907.16,9270.1,4.3
+2023,4,Abril,Outono,Sul,I64,Acidente Vascular Cerebral,34,293895.14,8643.97,5.7
+2023,4,Abril,Outono,Nordeste,J18,Pneumonia,59,199903.43,3388.19,4.4
+2023,4,Abril,Outono,Sudeste,J18,Pneumonia,139,469240.11,3375.83,4.8
+2023,4,Abril,Outono,Sul,J18,Pneumonia,52,168311.76,3236.76,5.6
+2023,4,Abril,Outono,Centro-Oeste,J18,Pneumonia,12,39359.55,3279.96,5.0
+2023,4,Abril,Outono,Sul,J44,DPOC,22,96625.99,4392.09,4.5
+2023,4,Abril,Outono,Centro-Oeste,J44,DPOC,4,17605.06,4401.27,4.8
+2023,4,Abril,Outono,Sudeste,J44,DPOC,69,291512.11,4224.81,4.9
+2023,4,Abril,Outono,Nordeste,J44,DPOC,20,83874.32,4193.72,3.5
+2023,4,Abril,Outono,Sul,K35,Apendicite Aguda,36,199162.77,5532.3,3.7
+2023,4,Abril,Outono,Nordeste,K35,Apendicite Aguda,26,144035.23,5539.82,7.6
+2023,4,Abril,Outono,Sudeste,K35,Apendicite Aguda,84,481300.09,5729.76,5.1
+2023,4,Abril,Outono,Centro-Oeste,K35,Apendicite Aguda,10,55422.97,5542.3,6.1
+2023,4,Abril,Outono,Centro-Oeste,M54,Dorsalgia,5,12319.66,2463.93,4.2
+2023,4,Abril,Outono,Nordeste,M54,Dorsalgia,13,29167.93,2243.69,4.6
+2023,4,Abril,Outono,Sudeste,M54,Dorsalgia,64,131318.1,2051.85,6.5
+2023,4,Abril,Outono,Sul,M54,Dorsalgia,30,67193.79,2239.79,4.9
+2023,4,Abril,Outono,Sudeste,N39,Infecção Urinária,107,151723.33,1417.98,4.9
+2023,4,Abril,Outono,Sul,N39,Infecção Urinária,31,46270.52,1492.6,6.3
+2023,4,Abril,Outono,Nordeste,N39,Infecção Urinária,49,69125.07,1410.72,4.1
+2023,4,Abril,Outono,Centro-Oeste,N39,Infecção Urinária,11,14475.32,1315.94,5.0
+2023,4,Abril,Outono,Centro-Oeste,O80,Parto Normal,17,32808.71,1929.92,5.4
+2023,4,Abril,Outono,Sul,O80,Parto Normal,45,91637.69,2036.39,3.3
+2023,4,Abril,Outono,Nordeste,O80,Parto Normal,55,123193.6,2239.88,4.9
+2023,4,Abril,Outono,Sudeste,O80,Parto Normal,91,188120.05,2067.25,6.1
+2023,5,Maio,Outono,Centro-Oeste,A09,Diarreia e Gastroenterite,11,10507.97,955.27,5.6
+2023,5,Maio,Outono,Sudeste,A09,Diarreia e Gastroenterite,88,96211.89,1093.32,5.8
+2023,5,Maio,Outono,Sul,A09,Diarreia e Gastroenterite,30,35436.16,1181.21,5.1
+2023,5,Maio,Outono,Nordeste,A09,Diarreia e Gastroenterite,34,37192.63,1093.9,5.4
+2023,5,Maio,Outono,Centro-Oeste,A90,Dengue,6,10755.01,1792.5,4.5
+2023,5,Maio,Outono,Sudeste,A90,Dengue,85,155328.39,1827.39,5.2
+2023,5,Maio,Outono,Nordeste,A90,Dengue,30,58454.71,1948.49,6.2
+2023,5,Maio,Outono,Sul,A90,Dengue,36,62350.65,1731.96,4.6
+2023,5,Maio,Outono,Nordeste,B24,Doença pelo HIV,19,101660.11,5350.53,6.0
+2023,5,Maio,Outono,Sul,B24,Doença pelo HIV,15,87854.75,5856.98,5.9
+2023,5,Maio,Outono,Sudeste,B24,Doença pelo HIV,46,256704.12,5580.52,6.2
+2023,5,Maio,Outono,Nordeste,C50,Neoplasia Maligna da Mama,22,390152.29,17734.2,4.8
+2023,5,Maio,Outono,Centro-Oeste,C50,Neoplasia Maligna da Mama,8,131779.53,16472.44,6.3
+2023,5,Maio,Outono,Sul,C50,Neoplasia Maligna da Mama,19,336374.52,17703.92,4.9
+2023,5,Maio,Outono,Sudeste,C50,Neoplasia Maligna da Mama,53,897888.95,16941.3,5.3
+2023,5,Maio,Outono,Sul,E11,Diabetes Mellitus Tipo 2,30,75132.3,2504.41,6.1
+2023,5,Maio,Outono,Sudeste,E11,Diabetes Mellitus Tipo 2,117,315719.13,2698.45,5.0
+2023,5,Maio,Outono,Nordeste,E11,Diabetes Mellitus Tipo 2,34,91175.07,2681.62,5.8
+2023,5,Maio,Outono,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,7,18692.47,2670.35,2.7
+2023,5,Maio,Outono,Centro-Oeste,F32,Episódio Depressivo,6,18691.29,3115.22,8.2
+2023,5,Maio,Outono,Sul,F32,Episódio Depressivo,22,65928.32,2996.74,5.4
+2023,5,Maio,Outono,Sudeste,F32,Episódio Depressivo,74,214642.49,2900.57,5.5
+2023,5,Maio,Outono,Nordeste,F32,Episódio Depressivo,19,61436.65,3233.51,6.2
+2023,5,Maio,Outono,Centro-Oeste,G40,Epilepsia,4,11646.79,2911.7,1.5
+2023,5,Maio,Outono,Sul,G40,Epilepsia,19,68690.65,3615.3,5.8
+2023,5,Maio,Outono,Nordeste,G40,Epilepsia,27,107902.29,3996.38,5.0
+2023,5,Maio,Outono,Sudeste,G40,Epilepsia,57,223224.86,3916.23,5.4
+2023,5,Maio,Outono,Sudeste,I21,Infarto Agudo do Miocárdio,106,1471214.91,13879.39,5.0
+2023,5,Maio,Outono,Sul,I21,Infarto Agudo do Miocárdio,30,452484.52,15082.82,5.3
+2023,5,Maio,Outono,Nordeste,I21,Infarto Agudo do Miocárdio,27,387510.88,14352.25,4.7
+2023,5,Maio,Outono,Centro-Oeste,I21,Infarto Agudo do Miocárdio,10,153836.77,15383.68,5.3
+2023,5,Maio,Outono,Sudeste,I64,Acidente Vascular Cerebral,81,774866.32,9566.25,5.2
+2023,5,Maio,Outono,Nordeste,I64,Acidente Vascular Cerebral,31,296244.87,9556.29,4.0
+2023,5,Maio,Outono,Centro-Oeste,I64,Acidente Vascular Cerebral,8,89340.68,11167.59,6.8
+2023,5,Maio,Outono,Sul,I64,Acidente Vascular Cerebral,30,270538.53,9017.95,3.9
+2023,5,Maio,Outono,Sudeste,J18,Pneumonia,146,500301.65,3426.72,5.3
+2023,5,Maio,Outono,Nordeste,J18,Pneumonia,42,139680.73,3325.73,4.7
+2023,5,Maio,Outono,Centro-Oeste,J18,Pneumonia,12,38725.88,3227.16,5.3
+2023,5,Maio,Outono,Sul,J18,Pneumonia,65,227570.66,3501.09,5.5
+2023,5,Maio,Outono,Nordeste,J44,DPOC,17,69103.71,4064.92,5.4
+2023,5,Maio,Outono,Sul,J44,DPOC,18,69658.49,3869.92,5.9
+2023,5,Maio,Outono,Centro-Oeste,J44,DPOC,10,43811.01,4381.1,5.0
+2023,5,Maio,Outono,Sudeste,J44,DPOC,61,261569.04,4288.02,5.4
+2023,5,Maio,Outono,Centro-Oeste,K35,Apendicite Aguda,16,80337.11,5021.07,3.9
+2023,5,Maio,Outono,Nordeste,K35,Apendicite Aguda,19,93600.86,4926.36,3.9
+2023,5,Maio,Outono,Sul,K35,Apendicite Aguda,19,104989.01,5525.74,6.0
+2023,5,Maio,Outono,Sudeste,K35,Apendicite Aguda,80,438258.32,5478.23,5.8
+2023,5,Maio,Outono,Centro-Oeste,M54,Dorsalgia,7,14465.45,2066.49,8.6
+2023,5,Maio,Outono,Sul,M54,Dorsalgia,21,41290.75,1966.23,5.6
+2023,5,Maio,Outono,Nordeste,M54,Dorsalgia,21,42292.9,2013.95,6.0
+2023,5,Maio,Outono,Sudeste,M54,Dorsalgia,49,106468.56,2172.83,5.4
+2023,5,Maio,Outono,Sudeste,N39,Infecção Urinária,121,177638.56,1468.09,4.9
+2023,5,Maio,Outono,Centro-Oeste,N39,Infecção Urinária,7,8717.71,1245.39,2.1
+2023,5,Maio,Outono,Sul,N39,Infecção Urinária,44,63353.23,1439.85,5.0
+2023,5,Maio,Outono,Nordeste,N39,Infecção Urinária,56,79235.33,1414.92,4.6
+2023,5,Maio,Outono,Sul,O80,Parto Normal,51,97554.21,1912.83,5.0
+2023,5,Maio,Outono,Centro-Oeste,O80,Parto Normal,19,43659.67,2297.88,4.6
+2023,5,Maio,Outono,Nordeste,O80,Parto Normal,43,95962.35,2231.68,4.9
+2023,5,Maio,Outono,Sudeste,O80,Parto Normal,123,258879.06,2104.71,5.2
+2023,6,Junho,Inverno,Nordeste,A09,Diarreia e Gastroenterite,28,34349.59,1226.77,4.8
+2023,6,Junho,Inverno,Sudeste,A09,Diarreia e Gastroenterite,95,125844.82,1324.68,5.5
+2023,6,Junho,Inverno,Centro-Oeste,A09,Diarreia e Gastroenterite,6,6878.69,1146.45,4.7
+2023,6,Junho,Inverno,Sul,A09,Diarreia e Gastroenterite,35,44769.65,1279.13,5.9
+2023,6,Junho,Inverno,Nordeste,A90,Dengue,23,47069.49,2046.5,6.0
+2023,6,Junho,Inverno,Sudeste,A90,Dengue,88,189114.21,2149.03,5.7
+2023,6,Junho,Inverno,Sul,A90,Dengue,39,80252.81,2057.76,5.5
+2023,6,Junho,Inverno,Centro-Oeste,A90,Dengue,10,18383.16,1838.32,7.9
+2023,6,Junho,Inverno,Sul,B24,Doença pelo HIV,15,120871.32,8058.09,7.1
+2023,6,Junho,Inverno,Nordeste,B24,Doença pelo HIV,15,111630.51,7442.03,5.3
+2023,6,Junho,Inverno,Centro-Oeste,B24,Doença pelo HIV,4,28162.21,7040.55,5.0
+2023,6,Junho,Inverno,Sudeste,B24,Doença pelo HIV,45,335046.72,7445.48,5.7
+2023,6,Junho,Inverno,Sul,C50,Neoplasia Maligna da Mama,17,385445.19,22673.25,4.2
+2023,6,Junho,Inverno,Centro-Oeste,C50,Neoplasia Maligna da Mama,4,98372.08,24593.02,4.3
+2023,6,Junho,Inverno,Nordeste,C50,Neoplasia Maligna da Mama,14,307423.88,21958.85,4.9
+2023,6,Junho,Inverno,Sudeste,C50,Neoplasia Maligna da Mama,50,1109848.32,22196.97,5.9
+2023,6,Junho,Inverno,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,12,37566.22,3130.52,3.8
+2023,6,Junho,Inverno,Sudeste,E11,Diabetes Mellitus Tipo 2,102,326542.86,3201.4,6.0
+2023,6,Junho,Inverno,Nordeste,E11,Diabetes Mellitus Tipo 2,26,80086.94,3080.27,4.5
+2023,6,Junho,Inverno,Sul,E11,Diabetes Mellitus Tipo 2,38,116049.31,3053.93,5.6
+2023,6,Junho,Inverno,Centro-Oeste,F32,Episódio Depressivo,2,6077.1,3038.55,7.0
+2023,6,Junho,Inverno,Sudeste,F32,Episódio Depressivo,56,199028.96,3554.09,5.5
+2023,6,Junho,Inverno,Sul,F32,Episódio Depressivo,13,43509.66,3346.9,5.4
+2023,6,Junho,Inverno,Nordeste,F32,Episódio Depressivo,26,90103.42,3465.52,4.8
+2023,6,Junho,Inverno,Sudeste,G40,Epilepsia,57,252694.3,4433.23,5.6
+2023,6,Junho,Inverno,Sul,G40,Epilepsia,25,110571.27,4422.85,6.2
+2023,6,Junho,Inverno,Centro-Oeste,G40,Epilepsia,6,35593.23,5932.2,5.2
+2023,6,Junho,Inverno,Nordeste,G40,Epilepsia,29,139322.09,4804.21,5.0
+2023,6,Junho,Inverno,Centro-Oeste,I21,Infarto Agudo do Miocárdio,6,95007.39,15834.57,4.0
+2023,6,Junho,Inverno,Sul,I21,Infarto Agudo do Miocárdio,25,456100.28,18244.01,4.6
+2023,6,Junho,Inverno,Nordeste,I21,Infarto Agudo do Miocárdio,43,762055.05,17722.21,5.7
+2023,6,Junho,Inverno,Sudeste,I21,Infarto Agudo do Miocárdio,95,1605401.82,16898.97,4.5
+2023,6,Junho,Inverno,Sudeste,I64,Acidente Vascular Cerebral,63,693489.17,11007.76,4.8
+2023,6,Junho,Inverno,Sul,I64,Acidente Vascular Cerebral,26,317292.87,12203.57,6.0
+2023,6,Junho,Inverno,Nordeste,I64,Acidente Vascular Cerebral,30,331575.93,11052.53,4.8
+2023,6,Junho,Inverno,Centro-Oeste,I64,Acidente Vascular Cerebral,10,111638.53,11163.85,5.2
+2023,6,Junho,Inverno,Centro-Oeste,J18,Pneumonia,16,58348.8,3646.8,5.6
+2023,6,Junho,Inverno,Sul,J18,Pneumonia,57,231482.74,4061.1,5.0
+2023,6,Junho,Inverno,Nordeste,J18,Pneumonia,57,232217.46,4073.99,4.9
+2023,6,Junho,Inverno,Sudeste,J18,Pneumonia,137,545299.95,3980.29,5.0
+2023,6,Junho,Inverno,Nordeste,J44,DPOC,30,155478.89,5182.63,4.3
+2023,6,Junho,Inverno,Sudeste,J44,DPOC,65,317324.74,4881.92,5.4
+2023,6,Junho,Inverno,Centro-Oeste,J44,DPOC,5,24435.45,4887.09,7.6
+2023,6,Junho,Inverno,Sul,J44,DPOC,24,101475.42,4228.14,5.9
+2023,6,Junho,Inverno,Nordeste,K35,Apendicite Aguda,26,161452.51,6209.71,6.9
+2023,6,Junho,Inverno,Sul,K35,Apendicite Aguda,31,203732.05,6572.0,5.3
+2023,6,Junho,Inverno,Sudeste,K35,Apendicite Aguda,68,432584.22,6361.53,5.3
+2023,6,Junho,Inverno,Centro-Oeste,K35,Apendicite Aguda,4,22756.97,5689.24,4.0
+2023,6,Junho,Inverno,Sul,M54,Dorsalgia,29,77882.8,2685.61,4.2
+2023,6,Junho,Inverno,Sudeste,M54,Dorsalgia,66,167316.05,2535.09,4.6
+2023,6,Junho,Inverno,Nordeste,M54,Dorsalgia,20,48445.26,2422.26,5.6
+2023,6,Junho,Inverno,Centro-Oeste,M54,Dorsalgia,9,26413.39,2934.82,7.2
+2023,6,Junho,Inverno,Centro-Oeste,N39,Infecção Urinária,9,16396.85,1821.87,5.3
+2023,6,Junho,Inverno,Nordeste,N39,Infecção Urinária,45,74088.8,1646.42,5.8
+2023,6,Junho,Inverno,Sudeste,N39,Infecção Urinária,126,228477.79,1813.32,4.6
+2023,6,Junho,Inverno,Sul,N39,Infecção Urinária,43,75953.41,1766.36,4.6
+2023,6,Junho,Inverno,Sul,O80,Parto Normal,39,93987.18,2409.93,4.9
+2023,6,Junho,Inverno,Nordeste,O80,Parto Normal,46,116528.28,2533.22,4.7
+2023,6,Junho,Inverno,Sudeste,O80,Parto Normal,138,350615.56,2540.69,5.1
+2023,6,Junho,Inverno,Centro-Oeste,O80,Parto Normal,14,31436.44,2245.46,5.9
+2023,7,Julho,Inverno,Sul,A09,Diarreia e Gastroenterite,31,38287.29,1235.07,6.6
+2023,7,Julho,Inverno,Nordeste,A09,Diarreia e Gastroenterite,30,38305.98,1276.87,6.3
+2023,7,Julho,Inverno,Sudeste,A09,Diarreia e Gastroenterite,95,122511.83,1289.6,5.1
+2023,7,Julho,Inverno,Centro-Oeste,A09,Diarreia e Gastroenterite,12,15399.7,1283.31,3.7
+2023,7,Julho,Inverno,Sudeste,A90,Dengue,98,204021.41,2081.85,5.6
+2023,7,Julho,Inverno,Centro-Oeste,A90,Dengue,10,26589.11,2658.91,4.8
+2023,7,Julho,Inverno,Nordeste,A90,Dengue,36,80389.76,2233.05,5.1
+2023,7,Julho,Inverno,Sul,A90,Dengue,30,62176.86,2072.56,5.7
+2023,7,Julho,Inverno,Sudeste,B24,Doença pelo HIV,37,266672.81,7207.37,5.9
+2023,7,Julho,Inverno,Centro-Oeste,B24,Doença pelo HIV,4,35040.59,8760.15,8.5
+2023,7,Julho,Inverno,Nordeste,B24,Doença pelo HIV,12,80713.03,6726.09,5.3
+2023,7,Julho,Inverno,Sul,B24,Doença pelo HIV,17,118792.03,6987.77,5.9
+2023,7,Julho,Inverno,Sudeste,C50,Neoplasia Maligna da Mama,55,1134861.35,20633.84,5.0
+2023,7,Julho,Inverno,Nordeste,C50,Neoplasia Maligna da Mama,16,355854.01,22240.88,5.8
+2023,7,Julho,Inverno,Centro-Oeste,C50,Neoplasia Maligna da Mama,4,91221.12,22805.28,2.5
+2023,7,Julho,Inverno,Sul,C50,Neoplasia Maligna da Mama,16,330515.95,20657.25,4.8
+2023,7,Julho,Inverno,Sul,E11,Diabetes Mellitus Tipo 2,43,139906.51,3253.64,4.8
+2023,7,Julho,Inverno,Sudeste,E11,Diabetes Mellitus Tipo 2,90,276042.31,3067.14,5.0
+2023,7,Julho,Inverno,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,8,26276.41,3284.55,3.1
+2023,7,Julho,Inverno,Nordeste,E11,Diabetes Mellitus Tipo 2,31,100894.17,3254.65,3.5
+2023,7,Julho,Inverno,Nordeste,F32,Episódio Depressivo,26,99465.28,3825.59,5.6
+2023,7,Julho,Inverno,Sudeste,F32,Episódio Depressivo,62,223347.92,3602.39,4.9
+2023,7,Julho,Inverno,Centro-Oeste,F32,Episódio Depressivo,4,17492.8,4373.2,5.3
+2023,7,Julho,Inverno,Sul,F32,Episódio Depressivo,25,92226.07,3689.04,4.2
+2023,7,Julho,Inverno,Nordeste,G40,Epilepsia,31,147531.39,4759.08,5.3
+2023,7,Julho,Inverno,Sudeste,G40,Epilepsia,57,259096.18,4545.55,4.2
+2023,7,Julho,Inverno,Centro-Oeste,G40,Epilepsia,3,11314.21,3771.4,1.3
+2023,7,Julho,Inverno,Sul,G40,Epilepsia,18,82573.36,4587.41,4.9
+2023,7,Julho,Inverno,Centro-Oeste,I21,Infarto Agudo do Miocárdio,7,113590.03,16227.15,4.3
+2023,7,Julho,Inverno,Sudeste,I21,Infarto Agudo do Miocárdio,98,1624031.31,16571.75,4.9
+2023,7,Julho,Inverno,Nordeste,I21,Infarto Agudo do Miocárdio,36,621409.12,17261.36,5.4
+2023,7,Julho,Inverno,Sul,I21,Infarto Agudo do Miocárdio,36,605351.74,16815.33,3.4
+2023,7,Julho,Inverno,Centro-Oeste,I64,Acidente Vascular Cerebral,11,126726.57,11520.6,4.6
+2023,7,Julho,Inverno,Nordeste,I64,Acidente Vascular Cerebral,30,326469.59,10882.32,6.0
+2023,7,Julho,Inverno,Sul,I64,Acidente Vascular Cerebral,29,343882.81,11858.03,6.4
+2023,7,Julho,Inverno,Sudeste,I64,Acidente Vascular Cerebral,62,717226.61,11568.17,4.8
+2023,7,Julho,Inverno,Nordeste,J18,Pneumonia,54,215546.61,3991.6,5.7
+2023,7,Julho,Inverno,Centro-Oeste,J18,Pneumonia,6,27541.11,4590.18,5.0
+2023,7,Julho,Inverno,Sul,J18,Pneumonia,56,236923.67,4230.78,4.8
+2023,7,Julho,Inverno,Sudeste,J18,Pneumonia,172,683055.63,3971.25,5.3
+2023,7,Julho,Inverno,Sudeste,J44,DPOC,64,322270.87,5035.48,4.6
+2023,7,Julho,Inverno,Centro-Oeste,J44,DPOC,6,32878.52,5479.75,3.5
+2023,7,Julho,Inverno,Nordeste,J44,DPOC,28,146716.84,5239.89,5.5
+2023,7,Julho,Inverno,Sul,J44,DPOC,19,89465.66,4708.72,5.5
+2023,7,Julho,Inverno,Centro-Oeste,K35,Apendicite Aguda,2,16829.9,8414.95,10.5
+2023,7,Julho,Inverno,Sul,K35,Apendicite Aguda,22,143945.04,6542.96,4.6
+2023,7,Julho,Inverno,Nordeste,K35,Apendicite Aguda,23,149678.81,6507.77,5.0
+2023,7,Julho,Inverno,Sudeste,K35,Apendicite Aguda,77,470344.24,6108.37,4.8
+2023,7,Julho,Inverno,Nordeste,M54,Dorsalgia,27,72355.7,2679.84,7.1
+2023,7,Julho,Inverno,Sul,M54,Dorsalgia,19,46028.06,2422.53,5.7
+2023,7,Julho,Inverno,Sudeste,M54,Dorsalgia,66,161557.67,2447.84,5.0
+2023,7,Julho,Inverno,Centro-Oeste,M54,Dorsalgia,3,5065.66,1688.55,6.3
+2023,7,Julho,Inverno,Centro-Oeste,N39,Infecção Urinária,8,11910.3,1488.79,5.1
+2023,7,Julho,Inverno,Sul,N39,Infecção Urinária,42,72207.15,1719.22,4.7
+2023,7,Julho,Inverno,Nordeste,N39,Infecção Urinária,47,84509.85,1798.08,4.8
+2023,7,Julho,Inverno,Sudeste,N39,Infecção Urinária,95,162031.73,1705.6,5.0
+2023,7,Julho,Inverno,Sudeste,O80,Parto Normal,122,306711.17,2514.03,5.0
+2023,7,Julho,Inverno,Nordeste,O80,Parto Normal,56,148336.63,2648.87,4.8
+2023,7,Julho,Inverno,Centro-Oeste,O80,Parto Normal,9,24214.73,2690.53,7.0
+2023,7,Julho,Inverno,Sul,O80,Parto Normal,39,98612.81,2528.53,4.8
+2023,8,Agosto,Inverno,Nordeste,A09,Diarreia e Gastroenterite,38,48362.65,1272.7,5.9
+2023,8,Agosto,Inverno,Centro-Oeste,A09,Diarreia e Gastroenterite,14,15437.23,1102.66,6.0
+2023,8,Agosto,Inverno,Sudeste,A09,Diarreia e Gastroenterite,102,134586.63,1319.48,4.7
+2023,8,Agosto,Inverno,Sul,A09,Diarreia e Gastroenterite,32,44525.2,1391.41,5.7
+2023,8,Agosto,Inverno,Nordeste,A90,Dengue,23,49781.59,2164.42,4.5
+2023,8,Agosto,Inverno,Sudeste,A90,Dengue,100,213062.76,2130.63,5.2
+2023,8,Agosto,Inverno,Sul,A90,Dengue,29,63065.97,2174.69,4.8
+2023,8,Agosto,Inverno,Centro-Oeste,A90,Dengue,5,11652.14,2330.43,5.2
+2023,8,Agosto,Inverno,Sudeste,B24,Doença pelo HIV,46,360608.82,7839.32,5.5
+2023,8,Agosto,Inverno,Centro-Oeste,B24,Doença pelo HIV,3,27021.06,9007.02,4.0
+2023,8,Agosto,Inverno,Nordeste,B24,Doença pelo HIV,14,96088.76,6863.48,4.1
+2023,8,Agosto,Inverno,Sul,B24,Doença pelo HIV,13,94154.16,7242.63,5.1
+2023,8,Agosto,Inverno,Sudeste,C50,Neoplasia Maligna da Mama,50,1120903.29,22418.07,4.8
+2023,8,Agosto,Inverno,Nordeste,C50,Neoplasia Maligna da Mama,22,472053.16,21456.96,4.4
+2023,8,Agosto,Inverno,Sul,C50,Neoplasia Maligna da Mama,12,302015.64,25167.97,3.4
+2023,8,Agosto,Inverno,Centro-Oeste,C50,Neoplasia Maligna da Mama,2,29043.49,14521.75,2.5
+2023,8,Agosto,Inverno,Sul,E11,Diabetes Mellitus Tipo 2,33,105826.48,3206.86,5.3
+2023,8,Agosto,Inverno,Sudeste,E11,Diabetes Mellitus Tipo 2,109,344420.49,3159.82,5.7
+2023,8,Agosto,Inverno,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,7,22094.09,3156.3,3.7
+2023,8,Agosto,Inverno,Nordeste,E11,Diabetes Mellitus Tipo 2,39,127293.19,3263.93,5.0
+2023,8,Agosto,Inverno,Nordeste,F32,Episódio Depressivo,25,96919.14,3876.77,6.8
+2023,8,Agosto,Inverno,Sudeste,F32,Episódio Depressivo,59,213730.31,3622.55,4.2
+2023,8,Agosto,Inverno,Sul,F32,Episódio Depressivo,27,94151.58,3487.1,5.5
+2023,8,Agosto,Inverno,Centro-Oeste,F32,Episódio Depressivo,2,6581.78,3290.89,4.0
+2023,8,Agosto,Inverno,Centro-Oeste,G40,Epilepsia,7,26346.19,3763.74,3.0
+2023,8,Agosto,Inverno,Sudeste,G40,Epilepsia,65,301938.66,4645.21,5.3
+2023,8,Agosto,Inverno,Nordeste,G40,Epilepsia,22,105801.52,4809.16,6.1
+2023,8,Agosto,Inverno,Sul,G40,Epilepsia,18,74696.64,4149.81,5.8
+2023,8,Agosto,Inverno,Sudeste,I21,Infarto Agudo do Miocárdio,103,1796310.22,17439.91,4.9
+2023,8,Agosto,Inverno,Centro-Oeste,I21,Infarto Agudo do Miocárdio,12,194302.13,16191.84,6.2
+2023,8,Agosto,Inverno,Sul,I21,Infarto Agudo do Miocárdio,43,695339.65,16170.69,5.0
+2023,8,Agosto,Inverno,Nordeste,I21,Infarto Agudo do Miocárdio,36,626209.73,17394.71,6.0
+2023,8,Agosto,Inverno,Sul,I64,Acidente Vascular Cerebral,31,352728.01,11378.32,5.1
+2023,8,Agosto,Inverno,Centro-Oeste,I64,Acidente Vascular Cerebral,3,32454.94,10818.31,6.3
+2023,8,Agosto,Inverno,Sudeste,I64,Acidente Vascular Cerebral,67,803157.49,11987.43,4.8
+2023,8,Agosto,Inverno,Nordeste,I64,Acidente Vascular Cerebral,40,451484.6,11287.12,4.7
+2023,8,Agosto,Inverno,Sudeste,J18,Pneumonia,161,669356.25,4157.49,5.7
+2023,8,Agosto,Inverno,Nordeste,J18,Pneumonia,47,187508.0,3989.53,6.4
+2023,8,Agosto,Inverno,Sul,J18,Pneumonia,38,148783.85,3915.36,4.5
+2023,8,Agosto,Inverno,Centro-Oeste,J18,Pneumonia,10,44414.78,4441.48,8.2
+2023,8,Agosto,Inverno,Sul,J44,DPOC,30,153972.02,5132.4,4.6
+2023,8,Agosto,Inverno,Sudeste,J44,DPOC,59,294774.7,4996.18,4.8
+2023,8,Agosto,Inverno,Centro-Oeste,J44,DPOC,4,21600.44,5400.11,3.8
+2023,8,Agosto,Inverno,Nordeste,J44,DPOC,29,142477.16,4913.01,5.3
+2023,8,Agosto,Inverno,Sul,K35,Apendicite Aguda,19,122425.86,6443.47,4.9
+2023,8,Agosto,Inverno,Sudeste,K35,Apendicite Aguda,82,493965.35,6023.97,5.6
+2023,8,Agosto,Inverno,Centro-Oeste,K35,Apendicite Aguda,7,42077.4,6011.06,4.3
+2023,8,Agosto,Inverno,Nordeste,K35,Apendicite Aguda,22,151103.12,6868.32,4.4
+2023,8,Agosto,Inverno,Sudeste,M54,Dorsalgia,59,162500.44,2754.24,6.0
+2023,8,Agosto,Inverno,Sul,M54,Dorsalgia,25,61500.99,2460.04,4.8
+2023,8,Agosto,Inverno,Nordeste,M54,Dorsalgia,27,69189.45,2562.57,5.4
+2023,8,Agosto,Inverno,Centro-Oeste,M54,Dorsalgia,9,23849.92,2649.99,3.2
+2023,8,Agosto,Inverno,Sudeste,N39,Infecção Urinária,113,193640.68,1713.63,5.2
+2023,8,Agosto,Inverno,Nordeste,N39,Infecção Urinária,35,61748.81,1764.25,6.1
+2023,8,Agosto,Inverno,Centro-Oeste,N39,Infecção Urinária,11,19701.58,1791.05,5.7
+2023,8,Agosto,Inverno,Sul,N39,Infecção Urinária,31,50421.68,1626.51,5.0
+2023,8,Agosto,Inverno,Sul,O80,Parto Normal,47,132939.94,2828.51,4.7
+2023,8,Agosto,Inverno,Centro-Oeste,O80,Parto Normal,6,13834.35,2305.73,4.3
+2023,8,Agosto,Inverno,Sudeste,O80,Parto Normal,120,309865.93,2582.22,5.0
+2023,8,Agosto,Inverno,Nordeste,O80,Parto Normal,53,132883.97,2507.24,4.6
+2023,9,Setembro,Primavera,Nordeste,A09,Diarreia e Gastroenterite,39,43984.54,1127.81,5.1
+2023,9,Setembro,Primavera,Sudeste,A09,Diarreia e Gastroenterite,76,79987.71,1052.47,5.8
+2023,9,Setembro,Primavera,Centro-Oeste,A09,Diarreia e Gastroenterite,8,9985.06,1248.13,5.0
+2023,9,Setembro,Primavera,Sul,A09,Diarreia e Gastroenterite,22,23952.44,1088.75,5.7
+2023,9,Setembro,Primavera,Centro-Oeste,A90,Dengue,12,20968.3,1747.36,4.8
+2023,9,Setembro,Primavera,Sudeste,A90,Dengue,100,178675.84,1786.76,4.6
+2023,9,Setembro,Primavera,Nordeste,A90,Dengue,34,58865.99,1731.35,6.6
+2023,9,Setembro,Primavera,Sul,A90,Dengue,32,59179.05,1849.35,7.0
+2023,9,Setembro,Primavera,Sudeste,B24,Doença pelo HIV,50,295423.69,5908.47,5.1
+2023,9,Setembro,Primavera,Sul,B24,Doença pelo HIV,12,86199.61,7183.3,6.7
+2023,9,Setembro,Primavera,Nordeste,B24,Doença pelo HIV,12,69388.59,5782.38,4.4
+2023,9,Setembro,Primavera,Centro-Oeste,B24,Doença pelo HIV,4,20958.35,5239.59,2.0
+2023,9,Setembro,Primavera,Centro-Oeste,C50,Neoplasia Maligna da Mama,8,162185.89,20273.24,2.4
+2023,9,Setembro,Primavera,Sul,C50,Neoplasia Maligna da Mama,19,343297.87,18068.31,4.9
+2023,9,Setembro,Primavera,Nordeste,C50,Neoplasia Maligna da Mama,12,213497.29,17791.44,4.7
+2023,9,Setembro,Primavera,Sudeste,C50,Neoplasia Maligna da Mama,51,939025.15,18412.26,5.2
+2023,9,Setembro,Primavera,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,10,26079.62,2607.96,4.8
+2023,9,Setembro,Primavera,Nordeste,E11,Diabetes Mellitus Tipo 2,38,100833.47,2653.51,4.6
+2023,9,Setembro,Primavera,Sudeste,E11,Diabetes Mellitus Tipo 2,132,346490.88,2624.93,4.5
+2023,9,Setembro,Primavera,Sul,E11,Diabetes Mellitus Tipo 2,33,79193.07,2399.79,6.0
+2023,9,Setembro,Primavera,Sul,F32,Episódio Depressivo,27,77590.0,2873.7,4.5
+2023,9,Setembro,Primavera,Nordeste,F32,Episódio Depressivo,19,58671.0,3087.95,5.6
+2023,9,Setembro,Primavera,Sudeste,F32,Episódio Depressivo,62,186385.11,3006.21,5.9
+2023,9,Setembro,Primavera,Centro-Oeste,F32,Episódio Depressivo,8,21935.98,2742.0,5.8
+2023,9,Setembro,Primavera,Sul,G40,Epilepsia,20,74221.99,3711.1,4.3
+2023,9,Setembro,Primavera,Centro-Oeste,G40,Epilepsia,3,13477.31,4492.44,6.0
+2023,9,Setembro,Primavera,Sudeste,G40,Epilepsia,67,259784.93,3877.39,5.6
+2023,9,Setembro,Primavera,Nordeste,G40,Epilepsia,17,65639.72,3861.16,5.1
+2023,9,Setembro,Primavera,Sul,I21,Infarto Agudo do Miocárdio,38,546855.17,14390.93,5.3
+2023,9,Setembro,Primavera,Nordeste,I21,Infarto Agudo do Miocárdio,39,583269.26,14955.62,5.1
+2023,9,Setembro,Primavera,Centro-Oeste,I21,Infarto Agudo do Miocárdio,5,69340.74,13868.15,5.4
+2023,9,Setembro,Primavera,Sudeste,I21,Infarto Agudo do Miocárdio,106,1530041.31,14434.35,5.2
+2023,9,Setembro,Primavera,Nordeste,I64,Acidente Vascular Cerebral,32,291288.23,9102.76,5.3
+2023,9,Setembro,Primavera,Sudeste,I64,Acidente Vascular Cerebral,90,869037.55,9655.97,4.7
+2023,9,Setembro,Primavera,Sul,I64,Acidente Vascular Cerebral,29,284194.31,9799.8,5.1
+2023,9,Setembro,Primavera,Centro-Oeste,I64,Acidente Vascular Cerebral,5,50052.54,10010.51,8.0
+2023,9,Setembro,Primavera,Sudeste,J18,Pneumonia,147,479671.5,3263.07,5.1
+2023,9,Setembro,Primavera,Sul,J18,Pneumonia,57,178407.17,3129.95,5.1
+2023,9,Setembro,Primavera,Nordeste,J18,Pneumonia,51,163148.72,3198.99,5.3
+2023,9,Setembro,Primavera,Centro-Oeste,J18,Pneumonia,17,54124.87,3183.82,5.1
+2023,9,Setembro,Primavera,Centro-Oeste,J44,DPOC,3,11848.86,3949.62,1.7
+2023,9,Setembro,Primavera,Sudeste,J44,DPOC,61,248692.52,4076.93,6.0
+2023,9,Setembro,Primavera,Nordeste,J44,DPOC,18,78300.12,4350.01,5.7
+2023,9,Setembro,Primavera,Sul,J44,DPOC,17,66986.18,3940.36,4.6
+2023,9,Setembro,Primavera,Centro-Oeste,K35,Apendicite Aguda,8,42245.99,5280.75,5.0
+2023,9,Setembro,Primavera,Sul,K35,Apendicite Aguda,24,112950.17,4706.26,6.5
+2023,9,Setembro,Primavera,Nordeste,K35,Apendicite Aguda,22,118458.44,5384.47,6.9
+2023,9,Setembro,Primavera,Sudeste,K35,Apendicite Aguda,79,423316.32,5358.43,4.7
+2023,9,Setembro,Primavera,Nordeste,M54,Dorsalgia,19,43440.14,2286.32,4.3
+2023,9,Setembro,Primavera,Sul,M54,Dorsalgia,25,54166.02,2166.64,5.7
+2023,9,Setembro,Primavera,Sudeste,M54,Dorsalgia,66,137829.35,2088.32,4.6
+2023,9,Setembro,Primavera,Centro-Oeste,M54,Dorsalgia,3,6629.74,2209.91,5.3
+2023,9,Setembro,Primavera,Centro-Oeste,N39,Infecção Urinária,11,17022.91,1547.54,5.7
+2023,9,Setembro,Primavera,Sudeste,N39,Infecção Urinária,114,170618.47,1496.65,5.0
+2023,9,Setembro,Primavera,Nordeste,N39,Infecção Urinária,44,65092.42,1479.37,4.5
+2023,9,Setembro,Primavera,Sul,N39,Infecção Urinária,42,58716.84,1398.02,4.4
+2023,9,Setembro,Primavera,Nordeste,O80,Parto Normal,36,71691.55,1991.43,5.5
+2023,9,Setembro,Primavera,Centro-Oeste,O80,Parto Normal,11,23949.16,2177.2,6.4
+2023,9,Setembro,Primavera,Sul,O80,Parto Normal,46,95404.52,2074.01,5.3
+2023,9,Setembro,Primavera,Sudeste,O80,Parto Normal,126,268662.54,2132.24,5.3
+2023,10,Outubro,Primavera,Nordeste,A09,Diarreia e Gastroenterite,27,28896.55,1070.24,5.9
+2023,10,Outubro,Primavera,Sul,A09,Diarreia e Gastroenterite,23,26255.47,1141.54,6.7
+2023,10,Outubro,Primavera,Sudeste,A09,Diarreia e Gastroenterite,99,106541.91,1076.18,5.4
+2023,10,Outubro,Primavera,Centro-Oeste,A09,Diarreia e Gastroenterite,8,9057.5,1132.19,8.6
+2023,10,Outubro,Primavera,Sul,A90,Dengue,27,48267.84,1787.7,5.6
+2023,10,Outubro,Primavera,Sudeste,A90,Dengue,100,190362.25,1903.62,4.4
+2023,10,Outubro,Primavera,Centro-Oeste,A90,Dengue,9,15986.3,1776.26,2.9
+2023,10,Outubro,Primavera,Nordeste,A90,Dengue,27,46057.49,1705.83,5.6
+2023,10,Outubro,Primavera,Nordeste,B24,Doença pelo HIV,12,77056.27,6421.36,5.8
+2023,10,Outubro,Primavera,Sul,B24,Doença pelo HIV,9,45038.67,5004.3,4.0
+2023,10,Outubro,Primavera,Sudeste,B24,Doença pelo HIV,46,263667.96,5731.91,4.9
+2023,10,Outubro,Primavera,Centro-Oeste,B24,Doença pelo HIV,3,15117.29,5039.1,2.7
+2023,10,Outubro,Primavera,Nordeste,C50,Neoplasia Maligna da Mama,17,311777.07,18339.83,6.3
+2023,10,Outubro,Primavera,Sudeste,C50,Neoplasia Maligna da Mama,60,1103256.86,18387.61,5.4
+2023,10,Outubro,Primavera,Sul,C50,Neoplasia Maligna da Mama,9,153377.34,17041.93,6.2
+2023,10,Outubro,Primavera,Centro-Oeste,C50,Neoplasia Maligna da Mama,7,149067.09,21295.3,2.7
+2023,10,Outubro,Primavera,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,5,12706.64,2541.33,4.4
+2023,10,Outubro,Primavera,Sul,E11,Diabetes Mellitus Tipo 2,33,87553.88,2653.15,3.8
+2023,10,Outubro,Primavera,Nordeste,E11,Diabetes Mellitus Tipo 2,34,93204.26,2741.3,5.2
+2023,10,Outubro,Primavera,Sudeste,E11,Diabetes Mellitus Tipo 2,101,275128.85,2724.05,5.1
+2023,10,Outubro,Primavera,Sudeste,F32,Episódio Depressivo,70,201068.3,2872.4,5.4
+2023,10,Outubro,Primavera,Nordeste,F32,Episódio Depressivo,39,121484.67,3114.99,6.3
+2023,10,Outubro,Primavera,Centro-Oeste,F32,Episódio Depressivo,6,14633.94,2438.99,6.2
+2023,10,Outubro,Primavera,Sul,F32,Episódio Depressivo,25,72883.95,2915.36,5.8
+2023,10,Outubro,Primavera,Sul,G40,Epilepsia,27,110980.68,4110.4,6.7
+2023,10,Outubro,Primavera,Nordeste,G40,Epilepsia,27,100926.65,3738.02,3.9
+2023,10,Outubro,Primavera,Centro-Oeste,G40,Epilepsia,4,15893.08,3973.27,4.8
+2023,10,Outubro,Primavera,Sudeste,G40,Epilepsia,51,186903.75,3664.78,5.6
+2023,10,Outubro,Primavera,Sudeste,I21,Infarto Agudo do Miocárdio,106,1510523.26,14250.22,5.0
+2023,10,Outubro,Primavera,Nordeste,I21,Infarto Agudo do Miocárdio,42,630539.41,15012.84,4.6
+2023,10,Outubro,Primavera,Sul,I21,Infarto Agudo do Miocárdio,37,531263.11,14358.46,6.7
+2023,10,Outubro,Primavera,Centro-Oeste,I21,Infarto Agudo do Miocárdio,10,145980.56,14598.06,6.4
+2023,10,Outubro,Primavera,Nordeste,I64,Acidente Vascular Cerebral,25,213879.47,8555.18,5.7
+2023,10,Outubro,Primavera,Sul,I64,Acidente Vascular Cerebral,18,161349.51,8963.86,5.6
+2023,10,Outubro,Primavera,Centro-Oeste,I64,Acidente Vascular Cerebral,12,124313.48,10359.46,5.6
+2023,10,Outubro,Primavera,Sudeste,I64,Acidente Vascular Cerebral,91,891637.34,9798.21,4.3
+2023,10,Outubro,Primavera,Nordeste,J18,Pneumonia,53,189738.06,3579.96,4.8
+2023,10,Outubro,Primavera,Sul,J18,Pneumonia,62,219576.05,3541.55,5.5
+2023,10,Outubro,Primavera,Centro-Oeste,J18,Pneumonia,11,33336.03,3030.55,7.2
+2023,10,Outubro,Primavera,Sudeste,J18,Pneumonia,141,461525.17,3273.23,5.1
+2023,10,Outubro,Primavera,Nordeste,J44,DPOC,20,78866.76,3943.34,4.7
+2023,10,Outubro,Primavera,Sudeste,J44,DPOC,56,240719.21,4298.56,3.7
+2023,10,Outubro,Primavera,Centro-Oeste,J44,DPOC,5,23360.65,4672.13,6.6
+2023,10,Outubro,Primavera,Sul,J44,DPOC,19,77683.51,4088.61,4.0
+2023,10,Outubro,Primavera,Sul,K35,Apendicite Aguda,43,230704.44,5365.22,5.5
+2023,10,Outubro,Primavera,Centro-Oeste,K35,Apendicite Aguda,3,16085.13,5361.71,4.3
+2023,10,Outubro,Primavera,Nordeste,K35,Apendicite Aguda,27,149661.06,5543.0,4.1
+2023,10,Outubro,Primavera,Sudeste,K35,Apendicite Aguda,76,407735.8,5364.94,4.8
+2023,10,Outubro,Primavera,Sul,M54,Dorsalgia,28,59070.51,2109.66,6.1
+2023,10,Outubro,Primavera,Nordeste,M54,Dorsalgia,27,61513.07,2278.26,5.4
+2023,10,Outubro,Primavera,Sudeste,M54,Dorsalgia,60,139681.16,2328.02,4.7
+2023,10,Outubro,Primavera,Centro-Oeste,M54,Dorsalgia,4,10624.16,2656.04,2.0
+2023,10,Outubro,Primavera,Sudeste,N39,Infecção Urinária,127,176722.69,1391.52,4.5
+2023,10,Outubro,Primavera,Sul,N39,Infecção Urinária,35,52737.28,1506.78,4.2
+2023,10,Outubro,Primavera,Centro-Oeste,N39,Infecção Urinária,12,18002.85,1500.24,5.1
+2023,10,Outubro,Primavera,Nordeste,N39,Infecção Urinária,48,66764.88,1390.93,5.3
+2023,10,Outubro,Primavera,Sudeste,O80,Parto Normal,137,293646.46,2143.4,4.9
+2023,10,Outubro,Primavera,Centro-Oeste,O80,Parto Normal,10,18376.25,1837.63,6.3
+2023,10,Outubro,Primavera,Nordeste,O80,Parto Normal,50,115042.32,2300.85,6.9
+2023,10,Outubro,Primavera,Sul,O80,Parto Normal,43,92364.3,2148.01,3.9
+2023,11,Novembro,Primavera,Sudeste,A09,Diarreia e Gastroenterite,89,93875.17,1054.78,5.2
+2023,11,Novembro,Primavera,Nordeste,A09,Diarreia e Gastroenterite,30,35341.51,1178.05,3.8
+2023,11,Novembro,Primavera,Sul,A09,Diarreia e Gastroenterite,30,32145.07,1071.5,5.1
+2023,11,Novembro,Primavera,Centro-Oeste,A09,Diarreia e Gastroenterite,8,8249.45,1031.18,8.4
+2023,11,Novembro,Primavera,Sudeste,A90,Dengue,92,163709.91,1779.46,4.6
+2023,11,Novembro,Primavera,Centro-Oeste,A90,Dengue,5,8179.4,1635.88,7.6
+2023,11,Novembro,Primavera,Sul,A90,Dengue,23,42589.68,1851.73,4.6
+2023,11,Novembro,Primavera,Nordeste,A90,Dengue,30,46764.48,1558.82,4.2
+2023,11,Novembro,Primavera,Sudeste,B24,Doença pelo HIV,45,273378.7,6075.08,4.6
+2023,11,Novembro,Primavera,Sul,B24,Doença pelo HIV,15,77508.23,5167.22,5.9
+2023,11,Novembro,Primavera,Centro-Oeste,B24,Doença pelo HIV,4,22895.76,5723.94,4.3
+2023,11,Novembro,Primavera,Nordeste,B24,Doença pelo HIV,12,67568.94,5630.75,5.4
+2023,11,Novembro,Primavera,Sudeste,C50,Neoplasia Maligna da Mama,36,627087.96,17419.11,5.2
+2023,11,Novembro,Primavera,Centro-Oeste,C50,Neoplasia Maligna da Mama,5,107646.45,21529.29,4.0
+2023,11,Novembro,Primavera,Sul,C50,Neoplasia Maligna da Mama,20,378192.82,18909.64,4.3
+2023,11,Novembro,Primavera,Nordeste,C50,Neoplasia Maligna da Mama,20,348640.09,17432.0,5.5
+2023,11,Novembro,Primavera,Nordeste,E11,Diabetes Mellitus Tipo 2,39,94086.03,2412.46,4.1
+2023,11,Novembro,Primavera,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,7,18924.38,2703.48,9.1
+2023,11,Novembro,Primavera,Sudeste,E11,Diabetes Mellitus Tipo 2,100,264601.31,2646.01,5.3
+2023,11,Novembro,Primavera,Sul,E11,Diabetes Mellitus Tipo 2,31,80523.92,2597.55,5.5
+2023,11,Novembro,Primavera,Sudeste,F32,Episódio Depressivo,58,175141.07,3019.67,5.2
+2023,11,Novembro,Primavera,Centro-Oeste,F32,Episódio Depressivo,8,21773.44,2721.68,5.8
+2023,11,Novembro,Primavera,Sul,F32,Episódio Depressivo,27,80485.41,2980.94,5.3
+2023,11,Novembro,Primavera,Nordeste,F32,Episódio Depressivo,21,55065.91,2622.19,3.5
+2023,11,Novembro,Primavera,Nordeste,G40,Epilepsia,29,113110.93,3900.38,5.7
+2023,11,Novembro,Primavera,Sul,G40,Epilepsia,20,79832.99,3991.65,5.6
+2023,11,Novembro,Primavera,Sudeste,G40,Epilepsia,68,266222.64,3915.04,6.2
+2023,11,Novembro,Primavera,Centro-Oeste,G40,Epilepsia,3,10158.89,3386.3,5.3
+2023,11,Novembro,Primavera,Sul,I21,Infarto Agudo do Miocárdio,46,677190.66,14721.54,5.4
+2023,11,Novembro,Primavera,Sudeste,I21,Infarto Agudo do Miocárdio,85,1248867.73,14692.56,4.8
+2023,11,Novembro,Primavera,Centro-Oeste,I21,Infarto Agudo do Miocárdio,7,91171.9,13024.56,4.1
+2023,11,Novembro,Primavera,Nordeste,I21,Infarto Agudo do Miocárdio,48,723077.6,15064.12,5.3
+2023,11,Novembro,Primavera,Centro-Oeste,I64,Acidente Vascular Cerebral,9,57659.85,6406.65,4.3
+2023,11,Novembro,Primavera,Sudeste,I64,Acidente Vascular Cerebral,77,730881.6,9491.97,5.5
+2023,11,Novembro,Primavera,Sul,I64,Acidente Vascular Cerebral,33,303998.88,9212.09,3.8
+2023,11,Novembro,Primavera,Nordeste,I64,Acidente Vascular Cerebral,24,230246.83,9593.62,5.3
+2023,11,Novembro,Primavera,Nordeste,J18,Pneumonia,47,154750.78,3292.57,4.9
+2023,11,Novembro,Primavera,Sudeste,J18,Pneumonia,150,514579.19,3430.53,4.9
+2023,11,Novembro,Primavera,Centro-Oeste,J18,Pneumonia,19,63415.27,3337.65,6.4
+2023,11,Novembro,Primavera,Sul,J18,Pneumonia,52,180177.15,3464.95,5.3
+2023,11,Novembro,Primavera,Sudeste,J44,DPOC,65,278000.0,4276.92,5.4
+2023,11,Novembro,Primavera,Centro-Oeste,J44,DPOC,12,48743.06,4061.92,6.2
+2023,11,Novembro,Primavera,Sul,J44,DPOC,21,90341.67,4301.98,4.5
+2023,11,Novembro,Primavera,Nordeste,J44,DPOC,19,89004.96,4684.47,4.7
+2023,11,Novembro,Primavera,Sul,K35,Apendicite Aguda,18,90913.7,5050.76,4.8
+2023,11,Novembro,Primavera,Nordeste,K35,Apendicite Aguda,20,109709.4,5485.47,3.4
+2023,11,Novembro,Primavera,Centro-Oeste,K35,Apendicite Aguda,10,50008.75,5000.88,4.5
+2023,11,Novembro,Primavera,Sudeste,K35,Apendicite Aguda,77,416095.16,5403.83,5.1
+2023,11,Novembro,Primavera,Sudeste,M54,Dorsalgia,74,152895.73,2066.16,5.5
+2023,11,Novembro,Primavera,Sul,M54,Dorsalgia,18,39788.79,2210.49,3.8
+2023,11,Novembro,Primavera,Centro-Oeste,M54,Dorsalgia,4,7745.75,1936.44,8.5
+2023,11,Novembro,Primavera,Nordeste,M54,Dorsalgia,17,37692.94,2217.23,5.4
+2023,11,Novembro,Primavera,Sudeste,N39,Infecção Urinária,109,161043.87,1477.47,4.5
+2023,11,Novembro,Primavera,Sul,N39,Infecção Urinária,27,38187.97,1414.37,4.6
+2023,11,Novembro,Primavera,Nordeste,N39,Infecção Urinária,41,61802.67,1507.38,5.8
+2023,11,Novembro,Primavera,Centro-Oeste,N39,Infecção Urinária,6,7659.17,1276.53,4.0
+2023,11,Novembro,Primavera,Centro-Oeste,O80,Parto Normal,9,19606.88,2178.54,8.6
+2023,11,Novembro,Primavera,Nordeste,O80,Parto Normal,48,100272.41,2089.01,5.2
+2023,11,Novembro,Primavera,Sudeste,O80,Parto Normal,122,262592.49,2152.4,5.4
+2023,11,Novembro,Primavera,Sul,O80,Parto Normal,44,96741.17,2198.66,4.3
+2023,12,Dezembro,Verão,Centro-Oeste,A09,Diarreia e Gastroenterite,9,10641.32,1182.37,4.7
+2023,12,Dezembro,Verão,Sudeste,A09,Diarreia e Gastroenterite,79,83798.68,1060.74,4.3
+2023,12,Dezembro,Verão,Nordeste,A09,Diarreia e Gastroenterite,33,34686.57,1051.11,5.2
+2023,12,Dezembro,Verão,Sul,A09,Diarreia e Gastroenterite,35,35698.46,1019.96,5.5
+2023,12,Dezembro,Verão,Sudeste,A90,Dengue,93,166269.1,1787.84,3.9
+2023,12,Dezembro,Verão,Nordeste,A90,Dengue,29,48955.54,1688.12,6.0
+2023,12,Dezembro,Verão,Centro-Oeste,A90,Dengue,13,23504.51,1808.04,4.8
+2023,12,Dezembro,Verão,Sul,A90,Dengue,20,34576.95,1728.85,4.7
+2023,12,Dezembro,Verão,Sudeste,B24,Doença pelo HIV,29,185104.58,6382.92,5.8
+2023,12,Dezembro,Verão,Sul,B24,Doença pelo HIV,10,54305.8,5430.58,4.9
+2023,12,Dezembro,Verão,Nordeste,B24,Doença pelo HIV,9,51995.98,5777.33,5.6
+2023,12,Dezembro,Verão,Centro-Oeste,B24,Doença pelo HIV,4,23368.68,5842.17,4.3
+2023,12,Dezembro,Verão,Sudeste,C50,Neoplasia Maligna da Mama,60,1042240.83,17370.68,5.5
+2023,12,Dezembro,Verão,Nordeste,C50,Neoplasia Maligna da Mama,22,345116.9,15687.13,4.9
+2023,12,Dezembro,Verão,Sul,C50,Neoplasia Maligna da Mama,22,381518.67,17341.76,5.2
+2023,12,Dezembro,Verão,Centro-Oeste,C50,Neoplasia Maligna da Mama,1,23829.68,23829.68,14.0
+2023,12,Dezembro,Verão,Centro-Oeste,E11,Diabetes Mellitus Tipo 2,14,36428.2,2602.01,4.3
+2023,12,Dezembro,Verão,Sudeste,E11,Diabetes Mellitus Tipo 2,102,269441.6,2641.58,5.5
+2023,12,Dezembro,Verão,Nordeste,E11,Diabetes Mellitus Tipo 2,45,114752.36,2550.05,5.2
+2023,12,Dezembro,Verão,Sul,E11,Diabetes Mellitus Tipo 2,32,81749.71,2554.68,4.7
+2023,12,Dezembro,Verão,Sudeste,F32,Episódio Depressivo,62,195039.45,3145.8,5.9
+2023,12,Dezembro,Verão,Centro-Oeste,F32,Episódio Depressivo,6,17953.23,2992.21,2.8
+2023,12,Dezembro,Verão,Nordeste,F32,Episódio Depressivo,27,80101.72,2966.73,5.1
+2023,12,Dezembro,Verão,Sul,F32,Episódio Depressivo,15,44668.18,2977.88,3.4
+2023,12,Dezembro,Verão,Sul,G40,Epilepsia,19,79304.2,4173.91,6.1
+2023,12,Dezembro,Verão,Centro-Oeste,G40,Epilepsia,5,20809.21,4161.84,4.4
+2023,12,Dezembro,Verão,Sudeste,G40,Epilepsia,60,224092.95,3734.88,4.6
+2023,12,Dezembro,Verão,Nordeste,G40,Epilepsia,25,92221.78,3688.87,6.1
+2023,12,Dezembro,Verão,Nordeste,I21,Infarto Agudo do Miocárdio,33,502610.67,15230.63,4.5
+2023,12,Dezembro,Verão,Sudeste,I21,Infarto Agudo do Miocárdio,106,1570289.64,14814.05,5.5
+2023,12,Dezembro,Verão,Sul,I21,Infarto Agudo do Miocárdio,32,439250.98,13726.59,4.2
+2023,12,Dezembro,Verão,Centro-Oeste,I21,Infarto Agudo do Miocárdio,10,111175.5,11117.55,5.4
+2023,12,Dezembro,Verão,Sul,I64,Acidente Vascular Cerebral,20,196522.1,9826.11,5.5
+2023,12,Dezembro,Verão,Nordeste,I64,Acidente Vascular Cerebral,23,202950.24,8823.92,5.7
+2023,12,Dezembro,Verão,Centro-Oeste,I64,Acidente Vascular Cerebral,8,87773.27,10971.66,5.9
+2023,12,Dezembro,Verão,Sudeste,I64,Acidente Vascular Cerebral,67,658549.35,9829.09,4.9
+2023,12,Dezembro,Verão,Nordeste,J18,Pneumonia,59,190259.29,3224.73,4.7
+2023,12,Dezembro,Verão,Centro-Oeste,J18,Pneumonia,19,70323.01,3701.21,7.1
+2023,12,Dezembro,Verão,Sul,J18,Pneumonia,61,207822.52,3406.93,5.0
+2023,12,Dezembro,Verão,Sudeste,J18,Pneumonia,153,505852.69,3306.23,5.1
+2023,12,Dezembro,Verão,Centro-Oeste,J44,DPOC,7,31512.72,4501.82,7.0
+2023,12,Dezembro,Verão,Sudeste,J44,DPOC,66,271631.94,4115.64,6.1
+2023,12,Dezembro,Verão,Nordeste,J44,DPOC,31,131757.94,4250.26,5.1
+2023,12,Dezembro,Verão,Sul,J44,DPOC,18,72558.18,4031.01,3.9
+2023,12,Dezembro,Verão,Sudeste,K35,Apendicite Aguda,71,381415.16,5372.04,5.4
+2023,12,Dezembro,Verão,Centro-Oeste,K35,Apendicite Aguda,11,63513.0,5773.91,6.6
+2023,12,Dezembro,Verão,Sul,K35,Apendicite Aguda,17,85411.72,5024.22,4.7
+2023,12,Dezembro,Verão,Nordeste,K35,Apendicite Aguda,32,168358.06,5261.19,5.2
+2023,12,Dezembro,Verão,Sul,M54,Dorsalgia,25,51367.27,2054.69,5.3
+2023,12,Dezembro,Verão,Centro-Oeste,M54,Dorsalgia,9,21669.7,2407.74,7.7
+2023,12,Dezembro,Verão,Sudeste,M54,Dorsalgia,61,130312.53,2136.27,5.3
+2023,12,Dezembro,Verão,Nordeste,M54,Dorsalgia,21,40869.9,1946.19,5.0
+2023,12,Dezembro,Verão,Sul,N39,Infecção Urinária,37,53638.32,1449.68,4.6
+2023,12,Dezembro,Verão,Sudeste,N39,Infecção Urinária,107,159245.93,1488.28,5.6
+2023,12,Dezembro,Verão,Nordeste,N39,Infecção Urinária,35,50746.37,1449.9,5.4
+2023,12,Dezembro,Verão,Centro-Oeste,N39,Infecção Urinária,9,13270.64,1474.52,4.0
+2023,12,Dezembro,Verão,Nordeste,O80,Parto Normal,46,107254.98,2331.63,5.6
+2023,12,Dezembro,Verão,Sul,O80,Parto Normal,51,109550.87,2148.06,5.0
+2023,12,Dezembro,Verão,Centro-Oeste,O80,Parto Normal,10,20890.98,2089.1,6.9
+2023,12,Dezembro,Verão,Sudeste,O80,Parto Normal,130,287501.71,2211.55,5.0

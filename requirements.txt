@@ -1,0 +1,8 @@
+﻿duckdb==0.10.1
+pandas==2.2.1
+requests==2.31.0
+dbt-core==1.7.9
+dbt-duckdb==1.7.2
+python-dotenv==1.0.1
+loguru==0.7.2
+tqdm==4.66.2

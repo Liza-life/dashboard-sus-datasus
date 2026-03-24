@@ -1,0 +1,301 @@
+﻿cid_principal,desc_cid,uf,regiao,ano,total_casos,custo_total,custo_medio_caso,media_dias,casos_urgencia
+J18,Pneumonia,SP,Sudeste,2023,830,3259881.58,3927.57,5.3,494
+J18,Pneumonia,SP,Sudeste,2022,680,2679318.54,3940.17,5.2,407
+O80,Parto Normal,SP,Sudeste,2023,654,1633790.25,2498.15,5.3,396
+N39,Infecção Urinária,SP,Sudeste,2023,619,1037175.72,1675.57,4.8,373
+J18,Pneumonia,RJ,Sudeste,2023,582,2248221.56,3862.92,5.3,354
+E11,Diabetes Mellitus Tipo 2,SP,Sudeste,2023,572,1717489.69,3002.6,5.0,354
+O80,Parto Normal,SP,Sudeste,2022,552,1379775.74,2499.59,5.1,332
+I21,Infarto Agudo do Miocárdio,SP,Sudeste,2023,539,8807144.62,16339.79,5.0,327
+N39,Infecção Urinária,SP,Sudeste,2022,532,866947.48,1629.6,5.3,310
+A09,Diarreia e Gastroenterite,SP,Sudeste,2023,500,615214.46,1230.43,5.2,320
+A90,Dengue,SP,Sudeste,2023,496,1034463.85,2085.61,5.0,321
+O80,Parto Normal,RJ,Sudeste,2023,476,1185430.91,2490.4,5.1,275
+I21,Infarto Agudo do Miocárdio,SP,Sudeste,2022,452,7585067.99,16781.12,4.8,248
+J18,Pneumonia,RJ,Sudeste,2022,451,1705277.06,3781.1,4.7,275
+E11,Diabetes Mellitus Tipo 2,SP,Sudeste,2022,444,1368106.23,3081.32,4.8,258
+J18,Pneumonia,MG,Sudeste,2023,425,1664603.95,3916.72,4.8,256
+A09,Diarreia e Gastroenterite,SP,Sudeste,2022,415,517675.01,1247.41,5.5,247
+A90,Dengue,SP,Sudeste,2022,413,849362.57,2056.57,4.6,282
+E11,Diabetes Mellitus Tipo 2,RJ,Sudeste,2023,413,1294443.41,3134.25,5.4,266
+I64,Acidente Vascular Cerebral,SP,Sudeste,2023,398,4275735.82,10743.05,4.9,242
+N39,Infecção Urinária,RJ,Sudeste,2022,397,656351.21,1653.28,4.9,234
+I21,Infarto Agudo do Miocárdio,RJ,Sudeste,2023,396,6532314.65,16495.74,5.3,245
+N39,Infecção Urinária,RJ,Sudeste,2023,396,661030.93,1669.27,4.8,250
+O80,Parto Normal,RJ,Sudeste,2022,395,967404.54,2449.13,5.3,222
+K35,Apendicite Aguda,SP,Sudeste,2023,385,2350912.8,6106.27,5.1,229
+O80,Parto Normal,MG,Sudeste,2023,373,922942.02,2474.38,5.1,226
+K35,Apendicite Aguda,SP,Sudeste,2022,369,2303735.64,6243.19,5.4,222
+A90,Dengue,RJ,Sudeste,2023,366,764953.07,2090.04,4.8,197
+J18,Pneumonia,MG,Sudeste,2022,364,1427388.2,3921.4,5.2,224
+J44,DPOC,SP,Sudeste,2023,360,1701748.98,4727.08,5.2,221
+M54,Dorsalgia,SP,Sudeste,2023,339,836163.1,2466.56,5.0,200
+I64,Acidente Vascular Cerebral,SP,Sudeste,2022,338,3736518.82,11054.79,5.2,210
+A09,Diarreia e Gastroenterite,RJ,Sudeste,2023,330,413610.7,1253.37,5.3,213
+F32,Episódio Depressivo,SP,Sudeste,2023,327,1124146.51,3437.76,5.2,196
+N39,Infecção Urinária,MG,Sudeste,2023,318,521441.39,1639.75,5.2,203
+K35,Apendicite Aguda,RJ,Sudeste,2023,314,1882468.61,5995.12,5.5,192
+G40,Epilepsia,SP,Sudeste,2023,312,1423153.03,4561.39,5.7,190
+E11,Diabetes Mellitus Tipo 2,RJ,Sudeste,2022,311,930187.44,2990.96,5.4,193
+C50,Neoplasia Maligna da Mama,SP,Sudeste,2023,298,6171417.83,20709.46,5.1,173
+I21,Infarto Agudo do Miocárdio,RJ,Sudeste,2022,294,4818463.21,16389.33,5.2,185
+M54,Dorsalgia,SP,Sudeste,2022,289,723722.21,2504.23,4.8,171
+F32,Episódio Depressivo,SP,Sudeste,2022,288,986926.62,3426.83,5.3,174
+I64,Acidente Vascular Cerebral,RJ,Sudeste,2023,288,3218760.42,11176.25,4.8,170
+E11,Diabetes Mellitus Tipo 2,MG,Sudeste,2023,282,880015.0,3120.62,5.0,171
+A90,Dengue,MG,Sudeste,2023,281,579463.86,2062.15,5.1,157
+J44,DPOC,SP,Sudeste,2022,279,1364463.71,4890.55,5.5,159
+O80,Parto Normal,MG,Sudeste,2022,278,681302.06,2450.73,5.6,175
+A90,Dengue,RJ,Sudeste,2022,278,576583.8,2074.04,5.3,187
+I21,Infarto Agudo do Miocárdio,MG,Sudeste,2023,273,4607714.37,16878.07,5.0,169
+G40,Epilepsia,SP,Sudeste,2022,270,1215325.24,4501.2,4.5,162
+N39,Infecção Urinária,MG,Sudeste,2022,267,428801.15,1606.0,5.4,153
+F32,Episódio Depressivo,RJ,Sudeste,2023,255,867711.76,3402.79,5.5,151
+J18,Pneumonia,RS,Sul,2023,255,983980.16,3858.75,5.3,165
+A09,Diarreia e Gastroenterite,RJ,Sudeste,2022,252,310066.72,1230.42,5.2,155
+K35,Apendicite Aguda,RJ,Sudeste,2022,252,1524687.43,6050.35,4.6,142
+J18,Pneumonia,BA,Nordeste,2023,251,973128.57,3877.01,4.7,135
+A09,Diarreia e Gastroenterite,MG,Sudeste,2023,248,306356.93,1235.31,5.0,156
+I64,Acidente Vascular Cerebral,RJ,Sudeste,2022,247,2763422.07,11187.94,4.9,154
+G40,Epilepsia,RJ,Sudeste,2023,238,1026234.89,4311.91,5.4,147
+E11,Diabetes Mellitus Tipo 2,MG,Sudeste,2022,237,733448.76,3094.72,5.5,138
+I21,Infarto Agudo do Miocárdio,MG,Sudeste,2022,237,3770572.43,15909.59,5.2,150
+M54,Dorsalgia,RJ,Sudeste,2023,235,574149.84,2443.19,5.7,151
+J18,Pneumonia,PR,Sul,2023,227,907413.56,3997.42,5.2,137
+N39,Infecção Urinária,BA,Nordeste,2023,225,370246.49,1645.54,5.3,137
+J44,DPOC,RJ,Sudeste,2023,223,1111597.68,4984.74,5.0,129
+K35,Apendicite Aguda,MG,Sudeste,2023,221,1374771.94,6220.69,5.1,127
+J18,Pneumonia,BA,Nordeste,2022,218,837973.92,3843.92,5.0,139
+C50,Neoplasia Maligna da Mama,SP,Sudeste,2022,218,4549800.04,20870.64,4.9,130
+F32,Episódio Depressivo,RJ,Sudeste,2022,218,749854.32,3439.7,5.1,123
+A90,Dengue,MG,Sudeste,2022,217,449109.55,2069.63,5.1,130
+M54,Dorsalgia,RJ,Sudeste,2022,215,523944.75,2436.95,5.5,129
+O80,Parto Normal,PR,Sul,2023,214,511452.11,2389.96,4.5,133
+C50,Neoplasia Maligna da Mama,RJ,Sudeste,2023,212,4174213.67,19689.69,5.2,130
+I64,Acidente Vascular Cerebral,MG,Sudeste,2023,212,2292069.74,10811.65,4.8,112
+B24,Doença pelo HIV,SP,Sudeste,2023,211,1457847.35,6909.23,5.4,111
+J18,Pneumonia,RS,Sul,2022,204,780128.88,3824.16,5.0,119
+A09,Diarreia e Gastroenterite,MG,Sudeste,2022,204,258321.48,1266.28,5.2,115
+J44,DPOC,RJ,Sudeste,2022,201,954979.24,4751.14,5.2,131
+I21,Infarto Agudo do Miocárdio,BA,Nordeste,2023,201,3197602.19,15908.47,4.9,132
+J18,Pneumonia,CE,Nordeste,2023,198,771473.25,3896.33,5.2,115
+O80,Parto Normal,BA,Nordeste,2023,198,493732.58,2493.6,5.5,120
+O80,Parto Normal,BA,Nordeste,2022,195,480150.37,2462.31,4.8,115
+F32,Episódio Depressivo,MG,Sudeste,2023,195,658999.85,3379.49,4.8,113
+O80,Parto Normal,RS,Sul,2023,190,473136.3,2490.19,4.7,111
+B24,Doença pelo HIV,SP,Sudeste,2022,190,1321281.16,6954.11,5.5,112
+O80,Parto Normal,CE,Nordeste,2023,189,468726.36,2480.03,4.7,104
+J18,Pneumonia,PR,Sul,2022,186,715804.65,3848.41,5.2,108
+G40,Epilepsia,MG,Sudeste,2023,182,778764.68,4278.93,4.9,120
+E11,Diabetes Mellitus Tipo 2,BA,Nordeste,2023,182,560722.65,3080.89,4.9,116
+O80,Parto Normal,PE,Nordeste,2023,180,441539.38,2453.0,5.1,113
+M54,Dorsalgia,MG,Sudeste,2023,180,454745.8,2526.37,5.4,120
+G40,Epilepsia,RJ,Sudeste,2022,180,773365.54,4296.48,5.7,112
+C50,Neoplasia Maligna da Mama,RJ,Sudeste,2022,179,3628998.79,20273.74,5.1,97
+J44,DPOC,MG,Sudeste,2023,178,853683.43,4795.97,5.2,101
+K35,Apendicite Aguda,MG,Sudeste,2022,178,1095795.59,6156.16,5.5,107
+J18,Pneumonia,PE,Nordeste,2023,176,669640.22,3804.77,5.2,102
+O80,Parto Normal,RS,Sul,2022,172,430355.31,2502.07,5.3,110
+I64,Acidente Vascular Cerebral,MG,Sudeste,2022,170,1857615.88,10927.15,5.3,100
+N39,Infecção Urinária,RS,Sul,2023,169,275830.23,1632.13,5.0,98
+N39,Infecção Urinária,BA,Nordeste,2022,166,275280.07,1658.31,4.9,111
+B24,Doença pelo HIV,RJ,Sudeste,2023,164,1076909.82,6566.52,5.2,108
+I21,Infarto Agudo do Miocárdio,RS,Sul,2023,163,2693900.44,16527.0,5.3,91
+J18,Pneumonia,SC,Sul,2023,161,595186.48,3696.81,4.8,97
+I21,Infarto Agudo do Miocárdio,PR,Sul,2023,160,2569226.4,16057.67,4.6,105
+F32,Episódio Depressivo,MG,Sudeste,2022,160,523299.86,3270.62,5.5,86
+N39,Infecção Urinária,PE,Nordeste,2023,159,268333.5,1687.63,4.4,89
+J18,Pneumonia,PE,Nordeste,2022,157,592010.77,3770.77,5.2,96
+E11,Diabetes Mellitus Tipo 2,BA,Nordeste,2022,156,487934.93,3127.79,5.1,94
+N39,Infecção Urinária,PR,Sul,2023,156,258723.76,1658.49,5.1,100
+J18,Pneumonia,GO,Centro-Oeste,2023,155,579555.9,3739.07,6.0,91
+A09,Diarreia e Gastroenterite,BA,Nordeste,2023,155,192564.96,1242.35,5.6,81
+N39,Infecção Urinária,CE,Nordeste,2023,154,253865.09,1648.47,5.3,91
+G40,Epilepsia,MG,Sudeste,2022,154,686618.95,4458.56,5.3,89
+N39,Infecção Urinária,PR,Sul,2022,152,253233.83,1666.01,5.4,92
+I64,Acidente Vascular Cerebral,BA,Nordeste,2023,151,1709625.02,11322.02,5.0,88
+J18,Pneumonia,SC,Sul,2022,147,567820.61,3862.73,5.1,89
+I21,Infarto Agudo do Miocárdio,BA,Nordeste,2022,145,2361859.61,16288.69,5.2,76
+O80,Parto Normal,PR,Sul,2022,145,362463.12,2499.75,5.0,84
+J44,DPOC,MG,Sudeste,2022,144,705495.68,4899.28,5.1,82
+M54,Dorsalgia,MG,Sudeste,2022,143,359543.09,2514.29,4.4,77
+I21,Infarto Agudo do Miocárdio,CE,Nordeste,2023,142,2418991.24,17035.15,5.3,83
+E11,Diabetes Mellitus Tipo 2,PR,Sul,2022,140,445523.08,3182.31,5.6,79
+J18,Pneumonia,CE,Nordeste,2022,140,545903.95,3899.31,5.5,88
+E11,Diabetes Mellitus Tipo 2,RS,Sul,2023,140,415809.78,2970.07,5.5,89
+A09,Diarreia e Gastroenterite,RS,Sul,2023,140,176450.32,1260.36,5.7,81
+J18,Pneumonia,GO,Centro-Oeste,2022,140,558796.18,3991.4,5.3,98
+A09,Diarreia e Gastroenterite,BA,Nordeste,2022,139,176272.53,1268.15,5.1,84
+C50,Neoplasia Maligna da Mama,MG,Sudeste,2023,137,3017549.22,22025.91,5.4,94
+O80,Parto Normal,CE,Nordeste,2022,137,363675.49,2654.57,5.4,86
+N39,Infecção Urinária,PE,Nordeste,2022,137,224075.35,1635.59,4.6,93
+E11,Diabetes Mellitus Tipo 2,PR,Sul,2023,135,415891.06,3080.67,5.2,79
+A90,Dengue,BA,Nordeste,2023,135,257974.69,1910.92,5.4,85
+O80,Parto Normal,GO,Centro-Oeste,2023,135,319690.6,2368.08,5.6,93
+N39,Infecção Urinária,RS,Sul,2022,134,228330.71,1703.96,5.2,89
+A90,Dengue,PR,Sul,2023,132,264535.51,2004.06,5.3,81
+E11,Diabetes Mellitus Tipo 2,CE,Nordeste,2023,132,395928.06,2999.46,4.8,74
+A09,Diarreia e Gastroenterite,PR,Sul,2023,131,168336.0,1285.01,5.1,81
+K35,Apendicite Aguda,BA,Nordeste,2023,131,787512.99,6011.55,5.3,75
+I21,Infarto Agudo do Miocárdio,RS,Sul,2022,130,2090530.23,16081.0,4.8,76
+O80,Parto Normal,PE,Nordeste,2022,129,320571.48,2485.05,5.4,73
+O80,Parto Normal,SC,Sul,2023,129,314899.66,2441.08,4.5,77
+E11,Diabetes Mellitus Tipo 2,SC,Sul,2023,128,384238.25,3001.86,5.2,87
+I64,Acidente Vascular Cerebral,PE,Nordeste,2023,128,1398343.04,10924.56,5.2,70
+I64,Acidente Vascular Cerebral,PR,Sul,2023,128,1366963.94,10679.41,5.7,78
+I21,Infarto Agudo do Miocárdio,PE,Nordeste,2023,127,2219862.56,17479.23,4.9,77
+B24,Doença pelo HIV,MG,Sudeste,2023,126,917343.5,7280.5,5.3,70
+I21,Infarto Agudo do Miocárdio,PR,Sul,2022,122,2008609.0,16464.01,5.1,73
+A09,Diarreia e Gastroenterite,PE,Nordeste,2023,122,164743.48,1350.36,4.9,74
+A90,Dengue,RS,Sul,2022,121,263099.41,2174.38,5.1,74
+A90,Dengue,BA,Nordeste,2022,120,239834.61,1998.62,5.2,64
+I21,Infarto Agudo do Miocárdio,PE,Nordeste,2022,118,1960472.28,16614.17,5.4,72
+G40,Epilepsia,BA,Nordeste,2023,118,509996.36,4322.0,5.6,82
+N39,Infecção Urinária,CE,Nordeste,2022,118,205364.81,1740.38,5.7,68
+I64,Acidente Vascular Cerebral,RS,Sul,2023,116,1311667.96,11307.48,5.3,70
+C50,Neoplasia Maligna da Mama,MG,Sudeste,2022,116,2341318.85,20183.78,5.4,67
+F32,Episódio Depressivo,BA,Nordeste,2022,116,429647.4,3703.86,4.6,69
+N39,Infecção Urinária,SC,Sul,2023,114,188509.73,1653.59,4.3,74
+A09,Diarreia e Gastroenterite,GO,Centro-Oeste,2023,113,135818.8,1201.94,5.5,73
+A90,Dengue,RS,Sul,2023,112,231759.04,2069.28,5.3,66
+I21,Infarto Agudo do Miocárdio,CE,Nordeste,2022,111,1757451.99,15832.9,5.1,62
+K35,Apendicite Aguda,RS,Sul,2023,111,659671.89,5942.99,4.4,66
+K35,Apendicite Aguda,RS,Sul,2022,110,656502.15,5968.2,4.7,66
+M54,Dorsalgia,RS,Sul,2023,110,259309.67,2357.36,5.3,69
+F32,Episódio Depressivo,PR,Sul,2023,110,377140.71,3428.55,5.6,72
+A90,Dengue,PR,Sul,2022,109,228394.58,2095.36,4.2,66
+N39,Infecção Urinária,GO,Centro-Oeste,2023,109,177006.64,1623.91,5.1,76
+A09,Diarreia e Gastroenterite,CE,Nordeste,2023,109,131026.58,1202.08,5.4,62
+K35,Apendicite Aguda,PR,Sul,2023,108,666660.1,6172.78,5.5,61
+O80,Parto Normal,GO,Centro-Oeste,2022,108,269134.13,2491.98,4.5,63
+K35,Apendicite Aguda,BA,Nordeste,2022,108,706571.2,6542.33,5.5,67
+I21,Infarto Agudo do Miocárdio,SC,Sul,2023,108,1772818.49,16414.99,5.1,57
+E11,Diabetes Mellitus Tipo 2,RS,Sul,2022,108,323196.65,2992.56,4.6,66
+G40,Epilepsia,BA,Nordeste,2022,106,494917.09,4669.03,5.5,70
+E11,Diabetes Mellitus Tipo 2,PE,Nordeste,2023,106,310129.83,2925.75,5.2,69
+F32,Episódio Depressivo,BA,Nordeste,2023,105,363186.65,3458.92,5.9,75
+I64,Acidente Vascular Cerebral,BA,Nordeste,2022,104,1154472.73,11100.7,4.8,65
+J44,DPOC,BA,Nordeste,2023,103,513710.95,4987.48,5.1,60
+A90,Dengue,PE,Nordeste,2023,103,201783.07,1959.06,5.2,65
+O80,Parto Normal,SC,Sul,2022,102,241892.99,2371.5,5.2,68
+M54,Dorsalgia,BA,Nordeste,2023,102,250781.36,2458.64,4.8,64
+I21,Infarto Agudo do Miocárdio,GO,Centro-Oeste,2023,102,1650921.29,16185.5,5.1,60
+A90,Dengue,SC,Sul,2023,102,206367.45,2023.21,4.5,68
+M54,Dorsalgia,PR,Sul,2023,101,240409.75,2380.29,4.5,60
+A09,Diarreia e Gastroenterite,RS,Sul,2022,101,129911.0,1286.25,6.3,58
+B24,Doença pelo HIV,RJ,Sudeste,2022,100,684907.03,6849.07,5.1,56
+E11,Diabetes Mellitus Tipo 2,SC,Sul,2022,100,295608.87,2956.09,5.3,62
+E11,Diabetes Mellitus Tipo 2,GO,Centro-Oeste,2023,100,301843.07,3018.43,4.7,54
+A90,Dengue,GO,Centro-Oeste,2023,100,206008.1,2060.08,5.6,60
+A09,Diarreia e Gastroenterite,CE,Nordeste,2022,98,117174.57,1195.66,5.6,61
+K35,Apendicite Aguda,PR,Sul,2022,98,620858.26,6335.29,5.4,72
+F32,Episódio Depressivo,RS,Sul,2022,96,341256.45,3554.75,5.0,55
+E11,Diabetes Mellitus Tipo 2,PE,Nordeste,2022,96,291104.84,3032.34,4.7,59
+C50,Neoplasia Maligna da Mama,BA,Nordeste,2023,96,1871518.18,19494.98,5.5,56
+N39,Infecção Urinária,SC,Sul,2022,96,162643.03,1694.2,4.9,51
+I64,Acidente Vascular Cerebral,PR,Sul,2022,96,1118461.7,11650.64,5.7,59
+A09,Diarreia e Gastroenterite,PR,Sul,2022,96,116566.26,1214.23,4.7,56
+A90,Dengue,CE,Nordeste,2023,96,200203.39,2085.45,5.7,64
+M54,Dorsalgia,PR,Sul,2022,95,231085.38,2432.48,4.6,61
+B24,Doença pelo HIV,MG,Sudeste,2022,95,680895.36,7167.32,4.1,59
+G40,Epilepsia,PR,Sul,2023,95,401081.58,4221.91,5.8,66
+J44,DPOC,RS,Sul,2023,95,458254.46,4823.73,4.9,57
+I64,Acidente Vascular Cerebral,GO,Centro-Oeste,2023,94,1003233.67,10672.7,5.4,53
+G40,Epilepsia,CE,Nordeste,2023,94,422370.55,4493.3,5.4,55
+A09,Diarreia e Gastroenterite,SC,Sul,2023,94,119997.97,1276.57,5.4,59
+F32,Episódio Depressivo,PE,Nordeste,2023,93,321574.72,3457.79,5.0,62
+F32,Episódio Depressivo,CE,Nordeste,2023,93,315490.96,3392.38,5.5,52
+M54,Dorsalgia,PE,Nordeste,2023,92,233714.67,2540.38,6.9,61
+K35,Apendicite Aguda,GO,Centro-Oeste,2023,92,544515.43,5918.65,5.1,48
+J44,DPOC,CE,Nordeste,2023,92,434079.79,4718.26,5.4,60
+I64,Acidente Vascular Cerebral,RS,Sul,2022,91,970347.67,10663.16,4.6,53
+A90,Dengue,GO,Centro-Oeste,2022,91,194994.08,2142.79,5.4,55
+E11,Diabetes Mellitus Tipo 2,GO,Centro-Oeste,2022,91,295470.86,3246.93,5.6,54
+J44,DPOC,BA,Nordeste,2022,90,430534.25,4783.71,5.5,54
+I64,Acidente Vascular Cerebral,CE,Nordeste,2023,90,946343.83,10514.93,5.4,47
+G40,Epilepsia,PR,Sul,2022,90,401198.96,4457.77,4.9,48
+F32,Episódio Depressivo,RS,Sul,2023,89,304056.06,3416.36,5.4,56
+N39,Infecção Urinária,GO,Centro-Oeste,2022,89,147342.66,1655.54,5.0,46
+I64,Acidente Vascular Cerebral,SC,Sul,2023,89,910639.57,10231.91,4.5,52
+K35,Apendicite Aguda,PE,Nordeste,2023,89,600386.56,6745.92,6.0,59
+A90,Dengue,CE,Nordeste,2022,88,188797.94,2145.43,5.3,46
+M54,Dorsalgia,PE,Nordeste,2022,87,210154.22,2415.57,4.7,46
+J44,DPOC,PE,Nordeste,2023,87,410089.03,4713.67,4.9,47
+J44,DPOC,PR,Sul,2023,87,419045.28,4816.61,4.7,58
+M54,Dorsalgia,BA,Nordeste,2022,87,207162.98,2381.18,5.2,52
+G40,Epilepsia,PE,Nordeste,2023,85,370898.24,4363.51,4.6,51
+J44,DPOC,RS,Sul,2022,84,412382.42,4909.31,5.8,53
+K35,Apendicite Aguda,SC,Sul,2023,84,492329.97,5861.07,5.5,48
+F32,Episódio Depressivo,PR,Sul,2022,83,303207.47,3653.1,5.7,49
+A90,Dengue,PE,Nordeste,2022,83,179741.85,2165.56,4.8,42
+E11,Diabetes Mellitus Tipo 2,CE,Nordeste,2022,83,265866.04,3203.21,5.1,53
+K35,Apendicite Aguda,CE,Nordeste,2023,82,518767.91,6326.44,5.4,42
+C50,Neoplasia Maligna da Mama,PR,Sul,2023,81,1666969.79,20579.87,5.0,44
+I64,Acidente Vascular Cerebral,CE,Nordeste,2022,79,897419.62,11359.74,4.5,45
+G40,Epilepsia,RS,Sul,2023,79,354962.61,4493.2,5.7,54
+M54,Dorsalgia,SC,Sul,2023,79,205205.03,2597.53,5.4,48
+C50,Neoplasia Maligna da Mama,PR,Sul,2022,78,1658232.81,21259.4,6.2,45
+M54,Dorsalgia,CE,Nordeste,2022,78,199742.12,2560.8,6.1,50
+I64,Acidente Vascular Cerebral,PE,Nordeste,2022,77,816098.58,10598.68,4.7,40
+A09,Diarreia e Gastroenterite,GO,Centro-Oeste,2022,76,98093.8,1290.71,5.3,36
+I21,Infarto Agudo do Miocárdio,GO,Centro-Oeste,2022,76,1246556.04,16402.05,4.8,47
+I64,Acidente Vascular Cerebral,SC,Sul,2022,76,841307.47,11069.84,5.1,52
+I21,Infarto Agudo do Miocárdio,SC,Sul,2022,75,1180292.29,15737.23,5.9,41
+G40,Epilepsia,SC,Sul,2023,74,335506.19,4533.87,4.6,41
+A09,Diarreia e Gastroenterite,PE,Nordeste,2022,74,88974.63,1202.36,5.6,44
+J44,DPOC,CE,Nordeste,2022,73,332378.0,4553.12,4.2,32
+K35,Apendicite Aguda,PE,Nordeste,2022,73,437391.38,5991.66,5.1,44
+B24,Doença pelo HIV,BA,Nordeste,2023,73,508350.99,6963.71,4.9,48
+J44,DPOC,GO,Centro-Oeste,2023,72,335342.07,4657.53,5.2,39
+J44,DPOC,PR,Sul,2022,72,356202.03,4947.25,5.4,46
+G40,Epilepsia,RS,Sul,2022,70,324963.99,4642.34,5.4,42
+F32,Episódio Depressivo,GO,Centro-Oeste,2023,69,215638.54,3125.2,5.5,46
+M54,Dorsalgia,RS,Sul,2022,69,174896.1,2534.73,5.1,41
+F32,Episódio Depressivo,SC,Sul,2022,68,232841.35,3424.14,6.5,39
+C50,Neoplasia Maligna da Mama,RS,Sul,2023,68,1389505.43,20433.9,4.8,44
+I64,Acidente Vascular Cerebral,GO,Centro-Oeste,2022,68,682828.17,10041.59,4.5,36
+B24,Doença pelo HIV,BA,Nordeste,2022,68,475845.17,6997.72,5.0,44
+C50,Neoplasia Maligna da Mama,PE,Nordeste,2022,67,1396114.51,20837.53,5.0,45
+F32,Episódio Depressivo,PE,Nordeste,2022,66,242387.71,3672.54,4.7,42
+F32,Episódio Depressivo,SC,Sul,2023,66,218326.22,3307.97,4.1,37
+K35,Apendicite Aguda,CE,Nordeste,2022,66,394009.81,5969.85,4.9,39
+M54,Dorsalgia,SC,Sul,2022,66,160821.26,2436.69,4.8,34
+K35,Apendicite Aguda,GO,Centro-Oeste,2022,66,392605.84,5948.57,4.9,43
+K35,Apendicite Aguda,SC,Sul,2022,66,430224.14,6518.55,5.0,40
+A90,Dengue,SC,Sul,2022,65,133931.65,2060.49,5.4,35
+M54,Dorsalgia,GO,Centro-Oeste,2023,65,166388.67,2559.83,5.9,34
+J44,DPOC,SC,Sul,2023,65,304618.06,4686.43,5.8,40
+C50,Neoplasia Maligna da Mama,BA,Nordeste,2022,65,1392182.6,21418.19,4.7,31
+A09,Diarreia e Gastroenterite,SC,Sul,2022,63,80191.55,1272.88,4.9,39
+G40,Epilepsia,PE,Nordeste,2022,63,280989.55,4460.15,5.9,38
+G40,Epilepsia,CE,Nordeste,2022,63,262439.67,4165.71,5.3,41
+C50,Neoplasia Maligna da Mama,CE,Nordeste,2022,63,1303392.63,20688.77,5.0,38
+B24,Doença pelo HIV,RS,Sul,2023,62,413352.68,6666.98,5.0,48
+F32,Episódio Depressivo,GO,Centro-Oeste,2022,61,200028.18,3279.15,5.9,34
+M54,Dorsalgia,CE,Nordeste,2023,61,143950.27,2359.84,5.1,36
+C50,Neoplasia Maligna da Mama,CE,Nordeste,2023,61,1241901.69,20359.04,5.0,44
+C50,Neoplasia Maligna da Mama,RS,Sul,2022,60,1201664.14,20027.74,4.7,33
+F32,Episódio Depressivo,CE,Nordeste,2022,60,203950.68,3399.18,5.0,43
+C50,Neoplasia Maligna da Mama,GO,Centro-Oeste,2023,60,1303681.66,21728.03,4.7,37
+G40,Epilepsia,SC,Sul,2022,58,267166.89,4606.33,5.2,40
+J44,DPOC,PE,Nordeste,2022,57,280275.28,4917.11,5.5,35
+C50,Neoplasia Maligna da Mama,PE,Nordeste,2023,56,1100223.76,19646.85,4.5,30
+J44,DPOC,SC,Sul,2022,55,249225.96,4531.38,6.4,29
+C50,Neoplasia Maligna da Mama,SC,Sul,2023,52,1145455.31,22027.99,5.5,31
+M54,Dorsalgia,GO,Centro-Oeste,2022,52,128860.97,2478.1,5.1,36
+G40,Epilepsia,GO,Centro-Oeste,2023,49,224909.24,4589.98,4.3,31
+G40,Epilepsia,GO,Centro-Oeste,2022,49,224700.52,4585.72,6.1,27
+J44,DPOC,GO,Centro-Oeste,2022,48,243861.38,5080.45,6.0,33
+B24,Doença pelo HIV,PR,Sul,2022,48,317223.78,6608.83,5.9,34
+B24,Doença pelo HIV,PE,Nordeste,2023,48,328225.16,6838.02,6.0,24
+C50,Neoplasia Maligna da Mama,SC,Sul,2022,47,969104.15,20619.24,4.6,28
+B24,Doença pelo HIV,PR,Sul,2023,46,307382.01,6682.22,6.1,22
+C50,Neoplasia Maligna da Mama,GO,Centro-Oeste,2022,45,927500.28,20611.12,5.7,24
+B24,Doença pelo HIV,SC,Sul,2022,45,308236.7,6849.7,5.4,23
+B24,Doença pelo HIV,CE,Nordeste,2023,43,292772.81,6808.67,5.4,28
+B24,Doença pelo HIV,SC,Sul,2023,39,271303.56,6956.5,4.9,24
+B24,Doença pelo HIV,PE,Nordeste,2022,38,245340.02,6456.32,4.8,21
+B24,Doença pelo HIV,RS,Sul,2022,38,262091.88,6897.15,5.2,17
+B24,Doença pelo HIV,CE,Nordeste,2022,37,233964.78,6323.37,3.9,27
+B24,Doença pelo HIV,GO,Centro-Oeste,2023,37,254540.28,6879.47,4.4,25
+B24,Doença pelo HIV,GO,Centro-Oeste,2022,33,225478.28,6832.68,5.8,18

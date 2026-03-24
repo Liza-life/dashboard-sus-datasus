@@ -1,0 +1,7 @@
+sus_pipeline:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: '../data/sus.duckdb'
+      threads: 4
