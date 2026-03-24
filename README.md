@@ -1,56 +1,81 @@
-# 🏥 Dashboard SUS — SIH/DATASUS
+# 🏥 SUS Decision Intelligence
 
-Pipeline completo de engenharia de dados com análise estratégica 
-de internações hospitalares do SIH/DATASUS (2022-2023).
+## 📊 Sobre o Projeto
 
-## 📊 Dashboard Power BI — 5 Páginas
+Plataforma de análise estratégica baseada em dados do SIH/DATASUS, focada em transformar dados públicos de saúde em decisões acionáveis.
 
-| Página | Descrição |
-|--------|-----------|
-| 1 | Visão Geral por Estado |
-| 2 | Top Doenças |
-| 3 | Sazonalidade |
-| 4 | Perfil Demográfico |
-| 5 | Visão Executiva |
+Este projeto vai além da visualização tradicional, incorporando análise de impacto, priorização e inteligência operacional.
 
-## 🔑 Principais Insights
+---
 
-- 💰 Infarto = 8% dos casos mas consome 24% do custo total
-- 👴 65+ anos concentra 34,9% de todas as internações
-- 🚨 60,29% de urgência — 2,4x acima da meta de 25%
-- 📈 Outubro = pico crítico de internações
-- 🗺️ SP concentra 25% do volume nacional
+## 🧠 O que torna este projeto diferente
 
-## 🛠️ Stack Tecnológica
+Este não é apenas um dashboard.
 
-- Python 3.9
-- DuckDB
-- dbt Core
-- Power BI
+Ele responde perguntas críticas como:
 
-## 🏗️ Arquitetura
-```
-projeto_sus/
-├── data/raw/
-├── ingestion/
-├── dbt_project/
-│   └── models/
-│       ├── bronze/
-│       ├── silver/
-│       └── gold/
-└── notebooks/
-```
+- Onde o sistema está gastando mais?
+- Quais doenças geram maior impacto financeiro?
+- Quando ocorrem os picos críticos?
+- Qual perfil populacional gera maior custo?
 
-## ▶️ Como Executar
+---
+
+## ⚙️ Arquitetura
+
+- Ingestão: DATASUS
+- Transformação: dbt Core
+- Armazenamento: DuckDB
+- Visualização: Power BI
+
+---
+
+## 📈 Principais Insights
+
+- Infarto representa baixo volume (~8%) mas alto impacto (~24%) → foco em prevenção
+- Outubro é o mês crítico de internações → planejamento antecipado
+- 65+ anos concentram maior custo do sistema
+- Estados como SP, RJ e PR apresentam alta urgência
+
+---
+
+## 🚀 Camadas Analíticas
+
+### 1. Visão Geral
+Análise por estado com custo, volume e urgência
+
+### 2. Top Doenças
+Correlação entre custo e volume (identificação de alto impacto)
+
+### 3. Sazonalidade
+Identificação de picos e tendências
+
+### 4. Perfil Demográfico
+Análise por faixa etária e sexo
+
+### 5. Visão Executiva
+Recomendações estratégicas e priorização de ações
+
+---
+
+## 🎯 Decisão Estratégica
+
+> O custo não está no volume — está na falta de prevenção.
+
+---
+
+## 📸 Dashboard
+
+![Visão Geral](dashboard/visao_geral.png)
+![Top Doenças](dashboard/top_doencas.png)
+![Sazonalidade](dashboard/sazonalidade.png)
+![Perfil Demográfico](dashboard/demografico.png)
+![Visão Executiva](dashboard/executivo.png)
+
+---
+
+## ▶️ Como executar
+
 ```bash
-# Instalar dependências
 pip install -r requirements.txt
-
-# Gerar dados
-python ingestion/download_datasus.py
-
-# Rodar transformações
-cd dbt_project
 dbt run
-dbt test
-```
